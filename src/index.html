@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BACEN Navigator - Normativas 2025</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-left">
+            <button class="btn-icon btn-menu" id="btn-menu" title="Menu">
+                <i class="fas fa-bars"></i>
+            </button>
+            <div class="logo">
+                <i class="fas fa-landmark"></i>
+                <span class="logo-text">BACEN Navigator</span>
+            </div>
+            <span class="version">v1.0</span>
+        </div>
+        <div class="header-center">
+            <h1>Normativas do Banco Central do Brasil - 2025</h1>
+        </div>
+        <div class="header-right">
+            <button class="btn-icon" id="btn-export" title="Exportar">
+                <i class="fas fa-download"></i>
+            </button>
+            <button class="btn-icon" id="btn-help" title="Ajuda">
+                <i class="fas fa-question-circle"></i>
+            </button>
+        </div>
+    </header>
+    
+    <!-- Overlay para fechar sidebar no mobile -->
+    <div class="sidebar-overlay" id="sidebar-overlay"></div>
+
+    <!-- Main Container -->
+    <div class="main-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-section">
+                <h3><i class="fas fa-search"></i> Buscar</h3>
+                <input type="text" id="search-input" placeholder="Buscar normativas...">
+            </div>
+
+            <div class="sidebar-section">
+                <h3><i class="fas fa-filter"></i> Filtros</h3>
+                
+                <div class="filter-group">
+                    <label>Tipo de Normativa</label>
+                    <div class="checkbox-group">
+                        <label class="checkbox-item">
+                            <input type="checkbox" id="filter-cmn" checked>
+                            <span class="checkmark cmn"></span>
+                            Resolução CMN
+                        </label>
+                        <label class="checkbox-item">
+                            <input type="checkbox" id="filter-bcb" checked>
+                            <span class="checkmark bcb"></span>
+                            Resolução BCB
+                        </label>
+                        <label class="checkbox-item">
+                            <input type="checkbox" id="filter-in" checked>
+                            <span class="checkmark in"></span>
+                            Instrução Normativa BCB
+                        </label>
+                    </div>
+                </div>
+
+                <div class="filter-group">
+                    <label>Mês</label>
+                    <select id="filter-month">
+                        <option value="">Todos os meses</option>
+                        <option value="01">Janeiro</option>
+                        <option value="02">Fevereiro</option>
+                        <option value="03">Março</option>
+                        <option value="04">Abril</option>
+                        <option value="05">Maio</option>
+                        <option value="06">Junho</option>
+                        <option value="07">Julho</option>
+                        <option value="08">Agosto</option>
+                        <option value="09">Setembro</option>
+                        <option value="10">Outubro</option>
+                        <option value="11">Novembro</option>
+                        <option value="12">Dezembro</option>
+                    </select>
+                </div>
+
+                <button class="btn-clear" id="btn-clear-filters">
+                    <i class="fas fa-times"></i> Limpar Filtros
+                </button>
+            </div>
+
+            <div class="sidebar-section">
+                <h3><i class="fas fa-chart-bar"></i> Estatísticas</h3>
+                <div class="stats">
+                    <div class="stat-item">
+                        <span class="stat-value" id="stat-total">0</span>
+                        <span class="stat-label">Total</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-value cmn-color" id="stat-cmn">0</span>
+                        <span class="stat-label">Res. CMN</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-value bcb-color" id="stat-bcb">0</span>
+                        <span class="stat-label">Res. BCB</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-value in-color" id="stat-in">0</span>
+                        <span class="stat-label">IN BCB</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="sidebar-section">
+                <h3><i class="fas fa-palette"></i> Legenda</h3>
+                <div class="legend">
+                    <div class="legend-item">
+                        <span class="legend-color cmn-bg"></span>
+                        <span>Resolução CMN</span>
+                    </div>
+                    <div class="legend-item">
+                        <span class="legend-color bcb-bg"></span>
+                        <span>Resolução BCB</span>
+                    </div>
+                    <div class="legend-item">
+                        <span class="legend-color in-bg"></span>
+                        <span>Instrução Normativa BCB</span>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Matrix Container -->
+        <main class="matrix-container">
+            <div class="matrix-header">
+                <div class="view-toggle">
+                    <button class="btn-view active" id="btn-matrix-view" title="Visualização em Matriz">
+                        <i class="fas fa-th"></i>
+                    </button>
+                    <button class="btn-view" id="btn-list-view" title="Visualização em Lista">
+                        <i class="fas fa-list"></i>
+                    </button>
+                    <button class="btn-view" id="btn-timeline-view" title="Visualização em Timeline">
+                        <i class="fas fa-stream"></i>
+                    </button>
+                </div>
+                <div class="matrix-info">
+                    <span id="visible-count">0</span> normativas visíveis
+                </div>
+            </div>
+
+            <!-- Matrix View -->
+            <div class="matrix" id="matrix-view">
+                <!-- Será preenchido dinamicamente pelo JavaScript -->
+            </div>
+
+            <!-- List View -->
+            <div class="list-view hidden" id="list-view">
+                <table class="normativas-table">
+                    <thead>
+                        <tr>
+                            <th>Tipo</th>
+                            <th>Nome</th>
+                            <th>Data</th>
+                            <th>Descrição</th>
+                            <th>Ações</th>
+                        </tr>
+                    </thead>
+                    <tbody id="list-body">
+                        <!-- Será preenchido dinamicamente -->
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Timeline View -->
+            <div class="timeline-view hidden" id="timeline-view">
+                <div class="timeline" id="timeline-content">
+                    <!-- Será preenchido dinamicamente -->
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Modal de Detalhes -->
+    <div class="modal" id="detail-modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Detalhes da Normativa</h2>
+                <button class="modal-close" id="modal-close">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="detail-row">
+                    <label>Tipo:</label>
+                    <span id="modal-type" class="badge"></span>
+                </div>
+                <div class="detail-row">
+                    <label>Nome:</label>
+                    <span id="modal-name"></span>
+                </div>
+                <div class="detail-row">
+                    <label>Data:</label>
+                    <span id="modal-date"></span>
+                </div>
+                <div class="detail-row">
+                    <label>Descrição:</label>
+                    <p id="modal-description"></p>
+                </div>
+                <div class="detail-row">
+                    <label>Link:</label>
+                    <a id="modal-link" href="#" target="_blank">
+                        <i class="fas fa-external-link-alt"></i> Acessar Normativa
+                    </a>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn-primary" id="btn-copy-link">
+                    <i class="fas fa-copy"></i> Copiar Link
+                </button>
+                <button class="btn-secondary" id="btn-close-modal">Fechar</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal de Ajuda -->
+    <div class="modal" id="help-modal">
+        <div class="modal-content modal-lg">
+            <div class="modal-header">
+                <h2>Ajuda - BACEN Navigator</h2>
+                <button class="modal-close" id="help-close">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h3>Sobre</h3>
+                <p>O BACEN Navigator é uma ferramenta inspirada no MITRE ATT&CK Navigator para visualização e navegação das normativas do Banco Central do Brasil publicadas em 2025.</p>
+                
+                <h3>Visualizações</h3>
+                <ul>
+                    <li><strong>Matriz:</strong> Visualização em grid organizada por tipo e mês</li>
+                    <li><strong>Lista:</strong> Visualização em tabela com todas as normativas</li>
+                    <li><strong>Timeline:</strong> Visualização cronológica das normativas</li>
+                </ul>
+
+                <h3>Filtros</h3>
+                <ul>
+                    <li><strong>Busca:</strong> Pesquise por texto no nome ou descrição</li>
+                    <li><strong>Tipo:</strong> Filtre por tipo de normativa</li>
+                    <li><strong>Mês:</strong> Filtre por mês de publicação</li>
+                </ul>
+
+                <h3>Interações</h3>
+                <ul>
+                    <li>Clique em uma célula para ver os detalhes</li>
+                    <li>Passe o mouse sobre uma célula para ver um resumo</li>
+                    <li>Use os botões de visualização para alternar entre modos</li>
+                </ul>
+
+                <h3>Tipos de Normativas</h3>
+                <div class="help-legend">
+                    <div class="legend-item">
+                        <span class="legend-color cmn-bg"></span>
+                        <span><strong>Resolução CMN:</strong> Conselho Monetário Nacional</span>
+                    </div>
+                    <div class="legend-item">
+                        <span class="legend-color bcb-bg"></span>
+                        <span><strong>Resolução BCB:</strong> Banco Central do Brasil</span>
+                    </div>
+                    <div class="legend-item">
+                        <span class="legend-color in-bg"></span>
+                        <span><strong>Instrução Normativa BCB:</strong> Instruções do BCB</span>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn-secondary" id="btn-close-help">Fechar</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Tooltip -->
+    <div class="tooltip" id="tooltip">
+        <div class="tooltip-content"></div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
