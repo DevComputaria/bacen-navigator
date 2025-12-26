@@ -5,6 +5,19 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/),
 e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [Unreleased]
+
+### Adicionado
+
+- Configuração Git Flow para gerenciamento de branches
+- Documentação Git Flow (`GITFLOW.md`)
+- Arquivo de configuração `.gitflow`
+
+### Alterado
+
+- Correções de lint nos arquivos Markdown
+- Atualização do workflow GitHub Pages
+
 ## [1.0.0] - 2025-12-25
 
 ### Adicionado

@@ -56,7 +56,7 @@ git flow hotfix finish 1.0.1
 
 ## Fluxo de Trabalho
 
-```
+```text
 main ─────●─────────────────●─────────────● (releases)
           │                 ↑             ↑
           │                 │             │
