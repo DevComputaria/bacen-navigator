@@ -1,0 +1,78 @@
+# Resolução BCB N° 526
+# Data: 3/12/2025 18:01
+# URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=526
+# DOU: Publicada no DOU de 5/12/2025, Seção 1, p. 237.
+================================================================================
+
+## Assunto
+Altera a Circular nº 4.015, de 4 de maio de 2020, que dispõe sobre o escopo de dados e serviços do Open Finance, e a Resolução BCB nº 32, de 29 de outubro de 2020, que estabelece os requisitos técnicos e os procedimentos operacionais para a implementação no País do Open Finance.
+
+## Referências
+Lei nº 4.595/1964, art. 9º.;#Resolução Conjunta BCB/CMN nº 1/2020, art. 51, inciso I.;#Altera Circular nº 4.015/2020 - Inclui: art. 6º-A.;#Altera Resolução BCB nº 32/2020 - Dá nova redação: art. 2º, inciso I, "c"; e art. 16-E, inciso I, "e" e "f". Inclui: art. 2º, inciso I, "e" e "f"; e art. 16-E, inciso I, "g". Revoga: art. 2º, inciso I, "d".;#
+
+## Texto
+Resolução Nº 526 
+RESOLUÇÃO BCB Nº 526, DE 3 DE DEZEMBRO DE
+2025 
+Altera
+a Circular nº 4.015, de 4 de maio de 2020, que dispõe sobre o escopo de dados e
+serviços do Open Finance, e a Resolução BCB nº 32, de 29 de outubro de
+2020, que estabelece os requisitos técnicos e os procedimentos operacionais
+para a implementação no País do Open Finance. 
+A Diretoria Colegiada do Banco
+Central do Brasil, em sessão realizada em 3 de dezembro de 2025, com base nos
+arts. 9º da Lei nº 4.595, de 31 de dezembro de 1964, e 51, caput , inciso
+I, da Resolução Conjunta nº 1, de 4 de maio de 2020, 
+R E S O L V E : 
+Art. 1º  A Circular nº 4.015,
+de 4 de maio de 2020, publicada no Diário Oficial da União de 5 de maio de
+2020, passa a vigorar com as seguintes alterações: 
+"Art.
+6º-A  Os serviços de portabilidade de operações de crédito, objeto de
+compartilhamento de que trata o art. 5º, caput , inciso II, alínea
+"c", da Resolução Conjunta nº 1, de 4 de maio de 2020, abrangem as
+modalidades de operações de crédito contratadas por pessoa natural, bem como
+operações de crédito contratadas por empresário individual ou por pessoa
+jurídica passíveis de contratação por pessoa natural, conforme definido pelo
+Banco Central do Brasil." (NR) 
+Art. 2º  A Resolução BCB nº 32,
+de 29 de outubro de 2020, publicada no Diário Oficial da União de 3 de novembro
+de 2020, passa a vigorar com as seguintes alterações: 
+"Art.
+2º 
+................................................................................................................................... 
+I -
+............................................................................................................................................. 
+................................................................................................................................................. 
+c)
+instituição prestadora de serviço de iniciação de transação de pagamento; 
+................................................................................................................................................. 
+e)
+instituição credora original; e 
+f)
+instituição proponente; 
+......................................................................................................................................."
+(NR) 
+"Art.
+16-E. 
+............................................................................................................................... 
+I -
+............................................................................................................................................. 
+................................................................................................................................................. 
+e)
+qualidade de dados; 
+f)
+experiência do cliente; e 
+g)
+etapas, prazos e acordos de níveis de serviço no que se refere ao serviço de
+portabilidade de operações de crédito; 
+......................................................................................................................................."
+(NR) 
+Art. 3º  Fica
+revogado o art. 2º, caput , inciso I, alínea "d", da Resolução
+BCB nº 32, de 29 de outubro de 2020, publicada no Diário
+Oficial da União de 3 de novembro de 2020 . 
+Art. 4º  Esta Resolução entra
+em vigor na data de sua publicação. 
+GILNEU FRANCISCO ASTOLFI VIVAN 
+Diretor de Regulação

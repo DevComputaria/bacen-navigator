@@ -1,0 +1,115 @@
+# Instrução Normativa BCB N° 682
+# Data: 19/11/2025 16:17
+# URL: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=682
+# DOU: Publicada no DOU de 21/11/2025, Seção 1, p. 136.
+================================================================================
+
+## Assunto
+Altera a Carta Circular nº 3.869, de 19 de março de 2018, que altera e consolida os procedimentos a serem observados na remessa de informações ao Sistema de Informações de Créditos – SCR, de que trata a Circular nº 3.870, de 19 de dezembro de 2017.
+
+
+## Referências
+Circular BCB nº 3.870/2017.;#Resolução BCB nº 340/2023, Anexo (Regimento Interno do BCB), arts. 23, inciso I, “a”, e 85, inciso I, "b".;#Resolução BCB nº 516/2025.;#Altera Carta Circular BCB nº 3.869/2018 - Dá nova redação: art. 14-A, caput. Inclui: art. 14-A, incisos I e II.;#
+
+## Texto
+Resolução Nº 222 
+INSTRUÇÃO NORMATIVA
+BCB Nº 682, DE 19 DE NOVEMBRO DE 2025 
+Altera
+a Carta Circular nº 3.869, de 19 de março de 2018, que altera e consolida os
+procedimentos a serem observados na remessa de informações ao Sistema de
+Informações de Créditos – SCR, de que trata a Circular nº 3.870, de 19 de
+dezembro de 2017. 
+O Chefe do Departamento
+de Monitoramento do Sistema Financeiro – Desig, no uso da atribuição que lhe
+confere o art. 23, inciso I, alínea “a”, do Regimento Interno do Banco Central
+do Brasil, anexo à Resolução BCB nº 340, de 21 de
+setembro de 2023 , com base, respectivamente, nos arts. 85, inciso I, alínea
+“b” do referido Regimento, tendo em vista o disposto na Circular nº 3.870, de
+19 de dezembro de 2017, com a redação dada pela Resolução BCB nº 516, de 29 de
+outubro de 2024, 
+R E S O L V E : 
+Art. 1º  A Carta Circular nº 3.869, de 19 de março de 2018,
+publicada no Diário Oficial da União de 20 de março de 2018, passa a vigorar
+com as seguintes alterações: 
+“ Art.
+14-A  A apuração e a remessa do documento de código 3044, de que tratam os arts.
+2º-A e 2º-B desta Instrução Normativa, deve ser feita a partir de: 
+I - 1º de maio de 2026, para as informações
+relacionadas a eventos relativos: 
+a) aos instrumentos que tenham
+características de operação de crédito rotativo; 
+b) às cessões e às aquisições de operações de
+crédito; e 
+c) às operações de crédito objeto de assunção
+de dívida ou de portabilidade; e 
+II - 1º de novembro de 2025, para as demais
+informações.” (NR) 
+Art. 2º  Foram feitas as seguintes modificações na instrução de
+preenchimento do documento 3044 – Dados de eventos em Operações de Crédito,
+disponível para acesso no endereço eletrônico https://www.bcb.gov.br/estabilidadefinanceira/scrdoc3040: 
+I - nas Instruções Gerais, item 3. Escopo da informação: inclusão
+de parágrafo com os esclarecimentos sobre as modalidades que devem ser apuradas
+e remetidas a partir de 1º de maio de 2026. 
+Art. 3º  Esta Instrução Normativa entra em vigor na data de sua
+publicação. 
+ANDRÉ
+MAURÍCIO TRINDADE DA ROCHA 
+NOTA 
+O Sistema de Informações de Créditos – SCR é um sistema em que são
+registradas as operações de crédito dos clientes cujo risco direto na
+instituição financeira (somatório de operações de crédito, repasses
+interfinanceiros, coobrigações, limites e créditos a liberar) é igual ou
+superior a R$ 200,00 (duzentos reais). A gestão do SCR é de competência do
+Banco Central, que recebe atualizações periódicas das instituições financeiras,
+de acordo com as diretrizes previstas no art. 2º da Resolução CMN nº 5.037, de
+29 de setembro de 2022, bem como nos termos da Circular nº 3.870, de 19 de
+dezembro de 2017. 
+2.               Os
+dados de crédito que constituem a base de dados do SCR são atualmente remetidos
+ao Banco Central pelas entidades supervisionadas em periodicidade mensal. Com a
+edição da Resolução BCB nº 413, de 19 de setembro de 2024, que altera a
+Circular nº 3.870, de 2017, ficou estabelecido que as informações sobre eventos
+que impliquem alteração do saldo devedor de operação de crédito também devem
+ser apuradas diariamente e remetidas ao Banco Central, a partir de 1º de
+novembro de 2025. 
+3.               Em
+9 de outubro de 2024, foi publicada a Instrução Normativa nº 530, alterando a
+Carta Circular nº 3.869, de 19 de março de 2018, e estabelecendo os
+procedimentos para a elaboração e a remessa do documento 3044 - Dados de
+Eventos em Operações de Crédito, a partir de 1º de novembro de 2025, tendo como
+base o disciplinado na Resolução BCB nº 413, de 19 de setembro de 2024, que por
+sua vez, havia alterado a Circular nº 3.870, de 2017. 
+4.               Em
+29 de outubro de 2025, foi publicada a Resolução BCB nº 516, alterando a Circular
+nº 3.870, de 2017, no sentido de prorrogar a elaboração e a remessa para 1º de
+maio de 2026, das informações relativas a eventos relacionados: 
+I -        aos instrumentos que tenham características de operação
+de crédito rotativo; 
+II -      às cessões e às aquisições de operações de crédito; e 
+III -     às operações de
+crédito objeto de assunção de dívida ou de portabilidade. 
+5.               Diante
+da publicação da Resolução BCB citada no parágrafo anterior, há a necessidade
+de se emitir nova Instrução Normativa alterando a Carta Circular nº 3.869, de
+2018, no sentido de se ajustar o cronograma de apuração e remessa do documento
+de código 3044 ao estabelecido naquela Resolução, além de comunicar a alteração
+na instrução de preenchimento do documento 3044 que detalha quais modalidades
+de eventos devem ser enviados a partir de novembro de 2025 e quais modalidades
+de eventos devem ser enviados a partir de maio de 2026. 
+6.               O
+Decreto nº 10.411, de 30 de junho de 2020, regulamenta a realização de análise
+de impacto regulatório – AIR como pré-requisito à edição de ato normativo. Em
+seu art. 4º o referido Decreto estabelece as hipóteses em que o AIR poderá ser
+dispensado. A presente Instrução normativa se enquadra no inciso VII - ato
+normativo que reduza exigências, obrigações, restrições, requerimentos ou
+especificações com o objetivo de diminuir os custos regulatórios, dado que
+atende a uma demanda das próprias instituições para terem mais tempo para
+adequarem seus sistemas para o envio do documento 3044. 
+7.               Assim,
+com base no disposto no parágrafo 6, entendo que o presente normativo está
+dispensado da realização de AIR. 
+ANDRÉ
+MAURÍCIO TRINDADE DA ROCHA 
+Chefe do Departamento de
+Monitoramento do Sistema Financeiro

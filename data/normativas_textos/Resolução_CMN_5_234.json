@@ -1,0 +1,26 @@
+{
+  "id": "normativos_52649",
+  "normativa_id": "Resolução_CMN_5_234",
+  "nome": "BC - Resolução CMN N° 5.234 de 01/07/2025",
+  "descricao": "Define os encargos financeiros e limites de crédito para as linhas de crédito e programas de que trata o Capítulo 7 (Encargos Financeiros e Limites de Crédito) e ajusta normas da Seção 4 (Metodologia de cálculo das Taxas de Juros do Crédito Rural – TCR) do Capítulo 2 (Condições Básicas) do Manual de Crédito Rural – MCR.",
+  "data": "2025-07-01T12:33:57-03:00",
+  "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5234",
+  "sucesso": true,
+  "erro": null,
+  "conteudo": {
+    "titulo": "",
+    "ementa": "",
+    "texto_completo": "",
+    "anexos": [],
+    "metadata": {
+      "description": "O Banco Central do Brasil tem o objetivo fundamental de assegurar a estabilidade de preços, zelar pela estabilidade do sistema financeiro, suavizar as flutuações do nível de atividade econômica e fomentar o pleno emprego.",
+      "viewport": "width=device-width, initial-scale=1",
+      "robots": "index, follow",
+      "AdsBot-Google": "noindex",
+      "theme-color": "#025c75",
+      "google-site-verification": "HrSauVp28E-CmIunToYrF1-gaMfDbWESxMFUDXFMqPA",
+      "og:image": "/assets/img/bc_60_selo_bg.png"
+    }
+  },
+  "status_code": 200
+}

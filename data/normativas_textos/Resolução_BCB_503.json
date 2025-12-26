@@ -1,0 +1,25 @@
+{
+  "id": "normativos_52705",
+  "nome": "BC - Resolução BCB N° 503 de 18/09/2025",
+  "descricao": "Altera a Resolução BCB nº 1, de 12 de agosto de 2020, que institui o arranjo de pagamentos Pix e aprova o seu regulamento, para ajustar dispositivos relacionados aos limites máximos de valor para transações no Pix.",
+  "data": "2025-09-18T18:03:15-03:00",
+  "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=503",
+  "tipo": "Resolução BCB",
+  "numero": "503",
+  "sucesso": true,
+  "erro": null,
+  "conteudo": {
+    "titulo": "Resolução BCB N° 503",
+    "tipo": "Resolução BCB",
+    "numero": 503.0,
+    "data": "2025-09-18T21:03:00Z",
+    "data_texto": "18/9/2025 18:03",
+    "assunto": "  Altera a Resolução BCB nº 1, de 12 de agosto de 2020, que institui o arranjo de pagamentos Pix e aprova o seu regulamento, para ajustar dispositivos relacionados aos limites máximos de valor para transações no Pix. ",
+    "dou": "Publicada no DOU de 19/9/2025, Seção 1, p. 117.",
+    "referencias": "Lei nº 4.595/1964, art. 10, inciso IV.;#Lei nº 10.214/2001, art. 10.;#Lei nº 12.865/2013, arts. 6º, 7º, 9º, 10, 14 e 15.;#Resolução CMN nº 4.282/2013.;#Comunicados BCB ns. 32.927/2018 e 34.085/2019.;#Altera regulamento anexo à Resolução BCB nº 1/2020 - Dá nova redação: art. 37, §§ 4º, incisos I e II, \"a\" e \"b\", e 5º. Inclui: art. 37, § 4º, inciso I, \"a\" e \"b\".;#",
+    "revogado": false,
+    "cancelado": false,
+    "texto": "Resolução Nº 503 \nRESOLUÇÃO\nBCB Nº 503, DE 18 DE SETEMBRO DE 2025 \nAltera a Resolução BCB\nnº 1, de 12 de agosto de 2020, que institui o arranjo de pagamentos Pix e\naprova o seu regulamento, para ajustar dispositivos relacionados aos limites máximos\nde valor para transações no Pix. \nA Diretoria Colegiada do Banco Central do Brasil, em sessão\nrealizada em 18 de setembro de 2025, com base no art. 10, caput , inciso\nIV, da Lei nº 4.595, de 31 de dezembro de 1964, no art. 10 da Lei nº 10.214, de\n27 de março de 2001, nos arts. 6º, 7º, 9º, 10, 14 e 15 da Lei nº 12.865, de 9\nde outubro de 2013, na Resolução nº 4.282, de 4 de novembro de 2013, no\nComunicado nº 32.927, de 21 de dezembro de 2018, e no Comunicado nº 34.085, de\n28 de agosto de 2019, \nR E S O L V E : \nArt. 1º  O regulamento anexo à Resolução BCB nº 1, de 12 de\nagosto de 2020, publicada no Diário Oficial da União de 13 de agosto de 2020,\npassa a vigorar com as seguintes alterações: \n“Art. 37.  .................................................................................................................................. \n................................................................................................................................................. \n§ 4º  O limite máximo de que trata o §\n3º não se aplica quando: \nI - o participante do Pix: \na) acessar a RSFN por meio de um PSTI\nque tenha concluído o processo de credenciamento no Banco Central do Brasil,\nnos termos da regulamentação em vigor; e \nb) demonstrar, por meio de relatório\nde asseguração razoável emitido por empresa de auditoria independente\nregistrada na Comissão de Valores Mobiliários – CVM, que: \n1. não compartilha com o PSTI as\nchaves privadas cadastradas no Banco Central do Brasil utilizadas para a\nassinatura das mensagens no âmbito do Pix; \n2. valida a integridade das transações\nantes da assinatura, assegurando que os dados não tenham sido corrompidos ou\nmanipulados durante o processo de geração da mensagem; \n3. utiliza certificados distintos para\nambientes diferentes (homologação e produção, por exemplo) para o Pix; e \n4. adota certificados separados para\nassinatura de mensagens e para o estabelecimento de canal no Pix; ou \nII - a transação: \na) tiver por participante destinatário\na Secretaria do Tesouro Nacional; ou \nb) for destinada ao pagamento de Guia\ndo FGTS Digital – GFD. \n§ 5º  Mediante solicitação do\nparticipante, o Banco Central do Brasil poderá dispensar, pelo prazo de noventa\ndias ou até que sejam atendidas as exigências previstas no § 4º, inciso I, o\nque ocorrer primeiro, a observância do limite de que trata o § 3º, desde que: \n.......................................................................................................................................”\n(NR) \nArt. 2º  Esta Resolução entra em vigor\nna data de sua publicação. \nRENATO\nDIAS DE BRITO GOMES \nDiretor\nde Organização do Sistema Financeiro e de Resolução",
+    "id_bcb": 52705
+  }
+}

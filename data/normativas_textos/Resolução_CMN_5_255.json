@@ -1,0 +1,26 @@
+{
+  "id": "normativos_52731",
+  "normativa_id": "Resolução_CMN_5_255",
+  "nome": "BC - Resolução CMN N° 5.255 de 10/10/2025",
+  "descricao": "Altera a Resolução nº 4.676, de 31 de julho de 2018, que dispõe sobre os integrantes do Sistema Brasileiro de Poupança e Empréstimo – SBPE, do Sistema Financeiro da Habitação – SFH e do Sistema de Financiamento Imobiliário – SFI, as condições gerais e os critérios para contratação de operação de crédito imobiliário pelas instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil e disciplina o direcionamento dos recursos captados em depósitos de poupança.",
+  "data": "2025-10-10T11:51:42-03:00",
+  "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5255",
+  "sucesso": true,
+  "erro": null,
+  "conteudo": {
+    "titulo": "",
+    "ementa": "",
+    "texto_completo": "",
+    "anexos": [],
+    "metadata": {
+      "description": "O Banco Central do Brasil tem o objetivo fundamental de assegurar a estabilidade de preços, zelar pela estabilidade do sistema financeiro, suavizar as flutuações do nível de atividade econômica e fomentar o pleno emprego.",
+      "viewport": "width=device-width, initial-scale=1",
+      "robots": "index, follow",
+      "AdsBot-Google": "noindex",
+      "theme-color": "#025c75",
+      "google-site-verification": "HrSauVp28E-CmIunToYrF1-gaMfDbWESxMFUDXFMqPA",
+      "og:image": "/assets/img/bc_60_selo_bg.png"
+    }
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "id": "normativos_52799",
+  "normativa_id": "Resolução_CMN_5_269",
+  "nome": "BC - Resolução CMN N° 5.269 de 18/12/2025",
+  "descricao": "Ajusta normas do Programa de Garantia de Preços para a Agricultura Familiar – PGPAF, no âmbito do Programa Nacional de Fortalecimento da Agricultura Familiar – Pronaf.",
+  "data": "2025-12-18T18:08:15-03:00",
+  "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5269",
+  "sucesso": true,
+  "erro": null,
+  "conteudo": {
+    "titulo": "",
+    "ementa": "",
+    "texto_completo": "",
+    "anexos": [],
+    "metadata": {
+      "description": "O Banco Central do Brasil tem o objetivo fundamental de assegurar a estabilidade de preços, zelar pela estabilidade do sistema financeiro, suavizar as flutuações do nível de atividade econômica e fomentar o pleno emprego.",
+      "viewport": "width=device-width, initial-scale=1",
+      "robots": "index, follow",
+      "AdsBot-Google": "noindex",
+      "theme-color": "#025c75",
+      "google-site-verification": "HrSauVp28E-CmIunToYrF1-gaMfDbWESxMFUDXFMqPA",
+      "og:image": "/assets/img/bc_60_selo_bg.png"
+    }
+  },
+  "status_code": 200
+}

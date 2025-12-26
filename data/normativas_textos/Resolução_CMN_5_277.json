@@ -1,0 +1,26 @@
+{
+  "id": "normativos_52808",
+  "normativa_id": "Resolução_CMN_5_277",
+  "nome": "BC - Resolução CMN N° 5.277 de 19/12/2025",
+  "descricao": "Estabelece as condições, os encargos financeiros, os prazos e as demais normas regulamentadoras aplicáveis às linhas de financiamento para aquisição de caminhões novos ou seminovos para renovação de frota, de que trata o art. 2º da Medida Provisória nº 1.328, de 16 de dezembro de 2025.",
+  "data": "2025-12-19T14:15:02-03:00",
+  "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5277",
+  "sucesso": true,
+  "erro": null,
+  "conteudo": {
+    "titulo": "",
+    "ementa": "",
+    "texto_completo": "",
+    "anexos": [],
+    "metadata": {
+      "description": "O Banco Central do Brasil tem o objetivo fundamental de assegurar a estabilidade de preços, zelar pela estabilidade do sistema financeiro, suavizar as flutuações do nível de atividade econômica e fomentar o pleno emprego.",
+      "viewport": "width=device-width, initial-scale=1",
+      "robots": "index, follow",
+      "AdsBot-Google": "noindex",
+      "theme-color": "#025c75",
+      "google-site-verification": "HrSauVp28E-CmIunToYrF1-gaMfDbWESxMFUDXFMqPA",
+      "og:image": "/assets/img/bc_60_selo_bg.png"
+    }
+  },
+  "status_code": 200
+}

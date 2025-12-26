@@ -1,0 +1,26 @@
+{
+  "id": "normativos_52730",
+  "normativa_id": "Resolução_CMN_5_254",
+  "nome": "BC - Resolução CMN N° 5.254 de 10/10/2025",
+  "descricao": "Altera a Resolução CMN nº 5.209, de 30 de abril de 2025, que estabelece os encargos financeiros, os prazos de financiamento e as comissões devidas pelo tomador de financiamento, a título de administração e risco de operações de financiamento com recursos do Fundo Social – FS, destinadas ao Programa Minha Casa, Minha Vida – PMCMV.",
+  "data": "2025-10-10T11:49:23-03:00",
+  "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5254",
+  "sucesso": true,
+  "erro": null,
+  "conteudo": {
+    "titulo": "",
+    "ementa": "",
+    "texto_completo": "",
+    "anexos": [],
+    "metadata": {
+      "description": "O Banco Central do Brasil tem o objetivo fundamental de assegurar a estabilidade de preços, zelar pela estabilidade do sistema financeiro, suavizar as flutuações do nível de atividade econômica e fomentar o pleno emprego.",
+      "viewport": "width=device-width, initial-scale=1",
+      "robots": "index, follow",
+      "AdsBot-Google": "noindex",
+      "theme-color": "#025c75",
+      "google-site-verification": "HrSauVp28E-CmIunToYrF1-gaMfDbWESxMFUDXFMqPA",
+      "og:image": "/assets/img/bc_60_selo_bg.png"
+    }
+  },
+  "status_code": 200
+}
