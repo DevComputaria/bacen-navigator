@@ -6,6 +6,9 @@ default: true
 # MD013 - Line length
 MD013: false
 
+# MD024 - Multiple headings with the same content (allowed for changelogs)
+MD024: false
+
 # MD033 - Inline HTML (needed for badges and images)
 MD033: false
 

@@ -13,16 +13,19 @@ O BACEN Navigator é uma ferramenta de visualização interativa para explorar e
 ## ✨ Funcionalidades
 
 ### Visualizações
+
 - **📊 Matriz**: Visualização em grid organizada por tipo de normativa e mês
 - **📋 Lista**: Tabela com todas as normativas ordenadas por data
 - **📅 Timeline**: Visualização cronológica das normativas
 
 ### Filtros
+
 - 🔍 **Busca por texto**: Pesquise no nome e descrição
 - 📌 **Tipo de normativa**: Resolução CMN, Resolução BCB, Instrução Normativa BCB
 - 📆 **Mês**: Filtre por mês de publicação
 
 ### Interações
+
 - 🖱️ Clique em uma célula para ver detalhes
 - 👆 Hover para ver resumo rápido
 - 🔗 Links diretos para as normativas no site do BCB
@@ -31,24 +34,28 @@ O BACEN Navigator é uma ferramenta de visualização interativa para explorar e
 ## 🚀 Como Usar
 
 ### Opção 1: Servidor Local (Python)
+
 ```bash
 cd bacen-navigator
 python -m http.server 8080
 ```
-Acesse: http://localhost:8080
+
+Acesse: <http://localhost:8080>
 
 ### Opção 2: Servidor Local (Node.js)
+
 ```bash
 cd bacen-navigator
 npx serve
 ```
 
 ### Opção 3: Live Server (VS Code)
+
 Instale a extensão "Live Server" e clique com botão direito no `index.html` → "Open with Live Server"
 
 ## 📁 Estrutura do Projeto
 
-```
+```text
 bacen-navigator/
 ├── index.html          # Estrutura HTML principal
 ├── styles.css          # Estilos CSS
@@ -83,12 +90,14 @@ bacen-navigator/
 ## 📝 Fonte dos Dados
 
 Os dados são extraídos dos feeds RSS do Banco Central do Brasil:
-- URL Base: https://www.bcb.gov.br/
+
+- URL Base: <https://www.bcb.gov.br/>
 - Categoria: Normativos
 
 ## 🔧 Desenvolvimento
 
 ### Atualizar dados
+
 Para atualizar os dados com novas normativas, execute o script de extração:
 
 ```bash
@@ -96,6 +105,7 @@ python extrair_normativas.py
 ```
 
 Depois copie o arquivo gerado para a pasta do navegador:
+
 ```bash
 cp normativas_2025.json bacen-navigator/
 ```
