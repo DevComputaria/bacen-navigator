@@ -1,0 +1,26 @@
+{
+  "id": "normativos_52805",
+  "normativa_id": "Resolução_CMN_5_275",
+  "nome": "BC - Resolução CMN N° 5.275 de 18/12/2025",
+  "descricao": "Institui bloqueio dinâmico, regionalizado ou integral ao enquadramento de operações no Programa de Garantia da Atividade Agropecuária – Proagro, em atendimento ao disposto no art. 66-B da Lei nº 8.171, de 17 de janeiro de 1991.",
+  "data": "2025-12-18T20:18:06-03:00",
+  "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5275",
+  "sucesso": true,
+  "erro": null,
+  "conteudo": {
+    "titulo": "",
+    "ementa": "",
+    "texto_completo": "",
+    "anexos": [],
+    "metadata": {
+      "description": "O Banco Central do Brasil tem o objetivo fundamental de assegurar a estabilidade de preços, zelar pela estabilidade do sistema financeiro, suavizar as flutuações do nível de atividade econômica e fomentar o pleno emprego.",
+      "viewport": "width=device-width, initial-scale=1",
+      "robots": "index, follow",
+      "AdsBot-Google": "noindex",
+      "theme-color": "#025c75",
+      "google-site-verification": "HrSauVp28E-CmIunToYrF1-gaMfDbWESxMFUDXFMqPA",
+      "og:image": "/assets/img/bc_60_selo_bg.png"
+    }
+  },
+  "status_code": 200
+}

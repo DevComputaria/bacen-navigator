@@ -1,0 +1,26 @@
+{
+  "id": "normativos_52674",
+  "normativa_id": "Resolução_CMN_5_241",
+  "nome": "BC - Resolução CMN N° 5.241 de 22/08/2025",
+  "descricao": "Propõe remanejar os sublimites autorizados para contratação de operações de crédito com os órgãos e as entidades do setor público para o exercício de 2025, por meio da modificação do Anexo à Resolução CMN nº 4.995, de 24 de março de 2022.",
+  "data": "2025-08-22T18:02:28-03:00",
+  "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5241",
+  "sucesso": true,
+  "erro": null,
+  "conteudo": {
+    "titulo": "",
+    "ementa": "",
+    "texto_completo": "",
+    "anexos": [],
+    "metadata": {
+      "description": "O Banco Central do Brasil tem o objetivo fundamental de assegurar a estabilidade de preços, zelar pela estabilidade do sistema financeiro, suavizar as flutuações do nível de atividade econômica e fomentar o pleno emprego.",
+      "viewport": "width=device-width, initial-scale=1",
+      "robots": "index, follow",
+      "AdsBot-Google": "noindex",
+      "theme-color": "#025c75",
+      "google-site-verification": "HrSauVp28E-CmIunToYrF1-gaMfDbWESxMFUDXFMqPA",
+      "og:image": "/assets/img/bc_60_selo_bg.png"
+    }
+  },
+  "status_code": 200
+}

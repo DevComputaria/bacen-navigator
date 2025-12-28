@@ -1,0 +1,26 @@
+{
+  "id": "normativos_52733",
+  "normativa_id": "Resolução_CMN_5_257",
+  "nome": "BC - Resolução CMN N° 5.257 de 10/10/2025",
+  "descricao": "Altera a Resolução CMN nº 5.247, de 19 de setembro de 2025, que cria linha de crédito rural com recursos de fontes supervisionadas pelo Ministério da Fazenda ou livres das instituições financeiras para liquidar ou amortizar operações de crédito rural e de Cédula de Produto Rural – CPR de produtores rurais cujas atividades foram prejudicadas por eventos adversos.",
+  "data": "2025-10-10T11:43:08-03:00",
+  "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5257",
+  "sucesso": true,
+  "erro": null,
+  "conteudo": {
+    "titulo": "",
+    "ementa": "",
+    "texto_completo": "",
+    "anexos": [],
+    "metadata": {
+      "description": "O Banco Central do Brasil tem o objetivo fundamental de assegurar a estabilidade de preços, zelar pela estabilidade do sistema financeiro, suavizar as flutuações do nível de atividade econômica e fomentar o pleno emprego.",
+      "viewport": "width=device-width, initial-scale=1",
+      "robots": "index, follow",
+      "AdsBot-Google": "noindex",
+      "theme-color": "#025c75",
+      "google-site-verification": "HrSauVp28E-CmIunToYrF1-gaMfDbWESxMFUDXFMqPA",
+      "og:image": "/assets/img/bc_60_selo_bg.png"
+    }
+  },
+  "status_code": 200
+}

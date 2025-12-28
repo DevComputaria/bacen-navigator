@@ -1,0 +1,25 @@
+{
+  "id": "normativos_52692",
+  "nome": "BC - Resolução BCB N° 497 de 05/09/2025",
+  "descricao": "Altera a Resolução BCB nº 256, de 1º de novembro de 2022, que regulamenta a Transferência Eletrônica Disponível – TED.",
+  "data": "2025-09-05T18:04:11-03:00",
+  "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=497",
+  "tipo": "Resolução BCB",
+  "numero": "497",
+  "sucesso": true,
+  "erro": null,
+  "conteudo": {
+    "titulo": "Resolução BCB N° 497",
+    "tipo": "Resolução BCB",
+    "numero": 497.0,
+    "data": "2025-09-05T21:04:00Z",
+    "data_texto": "5/9/2025 18:04",
+    "assunto": "Altera a Resolução BCB nº 256, de 1º de novembro de 2022, que regulamenta a Transferência Eletrônica Disponível – TED.",
+    "dou": "Publicada no DOU de 5/9/2025, Seção 1, p. 1.",
+    "referencias": "Lei nº 10.214/2001, art. 10.;#Resolução CMN nº 4952/2021, arts. 3º, 5º, inciso I, e 12.;#Altera Resolução BCB nº 256/2022 - Inclui: arts. 1º-A e 3º-A. Revoga: art. 1º, parágrafo único.;#",
+    "revogado": false,
+    "cancelado": false,
+    "texto": "Resolução Nº 497 \nRESOLUÇÃO BCB Nº 497, DE 5 DE SETEMBRO DE\n2025 \nAltera\na Resolução BCB nº 256, de 1º de novembro de 2022, que regulamenta a\nTransferência Eletrônica Disponível – TED. \nA Diretoria Colegiada do Banco\nCentral do Brasil, em sessão realizada em 3 de setembro de 2025, com base no\nart. 10 da Lei nº 10.214, de 27 de março de 2001, e nos arts. 3º, 5º, caput ,\ninciso I, e 12 da Resolução CMN nº 4.952, de 30 de setembro de 2021, \nR E S O L V E : \nArt. 1º  A Resolução BCB nº\n256, de 1º de novembro de 2022, publicada no Diário Oficial da União de 4 de\nnovembro de 2022, passa a vigorar com as seguintes alterações: \n“ Art. 1º-A  Para os fins do disposto nesta Resolução,\nconsidera-se: \nI -\nordem de transferência de fundos: ordem por meio da qual é comandada, em um\nsistema de liquidação de transferência de fundos, a transferência entre contas\nde liquidação de participantes; \nII -\nRede do Sistema Financeiro Nacional – RSFN: estrutura de comunicação de dados,\nque tem por finalidade amparar o tráfego de informações no âmbito do Sistema\nFinanceiro Nacional – SFN para serviços autorizados, nos termos da\nregulamentação em vigor; e \nIII -\nProvedor de Serviços de Tecnologia da Informação – PSTI: entidade autorizada a\nprestar serviços de processamento de dados, para fins de acesso à RSFN, a\ninstituições autorizadas a funcionar pelo Banco Central do Brasil, nos termos\nda regulamentação em vigor. ” (NR) \n“ Art. 3º-A  A TED a favor de cliente de valor igual ou\nsuperior a R$15.000,00 (quinze mil reais) não poderá ser emitida por\ninstituição que se conecta à RSFN por meio de PSTI. \n§ 1º  O\nlimite máximo de que trata o caput não se aplica quando a instituição: \nI -\nacessar a RSFN por meio de um PSTI que tenha concluído o processo de\ncredenciamento no Banco Central do Brasil, nos termos da regulamentação em\nvigor; e \nII -\ndemonstrar, por meio de relatório de asseguração razoável emitido por empresa\nde auditoria independente registrada na Comissão de Valores Mobiliários – CVM,\nque: \na) não\ncompartilha com o PSTI as chaves privadas cadastradas no Banco Central do\nBrasil utilizadas para a assinatura das mensagens; \nb)\nvalida a integridade das transações antes da assinatura, assegurando que os\ndados não tenham sido corrompidos ou manipulados durante o processo de geração\nda mensagem; e \nc)\nutiliza certificados distintos para ambientes diferentes. \n§ 2º  Mediante\nsolicitação da instituição, o Banco Central do Brasil poderá dispensar, pelo\nprazo de noventa dias ou até que sejam atendidas as exigências previstas no §\n1º, o que ocorrer primeiro, a observância do limite de que trata o caput ,\ndesde que: \nI - o\npedido seja instruído com documento formal que apresente as garantias e\ndescreva as medidas já adotadas pela instituição para o aprimoramento de seus\ncontroles de segurança da informação; e \nII - as\ngarantias e as medidas de que trata o inciso I sejam, a critério do Banco\nCentral do Brasil, adequadas para mitigar os riscos envolvidos. \n§ 3º  A\ndispensa prevista no § 2º: \nI -\nproduzirá efeitos a partir da comunicação formal ao participante da decisão do\nBanco Central do Brasil que acolher a solicitação; e \nII -\nserá disciplinada por ato conjunto do Departamento de Tecnologia da Informação –\nDeinf e do Departamento de Gestão Estratégica e Supervisão Especializada – Degef. ” (NR) \nArt. 2º  Fica revogado o parágrafo\núnico do art. 1º da Resolução BCB nº 256, de 1º de novembro de 2022, publicada\nno Diário Oficial da União de 4 de novembro de 2022. \nArt. 3º  Esta Resolução entra\nem vigor na data de sua publicação. \nDIOGO ABRY GUILLEN \nDiretor de Política Monetária substituto \nDiretor de Organização do Sistema Financeiro\ne de Resolução substituto",
+    "id_bcb": 52692
+  }
+}

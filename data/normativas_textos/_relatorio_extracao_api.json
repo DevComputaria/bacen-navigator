@@ -1,0 +1,43 @@
+{
+  "data_extracao": "2025-12-25T21:30:11.427040",
+  "duracao_segundos": 176.83246,
+  "estatisticas": {
+    "total": 187,
+    "sucesso": 181,
+    "falha": 6,
+    "erros": [
+      {
+        "nome": "BC - Portaria Conjunta N° 16 de 22/09/2025",
+        "erro": "Não foi possível extrair tipo/número de: BC - Portaria Conjunta N° 16 de 22/09/2025"
+      },
+      {
+        "nome": "BC - Resolução Conjunta N° 14 de 03/11/2025",
+        "erro": "Não foi possível extrair tipo/número de: BC - Resolução Conjunta N° 14 de 03/11/2025"
+      },
+      {
+        "nome": "BC - Resolução Conjunta N° 18 de 28/11/2025",
+        "erro": "Não foi possível extrair tipo/número de: BC - Resolução Conjunta N° 18 de 28/11/2025"
+      },
+      {
+        "nome": "BC - Resolução Conjunta N° 17 de 28/11/2025",
+        "erro": "Não foi possível extrair tipo/número de: BC - Resolução Conjunta N° 17 de 28/11/2025"
+      },
+      {
+        "nome": "BC - Resolução Conjunta N° 16 de 28/11/2025",
+        "erro": "Não foi possível extrair tipo/número de: BC - Resolução Conjunta N° 16 de 28/11/2025"
+      },
+      {
+        "nome": "BC - Resolução Conjunta N° 15 de 28/11/2025",
+        "erro": "Não foi possível extrair tipo/número de: BC - Resolução Conjunta N° 15 de 28/11/2025"
+      }
+    ]
+  },
+  "configuracao": {
+    "input_file": "normativas_2025.json",
+    "output_dir": "normativas_textos",
+    "delay_between_requests": 0.5,
+    "timeout": 30,
+    "retry_attempts": 3,
+    "retry_delay": 3
+  }
+}

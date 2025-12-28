@@ -1,0 +1,26 @@
+{
+  "id": "normativos_52682",
+  "normativa_id": "Resolução_CMN_5_243",
+  "nome": "BC - Resolução CMN N° 5.243 de 28/08/2025",
+  "descricao": "Altera a Resolução CMN nº 5.242, de 22 de agosto de 2025, que estabelece as condições, os encargos financeiros, os prazos e as demais normas regulamentadoras das linhas de financiamento de que trata o art. 5º-A da Lei nº 9.818, de 23 de agosto de 1999.",
+  "data": "2025-08-28T18:02:54-03:00",
+  "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5243",
+  "sucesso": true,
+  "erro": null,
+  "conteudo": {
+    "titulo": "",
+    "ementa": "",
+    "texto_completo": "",
+    "anexos": [],
+    "metadata": {
+      "description": "O Banco Central do Brasil tem o objetivo fundamental de assegurar a estabilidade de preços, zelar pela estabilidade do sistema financeiro, suavizar as flutuações do nível de atividade econômica e fomentar o pleno emprego.",
+      "viewport": "width=device-width, initial-scale=1",
+      "robots": "index, follow",
+      "AdsBot-Google": "noindex",
+      "theme-color": "#025c75",
+      "google-site-verification": "HrSauVp28E-CmIunToYrF1-gaMfDbWESxMFUDXFMqPA",
+      "og:image": "/assets/img/bc_60_selo_bg.png"
+    }
+  },
+  "status_code": 200
+}
