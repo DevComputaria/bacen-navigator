@@ -3,7 +3,7 @@
 Um navegador visual de normativas do Banco Central do Brasil, inspirado no [MITRE ATT&CK Navigator](https://github.com/mitre/attack-navigator).
 
 ![BACEN Navigator](https://img.shields.io/badge/version-1.0-blue)
-![Normativas](https://img.shields.io/badge/normativas-187-green)
+![Normativas](https://img.shields.io/badge/normativas-287-green)
 ![Ano](https://img.shields.io/badge/ano-2025-orange)
 
 ## 📋 Sobre
