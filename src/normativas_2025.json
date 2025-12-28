@@ -1307,5 +1307,705 @@
     "descricao": "Altera a Resolução nº 4.790, de 26 de março de 2020, que dispõe sobre procedimentos para autorização e cancelamento de autorização de débitos em conta de depósitos e em conta-salário.",
     "data": "2025-12-24T11:47:18-03:00",
     "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5278"
+  },
+  {
+    "id": "normativos_52815",
+    "nome": "BC - Instrução Normativa BCB N° 588 de 31/01/2025",
+    "descricao": "Divulga a versão 4.0 do Manual de Serviços Prestados pela Estrutura de Governança do Open Finance.",
+    "data": "2025-01-31T16:57:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=588"
+  },
+  {
+    "id": "normativos_52816",
+    "nome": "BC - Instrução Normativa BCB N° 587 de 31/01/2025",
+    "descricao": "Divulga a versão 6.0 do Manual de Escopo de Dados e Serviços do Open Finance.",
+    "data": "2025-01-31T16:32:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=587"
+  },
+  {
+    "id": "normativos_52817",
+    "nome": "BC - Resolução BCB N° 454 de 30/01/2025",
+    "descricao": "Dispõe sobre a Estratégia de Uso de Software e de Serviços de Computação em Nuvem do Banco Central do Brasil.",
+    "data": "2025-01-30T18:01:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=454"
+  },
+  {
+    "id": "normativos_52818",
+    "nome": "BC - Resolução BCB N° 453 de 30/01/2025",
+    "descricao": "Altera a Política de Auditoria Interna do Banco Central do Brasil.",
+    "data": "2025-01-30T18:00:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=453"
+  },
+  {
+    "id": "normativos_52819",
+    "nome": "BC - Instrução Normativa BCB N° 586 de 29/01/2025",
+    "descricao": "Altera as Instruções de preenchimento e o Leiaute do documento de código 2061 - Demonstrativo de Limites Operacionais (DLO), de que trata a Instrução Normativa BCB nº 81, de 23 de fevereiro de 2021.",
+    "data": "2025-01-29T16:03:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=586"
+  },
+  {
+    "id": "normativos_52820",
+    "nome": "BC - Instrução Normativa BCB N° 585 de 29/01/2025",
+    "descricao": "Divulga procedimentos e modelos de documentos necessários à instrução de pedidos de autorização relacionados a arranjos de pagamento integrantes do Sistema de Pagamentos Brasileiro (SPB).",
+    "data": "2025-01-29T13:39:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=585"
+  },
+  {
+    "id": "normativos_52821",
+    "nome": "BC - Instrução Normativa BCB N° 584 de 28/01/2025",
+    "descricao": "Detalha as rubricas contábeis a serem utilizadas na apuração dos requerimentos mínimos de Patrimônio de Referência Simplificado – PRS5 e de Patrimônio de Referência de Instituição de Pagamento – PRIP; e dos montantes dos ativos ponderados pelo risco na forma simplificada – RWAS5 e dos ativos ponderados pelo risco para instituição de pagamento – RWAIP.",
+    "data": "2025-01-28T14:24:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=584"
+  },
+  {
+    "id": "normativos_52822",
+    "nome": "BC - Instrução Normativa BCB N° 583 de 27/01/2025",
+    "descricao": "Altera o MCR - Documento 4 (Súmula de Julgamento e de Revisão do Pedido de Cobertura), do Manual de Crédito Rural (MCR).",
+    "data": "2025-01-27T09:46:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=583"
+  },
+  {
+    "id": "normativos_52823",
+    "nome": "BC - Resolução BCB N° 452 de 21/01/2025",
+    "descricao": "Altera as Resoluções BCB ns. 229, de 12 de maio de 2022, e 437, de 28 de novembro de 2024, e a Circular nº 3.748, de 27 de fevereiro de 2015.",
+    "data": "2025-01-21T18:00:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=452"
+  },
+  {
+    "id": "normativos_52824",
+    "nome": "BC - Resolução BCB N° 451 de 15/01/2025",
+    "descricao": "Divulga alterações no Regimento Interno do Banco Central do Brasil.",
+    "data": "2025-01-15T18:03:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=451"
+  },
+  {
+    "id": "normativos_52825",
+    "nome": "BC - Resolução BCB N° 450 de 15/01/2025",
+    "descricao": "Dispõe sobre as atividades essenciais para o cumprimento da missão institucional do Banco Central do Brasil, que devem ser mantidas em funcionamento em caso de paralisação ou greve.",
+    "data": "2025-01-15T18:02:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=450"
+  },
+  {
+    "id": "normativos_52826",
+    "nome": "BC - Resolução BCB N° 449 de 15/01/2025",
+    "descricao": "Dispõe sobre os efeitos financeiros da alteração promovida pela Resolução BCB nº 446, de 17 de dezembro de 2024, no Regulamento do Programa de Assistência à Saúde dos Servidores do Banco Central – PASBC.",
+    "data": "2025-01-15T18:02:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=449"
+  },
+  {
+    "id": "normativos_52827",
+    "nome": "BC - Instrução Normativa BCB N° 582 de 09/01/2025",
+    "descricao": "Dispõe sobre o cálculo do limite de alavancagem aplicável às operações de consórcio.",
+    "data": "2025-01-09T10:59:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=582"
+  },
+  {
+    "id": "normativos_52828",
+    "nome": "BC - Resolução CMN N° 5.201 de 27/02/2025",
+    "descricao": "Propõe alterar os limites globais anuais autorizados para contratação de operações de crédito com os órgãos e entidades do setor público para 2025 e 2026, por meio da modificação do Anexo à Resolução CMN nº 4.995, de 24 de março de 2022.",
+    "data": "2025-02-27T18:01:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5201"
+  },
+  {
+    "id": "normativos_52829",
+    "nome": "BC - Resolução BCB N° 456 de 25/02/2025",
+    "descricao": "Altera a Resolução BCB nº 264, de 25 de novembro de 2022, a Resolução BCB nº 308, de 28 de março de 2023, e a Resolução BCB nº 339, de 24 de agosto de 2023, para prever a não sujeição à aprovação, pelo Banco Central do Brasil, do conteúdo dos manuais técnicos operacionais das respectivas convenções e para incluir, na Resolução BCB nº 308, de 28 de março de 2023, a obrigatoriedade de as convenentes submeterem os manuais técnicos operacionais à certificação por empresa de auditoria independente.",
+    "data": "2025-02-25T18:00:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=456"
+  },
+  {
+    "id": "normativos_52830",
+    "nome": "BC - Resolução BCB N° 455 de 20/02/2025",
+    "descricao": "Divulga a Política de Governança de Produtos de Software do Banco Central do Brasil – PGPS-BC.",
+    "data": "2025-02-20T18:00:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=455"
+  },
+  {
+    "id": "normativos_52831",
+    "nome": "BC - Resolução CMN N° 5.200 de 20/02/2025",
+    "descricao": "Autoriza a prorrogação do prazo de pagamento das parcelas com vencimento previsto para 2025 das operações de crédito rural contratadas ou renegociadas por agricultores familiares, mini, pequenos e demais produtores rurais ao amparo da Resolução CMN nº 5.120, de 7 de fevereiro de 2024.",
+    "data": "2025-02-20T18:01:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5200"
+  },
+  {
+    "id": "normativos_52832",
+    "nome": "BC - Instrução Normativa BCB N° 590 de 05/02/2025",
+    "descricao": "Altera a Instrução Normativa BCB nº 330, de 24 de novembro de 2022, que consolida os procedimentos para o registro de informações cadastrais no Sistema de Informações sobre Entidades de Interesse do Banco Central (Unicad) de que trata a Resolução BCB nº 209, de 22 de março de 2022, dispondo sobre procedimentos para o registro de empresa contratada de que trata o art. 5º da Resolução Conjunta nº 6, de 23 de maio de 2023.",
+    "data": "2025-02-05T16:53:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=590"
+  },
+  {
+    "id": "normativos_52833",
+    "nome": "BC - Instrução Normativa BCB N° 589 de 04/02/2025",
+    "descricao": "Divulga a versão 7.1 do documento \"Requisitos Mínimos para a Experiência do Usuário\", que compõe o Regulamento do Pix.",
+    "data": "2025-02-04T15:29:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=589"
+  },
+  {
+    "id": "normativos_52834",
+    "nome": "BC - Instrução Normativa BCB N° 604 de 31/03/2025",
+    "descricao": "Altera o Leiaute e as Instruções de Preenchimento do documento 2080 - Posição de Cotas e de Grupos das Operações de Consórcio - Bens Imóveis e Móveis, de que trata a Instrução Normativa BCB nº 525, de 19 de setembro de 2024.",
+    "data": "2025-03-31T15:11:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=604"
+  },
+  {
+    "id": "normativos_52835",
+    "nome": "BC - Instrução Normativa BCB N° 603 de 28/03/2025",
+    "descricao": "Estabelece a forma de correção do saldo diário das operações de crédito rural que possuem componente de taxa de juros pós-fixado disposto na Seção 3 (Despesas), do Capítulo 2 (Condições Básicas), do Manual de Crédito Rural (MCR).",
+    "data": "2025-03-28T15:57:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=603"
+  },
+  {
+    "id": "normativos_52836",
+    "nome": "BC - Resolução CMN N° 5.203 de 27/03/2025",
+    "descricao": "Ajusta normas na Seção 1 (Disposições Gerais) do Capítulo 10 (Programa Nacional de Fortalecimento da Agricultura Familiar – Pronaf) do Manual de Crédito Rural – MCR para permitir o financiamento da comissão pecuniária exigida para a contratação da garantia do Fundo Garantidor para Investimentos – FGI, na modalidade Programa Emergencial de Acesso a Crédito – Peac, e do Fundo de Aval às Micro e Pequenas Empresas – Fampe, em operações de crédito rural contratadas ao amparo do Programa Nacional de Fortalecimento da Agricultura Familiar – Pronaf por cooperativas de produção agropecuária da agricultura familiar enquadradas no MCR 10-6-3.",
+    "data": "2025-03-27T18:01:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5203"
+  },
+  {
+    "id": "normativos_52837",
+    "nome": "BC - Resolução CMN N° 5.202 de 27/03/2025",
+    "descricao": "Altera a Resolução CMN nº 4.994, de 24 de março de 2022, que dispõe sobre as diretrizes de aplicação dos recursos garantidores dos planos administrados pelas entidades fechadas de previdência complementar.",
+    "data": "2025-03-27T18:01:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5202"
+  },
+  {
+    "id": "normativos_52838",
+    "nome": "BC - Instrução Normativa BCB N° 602 de 27/03/2025",
+    "descricao": "Altera a Carta Circular nº 3.869, de 19 de março de 2018, que altera e consolida os procedimentos a serem observados na remessa de informações ao Sistema de Informações de Créditos (SCR), de que trata a Circular nº 3.870, de 19 de dezembro de 2017.",
+    "data": "2025-03-27T15:31:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=602"
+  },
+  {
+    "id": "normativos_52839",
+    "nome": "BC - Instrução Normativa BCB N° 601 de 27/03/2025",
+    "descricao": "Altera e consolida os procedimentos para a remessa de demonstrações financeiras individuais e consolidadas, anuais, semestrais e intermediárias, para fins de divulgação na Central de Demonstrações Financeiras do Sistema Financeiro Nacional (CDSFN), de que trata a Resolução BCB nº 2, de 12 de agosto de 2020.",
+    "data": "2025-03-27T15:05:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=601"
+  },
+  {
+    "id": "normativos_52840",
+    "nome": "BC - Instrução Normativa BCB N° 600 de 27/03/2025",
+    "descricao": "Altera a Instrução Normativa BCB nº 195, de 9 de dezembro de 2021, que estabelece procedimentos de remessa do Balancete Patrimonial Analítico e do Balanço Patrimonial Analítico pelas instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil.",
+    "data": "2025-03-27T10:12:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=600"
+  },
+  {
+    "id": "normativos_52841",
+    "nome": "BC - Instrução Normativa BCB N° 599 de 27/03/2025",
+    "descricao": "Altera a Instrução Normativa BCB nº 524, de 18 de setembro de 2024, que estabelece os procedimentos para a remessa de informações diárias ao Banco Central do Brasil referentes aos saldos contábeis de natureza ativa e passiva e ao volume financeiro das transações de pagamento realizadas no dia, de que trata o art. 2º, incisos I e III, da Resolução BCB nº 208, de 22 de março de 2022.",
+    "data": "2025-03-27T09:53:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=599"
+  },
+  {
+    "id": "normativos_52842",
+    "nome": "BC - Instrução Normativa BCB N° 598 de 26/03/2025",
+    "descricao": "Altera a Instrução Normativa BCB nº 584, de 28 de janeiro de 2025.",
+    "data": "2025-03-26T15:55:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=598"
+  },
+  {
+    "id": "normativos_52843",
+    "nome": "BC - Instrução Normativa BCB N° 597 de 26/03/2025",
+    "descricao": "Estabelece o regramento dos ciclos de testes homologatórios a ser observado por instituições autorizadas, ou em processo de autorização, pelo Banco Central do Brasil, para o exercício das atividades de escrituração, registro e depósito centralizado de duplicata escritural.",
+    "data": "2025-03-26T14:21:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=597"
+  },
+  {
+    "id": "normativos_52844",
+    "nome": "BC - Resolução BCB N° 460 de 25/03/2025",
+    "descricao": "Encerra a publicação do Relatório de Economia Bancária – REB e revoga a Resolução BCB nº 56, de 16 de dezembro de 2020.",
+    "data": "2025-03-25T18:01:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=460"
+  },
+  {
+    "id": "normativos_52845",
+    "nome": "BC - Resolução BCB N° 459 de 25/03/2025",
+    "descricao": "Altera a Resolução BCB nº 339, de 24 de agosto de 2023, para dispor sobre testes homologatórios para fins de autorização de sistemas de escrituração, registro e depósito centralizado de duplicatas escriturais e sobre o cronograma de implementação das funcionalidades de interoperabilidade.",
+    "data": "2025-03-25T18:00:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=459"
+  },
+  {
+    "id": "normativos_52846",
+    "nome": "BC - Instrução Normativa BCB N° 596 de 24/03/2025",
+    "descricao": "Altera a Instrução Normativa nº 374, de 26 de Abril de 2023, que divulgou procedimentos, prazos, documentos e informações necessários para a instrução de pedidos de autorização relacionados ao funcionamento dos Sistemas de Mercado Financeiro (SMF) no âmbito do Sistema de Pagamentos Brasileiro (SPB), e os tipos de alterações nos SMF e em seus regulamentos que representam risco relevante à sua segurança, à sua eficiência ou à solidez e ao normal funcionamento do SPB ou do Sistema Financeiro Nacional (SFN).",
+    "data": "2025-03-24T12:16:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=596"
+  },
+  {
+    "id": "normativos_52847",
+    "nome": "BC - Instrução Normativa BCB N° 595 de 21/03/2025",
+    "descricao": "Divulga procedimentos, documentos e informações necessários para a instrução de pedidos de autorização e de cancelamento da autorização para o exercício da atividade de escrituração de duplicata escritural.",
+    "data": "2025-03-21T15:29:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=595"
+  },
+  {
+    "id": "normativos_52848",
+    "nome": "BC - Resolução BCB N° 458 de 20/03/2025",
+    "descricao": "Constitui grupo de trabalho interdepartamental – GTI, para organizar a atuação do Banco Central do Brasil na 30ª Conferência das Nações Unidas sobre Mudança do Clima – Conferência das Partes – COP30.",
+    "data": "2025-03-20T18:00:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=458"
+  },
+  {
+    "id": "normativos_52849",
+    "nome": "BC - Instrução Normativa BCB N° 594 de 19/03/2025",
+    "descricao": "Altera a Instrução Normativa BCB nº 491, de 23 de julho de 2024, que estabelece as diretrizes para cadastramento de dispositivo de acesso para a iniciação de transações Pix e para o gerenciamento de chaves Pix e define o valor máximo permitido para iniciar transações Pix em dispositivo de acesso não cadastrado, para ajustar regras relacionadas ao cadastramento de dispositivo de acesso.",
+    "data": "2025-03-19T16:09:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=594"
+  },
+  {
+    "id": "normativos_52850",
+    "nome": "BC - Instrução Normativa BCB N° 593 de 19/03/2025",
+    "descricao": "Divulga a versão 7.5 do Manual Operacional do Diretório de Identificadores de Contas Transacionais (DICT), que compõe o Regulamento do Pix.",
+    "data": "2025-03-19T16:06:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=593"
+  },
+  {
+    "id": "normativos_52851",
+    "nome": "BC - Instrução Normativa BCB N° 592 de 19/03/2025",
+    "descricao": "Prorroga a entrada em vigor da Instrução Normativa nº 590, de 5 de fevereiro de 2025, que altera a Instrução Normativa BCB nº 330, de 24 de novembro de 2022, que consolida os procedimentos para o registro de informações cadastrais no Sistema de Informações sobre Entidades de Interesse do Banco Central (Unicad) de que trata a Resolução BCB nº 209, de 22 de março de 2022, dispondo sobre procedimentos para o registro de empresa contratada de que trata o art. 5º da Resolução Conjunta nº 6, de 23 de maio de 2023.",
+    "data": "2025-03-19T10:45:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=592"
+  },
+  {
+    "id": "normativos_52852",
+    "nome": "BC - Instrução Normativa BCB N° 591 de 17/03/2025",
+    "descricao": "Divulga a versão 2.8.1 do Manual de Padrões para Iniciação do Pix, que compõe o Regulamento do Pix.",
+    "data": "2025-03-17T09:27:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=591"
+  },
+  {
+    "id": "normativos_52853",
+    "nome": "BC - Resolução BCB N° 457 de 06/03/2025",
+    "descricao": "Altera o regulamento anexo à Resolução BCB nº 1, de 12 de agosto de 2020, que institui o arranjo de pagamentos Pix e aprova o seu regulamento, para aprimorar mecanismos de segurança do Pix.",
+    "data": "2025-03-06T10:00:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=457"
+  },
+  {
+    "id": "normativos_52854",
+    "nome": "BC - Resolução CMN N° 5.209 de 30/04/2025",
+    "descricao": "Estabelece os encargos financeiros, os prazos de financiamento e as comissões devidas pelo tomador de financiamento, a título da administração e risco das operações de financiamento do Fundo Social destinadas ao Programa Minha Casa, Minha Vida – PMCMV.",
+    "data": "2025-04-30T20:21:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5209"
+  },
+  {
+    "id": "normativos_52855",
+    "nome": "BC - Resolução CMN N° 5.208 de 30/04/2025",
+    "descricao": "Altera a Resolução nº 4.676, de 31 de julho de 2018, que dispõe sobre as condições gerais e os critérios para contratação de financiamento imobiliário pelas instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil e disciplina o direcionamento dos recursos captados em depósitos de poupança.",
+    "data": "2025-04-30T20:19:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5208"
+  },
+  {
+    "id": "normativos_52856",
+    "nome": "BC - Resolução CMN N° 5.207 de 30/04/2025",
+    "descricao": "Altera a Resolução CMN nº 4.958, de 21 de outubro de 2021, que dispõe sobre a apuração dos requerimentos mínimos de Patrimônio de Referência – PR, de Nível I e de Capital Principal e sobre o Adicional de Capital Principal – ACP, e a Resolução nº 4.557, de 23 de fevereiro de 2017, que dispõe sobre a estrutura de gerenciamento de riscos, a estrutura de gerenciamento de capital e a política de divulgação de informações.",
+    "data": "2025-04-30T18:22:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5207"
+  },
+  {
+    "id": "normativos_52857",
+    "nome": "BC - Resolução CMN N° 5.206 de 28/04/2025",
+    "descricao": "Altera a Resolução nº 4.072, de 26 de abril de 2012, que altera e consolida as normas sobre a instalação, no País, de dependências de instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil.",
+    "data": "2025-04-28T18:00:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5206"
+  },
+  {
+    "id": "normativos_52858",
+    "nome": "BC - Resolução CMN N° 5.205 de 17/04/2025",
+    "descricao": "Altera a Resolução CMN nº 5.130, de 25 de abril de 2024, que dispõe sobre os financiamentos ao amparo da Linha de Mobilização de Capital Privado Externo e Proteção Cambial – Linha Eco Invest Brasil –, no âmbito do Fundo Nacional sobre Mudança do Clima – FNMC.",
+    "data": "2025-04-17T18:00:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5205"
+  },
+  {
+    "id": "normativos_52859",
+    "nome": "BC - Resolução CMN N° 5.204 de 04/04/2025",
+    "descricao": "Autoriza a prorrogação do prazo de pagamento das operações de crédito rural de custeio contratadas com recursos do Fundo Constitucional de Financiamento do Nordeste – FNE, no período de 2 de janeiro de 2022 a 31 de julho de 2022, por agricultores familiares, mini e pequenos produtores rurais.",
+    "data": "2025-04-04T18:01:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5204"
+  },
+  {
+    "id": "normativos_52860",
+    "nome": "BC - Resolução BCB N° 470 de 30/04/2025",
+    "descricao": "Estabelece os procedimentos para o cálculo, mediante abordagem padronizada, do valor diário da parcela dos ativos ponderados pelo risco – RWA relativa às sensibilidades dos instrumentos sujeitos ao risco de mercado – RWASENS e altera as Resoluções BCB ns. 200, de 11 de março de 2022, 111, de 6 de julho de 2021, 265, de 25 de novembro de 2022, e 313, de 26 de abril de 2023.",
+    "data": "2025-04-30T18:07:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=470"
+  },
+  {
+    "id": "normativos_52861",
+    "nome": "BC - Resolução BCB N° 469 de 30/04/2025",
+    "descricao": "Altera o Regulamento anexo à Resolução BCB nº 304, de 20 de março de 2023, com o objetivo de permitir que as câmaras e os prestadores de serviços de compensação e de liquidação aceitem o aporte de garantias no exterior de investidores residentes.",
+    "data": "2025-04-30T18:05:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=469"
+  },
+  {
+    "id": "normativos_52862",
+    "nome": "BC - Resolução BCB N° 468 de 30/04/2025",
+    "descricao": "Dispõe sobre a apuração e a remessa das informações de juros e encargos acumulados nas operações de cartão de crédito rotativo e de parcelamento de fatura referentes a cartões de crédito e a demais instrumentos de pagamento pós-pagos.",
+    "data": "2025-04-30T18:05:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=468"
+  },
+  {
+    "id": "normativos_52863",
+    "nome": "BC - Resolução BCB N° 467 de 30/04/2025",
+    "descricao": "Altera a Resolução BCB nº 443, de 12 de dezembro de 2024, que disciplina o arranjo de pagamento do boleto, as espécies do instrumento boleto, sua emissão e formas de apresentação, bem como a forma de liquidação das transferências de fundos a ele associadas.",
+    "data": "2025-04-30T18:04:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=467"
+  },
+  {
+    "id": "normativos_52864",
+    "nome": "BC - Resolução BCB N° 466 de 30/04/2025",
+    "descricao": "Altera a Resolução BCB nº 3, de 12 de agosto de 2020, que dispõe sobre informações e procedimentos para autorização para instalação de agências no país e sobre o fornecimento de informações de dependências das instituições financeiras e das demais instituições autorizadas a funcionar pelo Banco Central do Brasil.",
+    "data": "2025-04-30T18:03:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=466"
+  },
+  {
+    "id": "normativos_52865",
+    "nome": "BC - Resolução BCB N° 465 de 29/04/2025",
+    "descricao": "Dispõe sobre as despesas a serem executadas com a concessão de diárias e passagens e com a realização de eventos.",
+    "data": "2025-04-29T18:02:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=465"
+  },
+  {
+    "id": "normativos_52866",
+    "nome": "BC - Resolução BCB N° 464 de 29/04/2025",
+    "descricao": "Estabelece regras e critérios para o afastamento de servidores integrantes da Carreira de Especialista do Banco Central do Brasil para servir em organismo internacional de que o Brasil participe ou com o qual coopere.",
+    "data": "2025-04-29T18:01:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=464"
+  },
+  {
+    "id": "normativos_52867",
+    "nome": "BC - Resolução BCB N° 463 de 22/04/2025",
+    "descricao": "Dispõe sobre regras gerais relativas a testes em produção no Open Finance.",
+    "data": "2025-04-22T18:00:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=463"
+  },
+  {
+    "id": "normativos_52868",
+    "nome": "BC - Resolução BCB N° 462 de 09/04/2025",
+    "descricao": "Aprova o regulamento do Comitê de Administração – Coad do Banco Central do Brasil.",
+    "data": "2025-04-09T18:03:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=462"
+  },
+  {
+    "id": "normativos_52869",
+    "nome": "BC - Resolução BCB N° 461 de 09/04/2025",
+    "descricao": "Altera o regulamento das reuniões da Diretoria Colegiada do Banco Central do Brasil, anexo à Resolução BCB nº 405, de 1º de agosto de 2024.",
+    "data": "2025-04-09T18:02:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=461"
+  },
+  {
+    "id": "normativos_52870",
+    "nome": "BC - Instrução Normativa BCB N° 613 de 30/04/2025",
+    "descricao": "Altera a Instrução Normativa BCB nº 511, de 30 de agosto de 2024, que estabelece os procedimentos necessários para a adesão ao Pix, para ajustar dispositivos referentes a prazos do Pix Automático.",
+    "data": "2025-04-30T11:03:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=613"
+  },
+  {
+    "id": "normativos_52871",
+    "nome": "BC - Instrução Normativa BCB N° 612 de 25/04/2025",
+    "descricao": "Altera Instrução Normativa BCB nº 385, de 30 de maio de 2023.",
+    "data": "2025-04-25T11:51:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=612"
+  },
+  {
+    "id": "normativos_52872",
+    "nome": "BC - Instrução Normativa BCB N° 611 de 22/04/2025",
+    "descricao": "Dispõe sobre os tipos de ativos financeiros passíveis de vinculação a boletos de cobrança dinâmicos.",
+    "data": "2025-04-22T11:30:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=611"
+  },
+  {
+    "id": "normativos_52873",
+    "nome": "BC - Instrução Normativa BCB N° 610 de 16/04/2025",
+    "descricao": "Dispõe sobre procedimentos e orientações técnicas aplicáveis às instituições financeiras que optarem por utilizar operação de crédito rural vinculada a repasse interfinanceiro para cumprimento de exigibilidades do crédito rural, na forma do MCR 6-1-14.",
+    "data": "2025-04-16T10:01:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=610"
+  },
+  {
+    "id": "normativos_52874",
+    "nome": "BC - Instrução Normativa BCB N° 609 de 11/04/2025",
+    "descricao": "Dispõe sobre as informações que devem constar no relatório de que trata o art. 123, § 3º, inciso III da Resolução BCB nº 303, de 16 de março de 2023, faculta a etapa de análise preliminar e esclarece sobre a avaliação da candidatura.",
+    "data": "2025-04-11T10:49:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=609"
+  },
+  {
+    "id": "normativos_52875",
+    "nome": "BC - Instrução Normativa BCB N° 608 de 08/04/2025",
+    "descricao": "Altera a Instrução Normativa BCB nº 282, de 27 de abril de 2022, que estabelece os modelos de documentos nº 6 – Demonstração dos Recursos de Consórcio e nº 7 – Demonstração das Variações das Disponibilidades de Grupos do Padrão Contábil das Instituições Reguladas pelo Banco Central do Brasil (Cosif).",
+    "data": "2025-04-08T19:35:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=608"
+  },
+  {
+    "id": "normativos_52876",
+    "nome": "BC - Instrução Normativa BCB N° 607 de 03/04/2025",
+    "descricao": "Prorroga a data-limite de remessa da data-base de fevereiro de 2025 do documento de código 2061 - Demonstrativo de Limites Operacionais – DLO, de que trata a Instrução Normativa nº 81, de 23 de fevereiro de 2021.",
+    "data": "2025-04-03T16:22:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=607"
+  },
+  {
+    "id": "normativos_52877",
+    "nome": "BC - Instrução Normativa BCB N° 606 de 03/04/2025",
+    "descricao": "Estabelece orientações sobre o processo de elaboração e submissão da convenção que disporá sobre os eventos de crédito a serem utilizados pelas instituições autorizadas a funcionar pelo Banco Central do Brasil nas operações de derivativos de crédito contratadas no país ou na emissão de certificados de operações estruturadas (COE) na modalidade risco de crédito, conforme previsto na regulamentação específica desses produtos.",
+    "data": "2025-04-03T11:55:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=606"
+  },
+  {
+    "id": "normativos_52878",
+    "nome": "BC - Instrução Normativa BCB N° 605 de 01/04/2025",
+    "descricao": "Altera a Instrução Normativa BCB nº 589, de 4 de fevereiro de 2025, que divulga a versão 7.1 do documento \"Requisitos Mínimos para a Experiência do Usuário\", que compõe o Regulamento do Pix, para modificar data de entrada em vigor.",
+    "data": "2025-04-01T11:03:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=605"
+  },
+  {
+    "id": "normativos_52879",
+    "nome": "BC - Resolução CMN N° 5.223 de 30/05/2025",
+    "descricao": "Dispõe sobre o requerimento mínimo para a Razão de Alavancagem – RA e as condições para seu cumprimento.",
+    "data": "2025-05-30T09:03:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5223"
+  },
+  {
+    "id": "normativos_52880",
+    "nome": "BC - Resolução CMN N° 5.222 de 30/05/2025",
+    "descricao": "Altera a Resolução nº 4.557, de 23 de fevereiro de 2017, que dispõe sobre a estrutura de gerenciamento de riscos, a estrutura de gerenciamento de capital e a política de divulgação de informações, e a Resolução nº 4.401, de 27 de fevereiro de 2015, que dispõe sobre os limites mínimos do indicador Liquidez de Curto Prazo – LCR e as condições para sua observância.",
+    "data": "2025-05-30T09:02:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5222"
+  },
+  {
+    "id": "normativos_52881",
+    "nome": "BC - Resolução CMN N° 5.221 de 30/05/2025",
+    "descricao": "Altera a Resolução CMN nº 4.911, de 27 de maio de 2021, que dispõe sobre os critérios gerais para elaboração e remessa de documentos contábeis ao Banco Central do Brasil pelas instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil, e a Resolução CMN nº 4.950, de 30 de setembro de 2021, que dispõe sobre os critérios contábeis aplicáveis às instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil na elaboração dos documentos contábeis consolidados do conglomerado prudencial.",
+    "data": "2025-05-30T09:01:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5221"
+  },
+  {
+    "id": "normativos_52882",
+    "nome": "BC - Resolução CMN N° 5.220 de 29/05/2025",
+    "descricao": "Autoriza a prorrogação do prazo de pagamento das operações de crédito rural de custeio contratadas por produtores rurais.",
+    "data": "2025-05-29T19:13:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5220"
+  },
+  {
+    "id": "normativos_52883",
+    "nome": "BC - Resolução CMN N° 5.219 de 29/05/2025",
+    "descricao": "Define condições especiais para o financiamento de capital de giro destinado a cooperativas agropecuárias no âmbito do Programa Nacional de Fortalecimento da Agricultura Familiar – Pronaf e do Programa de Capitalização de Cooperativas Agropecuárias – Procap-Agro.",
+    "data": "2025-05-29T19:12:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5219"
+  },
+  {
+    "id": "normativos_52884",
+    "nome": "BC - Resolução CMN N° 5.218 de 26/05/2025",
+    "descricao": "Altera a Resolução nº 4.753, de 26 de setembro de 2019, que dispõe sobre a abertura, a manutenção e o encerramento de conta de depósitos.",
+    "data": "2025-05-26T09:00:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5218"
+  },
+  {
+    "id": "normativos_52885",
+    "nome": "BC - Resolução CMN N° 5.217 de 22/05/2025",
+    "descricao": "Altera o art. 3º da Resolução CMN nº 5.140, de 5 de junho de 2024, que estabelece a previsão de cláusula de compromisso de manutenção ou ampliação do número de empregos existentes anteriormente à calamidade pública nas linhas de financiamento de que trata o art. 47-A da Lei nº 12.351, de 22 de dezembro de 2010.",
+    "data": "2025-05-22T18:02:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5217"
+  },
+  {
+    "id": "normativos_52886",
+    "nome": "BC - Resolução CMN N° 5.216 de 22/05/2025",
+    "descricao": "Altera o percentual da exigibilidade e das subexigibilidades dos recursos obrigatórios (MCR 6-2), estende às cooperativas de crédito a exigibilidade do MCR 6-2, altera o percentual da exigibilidade dos recursos da poupança rural (MCR 6-4) e dos recursos captados por meio da emissão de Letra de Crédito do Agronegócio (MCR 6-7) e ajusta outros dispositivos do MCR 6-7.",
+    "data": "2025-05-22T18:02:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5216"
+  },
+  {
+    "id": "normativos_52887",
+    "nome": "BC - Resolução CMN N° 5.215 de 22/05/2025",
+    "descricao": "Altera a Resolução nº 4.410, de 28 de maio de 2015, que dispõe sobre a Letra de Crédito Imobiliário – LCI, e a Resolução CMN nº 5.006, de 24 de março de 2022, que dispõe sobre a Letra de Crédito do Agronegócio – LCA.",
+    "data": "2025-05-22T18:01:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5215"
+  },
+  {
+    "id": "normativos_52888",
+    "nome": "BC - Resolução CMN N° 5.214 de 22/05/2025",
+    "descricao": "Altera a Resolução CMN nº 4.955, de 21 de outubro de 2021, que dispõe sobre a metodologia para apuração do Patrimônio de Referência – PR.",
+    "data": "2025-05-22T18:01:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5214"
+  },
+  {
+    "id": "normativos_52889",
+    "nome": "BC - Resolução CMN N° 5.213 de 22/05/2025",
+    "descricao": "Define os recursos para os financiamentos ao amparo do Fundo de Defesa da Economia Cafeeira – Funcafé.",
+    "data": "2025-05-22T18:00:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5213"
+  },
+  {
+    "id": "normativos_52890",
+    "nome": "BC - Resolução CMN N° 5.212 de 22/05/2025",
+    "descricao": "Altera a Resolução CMN nº 5.118, de 1º de fevereiro de 2024, que dispõe sobre o lastro da emissão de Certificados de Recebíveis do Agronegócio – CRAs, de Certificados de Recebíveis Imobiliários – CRIs e de Certificados de Direitos Creditórios do Agronegócio – CDCAs.",
+    "data": "2025-05-22T18:00:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5212"
+  },
+  {
+    "id": "normativos_52891",
+    "nome": "BC - Resolução CMN N° 5.211 de 12/05/2025",
+    "descricao": "Estabelece limites e condições para execução do acordo de swap de moedas entre o Banco Central do Brasil e o Banco Popular da China.",
+    "data": "2025-05-12T18:30:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5211"
+  },
+  {
+    "id": "normativos_52892",
+    "nome": "BC - Resolução CMN N° 5.210 de 09/05/2025",
+    "descricao": "Estabelece regras para os recursos captados por meio de emissão de Letra de Crédito do Agronegócio – LCA por cooperativas de crédito integrantes de sistemas cooperativos e disciplina o cumprimento do direcionamento de aplicação em crédito rural advindo dessa captação, de que trata a Seção 7 (Letra de Crédito do Agronegócio – LCA) do Capítulo 6 (Recursos) do Manual de Crédito Rural – MCR.",
+    "data": "2025-05-09T18:18:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5210"
+  },
+  {
+    "id": "normativos_52893",
+    "nome": "BC - Resolução BCB N° 478 de 30/05/2025",
+    "descricao": "Dispõe sobre o escopo e a metodologia de apuração da Razão de Alavancagem – RA, introduz requerimento mínimo de RA para instituição do Tipo 3 e implementa condições para a exclusão de exposições entre integrantes de um mesmo sistema cooperativo.",
+    "data": "2025-05-30T09:04:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=478"
+  },
+  {
+    "id": "normativos_52894",
+    "nome": "BC - Resolução BCB N° 477 de 30/05/2025",
+    "descricao": "Altera a Resolução BCB nº 265, de 25 de novembro de 2022, que dispõe sobre a estrutura de gerenciamento de riscos, a estrutura de gerenciamento de capital e a política de divulgação de informações de instituição classificada como Tipo 3 enquadrada no Segmento 2 – S2, Segmento 3 – S3 ou Segmento 4 – S4.",
+    "data": "2025-05-30T09:04:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=477"
+  },
+  {
+    "id": "normativos_52895",
+    "nome": "BC - Resolução BCB N° 476 de 26/05/2025",
+    "descricao": "Altera a Resolução BCB nº 96, de 19 de maio de 2021, que dispõe sobre a abertura, a manutenção e o encerramento de contas de pagamento.",
+    "data": "2025-05-26T09:01:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=476"
+  },
+  {
+    "id": "normativos_52896",
+    "nome": "BC - Resolução BCB N° 475 de 26/05/2025",
+    "descricao": "Dispõe sobre sistema de comunicação de restrição a contratações no Sistema Financeiro Nacional.",
+    "data": "2025-05-26T09:00:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=475"
+  },
+  {
+    "id": "normativos_52897",
+    "nome": "BC - Resolução BCB N° 474 de 22/05/2025",
+    "descricao": "Altera a Resolução BCB nº 199, de 11 de março de 2022, que dispõe sobre a metodologia para apuração do Patrimônio de Referência – PR para instituição classificada como Tipo 3.",
+    "data": "2025-05-22T18:03:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=474"
+  },
+  {
+    "id": "normativos_52898",
+    "nome": "BC - Resolução BCB N° 473 de 20/05/2025",
+    "descricao": "Altera a Resolução BCB nº 76, de 23 de fevereiro de 2021, e a Resolução BCB nº 350, de 8 de novembro de 2023, para refletir mudanças operacionais na execução dos instrumentos de atuação do Banco Central do Brasil no mercado de câmbio brasileiro.",
+    "data": "2025-05-20T18:30:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=473"
+  },
+  {
+    "id": "normativos_52899",
+    "nome": "BC - Resolução BCB N° 472 de 08/05/2025",
+    "descricao": "Disciplina a padronização dos eventos de interoperabilidade passíveis de cobrança entre entidades registradoras de recebíveis de arranjos de pagamento e estabelece os limites máximos para os valores dessas tarifas e as suas formas de cobrança.",
+    "data": "2025-05-08T18:00:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=472"
+  },
+  {
+    "id": "normativos_52900",
+    "nome": "BC - Resolução BCB N° 471 de 08/05/2025",
+    "descricao": "Altera a Circular nº 3.614, de 14 de novembro de 2012, que dispõe sobre as condições de emissão de Letra de Crédito Imobiliário.",
+    "data": "2025-05-08T18:00:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=471"
+  },
+  {
+    "id": "normativos_52901",
+    "nome": "BC - Instrução Normativa BCB N° 627 de 29/05/2025",
+    "descricao": "Altera o Leiaute, as Instruções de Preenchimento, e as Instruções complementares relativas a informações de operações de crédito voltadas a programas governamentais relativos ao documento 3040 - Dados de Risco de Crédito, do Sistema de Informações de Créditos (SCR), de que tratam a Circular nº 3.870, de 19 de dezembro de 2017, e a Carta Circular nº 3.869, de 19 de março de 2018.",
+    "data": "2025-05-29T12:38:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=627"
+  },
+  {
+    "id": "normativos_52902",
+    "nome": "BC - Instrução Normativa BCB N° 626 de 29/05/2025",
+    "descricao": "Altera a Instrução Normativa BCB nº 297, de 23 de agosto de 2022, que consolida os procedimentos a serem observados na remessa de informações sobre relacionamentos de cooperativa.",
+    "data": "2025-05-29T12:29:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=626"
+  },
+  {
+    "id": "normativos_52903",
+    "nome": "BC - Instrução Normativa BCB N° 625 de 29/05/2025",
+    "descricao": "Altera a versão 7.1 do documento \"Requisitos Mínimos para a Experiência do Usuário\", divulgada pela Instrução Normativa BCB nº 589, de 4 de fevereiro de 2025.",
+    "data": "2025-05-29T09:47:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=625"
+  },
+  {
+    "id": "normativos_52904",
+    "nome": "BC - Instrução Normativa BCB N° 624 de 22/05/2025",
+    "descricao": "Dispõe sobre os procedimentos de solicitações de autorização para classificação diversa na carteira de negociação quando do reconhecimento contábil inicial, para reclassificação de uma operação específica para a carteira bancária ou para a carteira de negociação e para a constituição de mesa de operações dedicada ao registro de transferências internas de riscos com efeitos no requerimento de capital, de que tratam a Resolução CMN nº 4.557, de 23 de fevereiro de 2017, a Resolução BCB nº 265, de 25 de novembro de 2022, e a Resolução BCB nº 111, de 6 de julho de 2021.",
+    "data": "2025-05-22T12:01:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=624"
+  },
+  {
+    "id": "normativos_52905",
+    "nome": "BC - Instrução Normativa BCB N° 623 de 21/05/2025",
+    "descricao": "Altera a Instrução Normativa nº 330, de 24 de novembro de 2022, que consolida os procedimentos para o registro de informações cadastrais no Sistema de Informações sobre Entidades de Interesse do Banco Central – Unicad, de que trata a Resolução BCB nº 209, de 22 de março de 2022.",
+    "data": "2025-05-21T17:38:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=623"
+  },
+  {
+    "id": "normativos_52906",
+    "nome": "BC - Instrução Normativa BCB N° 622 de 15/05/2025",
+    "descricao": "Altera o leiaute do Documento 6209 para elaboração e remessa de informações periódicas relativas a pagamentos de varejo e canais de atendimento previsto na Instrução Normativa nº 335, de 8 de dezembro de 2022.",
+    "data": "2025-05-15T15:39:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=622"
+  },
+  {
+    "id": "normativos_52907",
+    "nome": "BC - Instrução Normativa BCB N° 621 de 13/05/2025",
+    "descricao": "Estabelece os procedimentos para a remessa de informações mensais ao Banco Central do Brasil referentes aos juros e encargos acumulados nas operações de cartão de crédito rotativo e de parcelamento de fatura referentes a cartões de crédito e demais instrumentos de pagamento pós-pagos, de que trata a Resolução BCB nº 468, de 30 de abril de 2025.",
+    "data": "2025-05-13T10:21:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=621"
+  },
+  {
+    "id": "normativos_52908",
+    "nome": "BC - Instrução Normativa BCB N° 620 de 09/05/2025",
+    "descricao": "Consolida as instruções relativas à utilização do Sistema de Controle de Remessa de Documentos – CRD.",
+    "data": "2025-05-09T14:51:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=620"
+  },
+  {
+    "id": "normativos_52909",
+    "nome": "BC - Instrução Normativa BCB N° 619 de 09/05/2025",
+    "descricao": "Altera as Instruções Normativas BCB ns. 426, 428, 429, 431, 432 e 433, todas de 1º de dezembro de 2023, que definem rubricas contábeis do elenco de contas do Padrão Contábil das Instituições Reguladas pelo Banco Central do Brasil (Cosif).",
+    "data": "2025-05-09T11:53:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=619"
+  },
+  {
+    "id": "normativos_52910",
+    "nome": "BC - Instrução Normativa BCB N° 618 de 07/05/2025",
+    "descricao": "Documento cancelado.",
+    "data": "2025-05-07T10:39:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=618"
+  },
+  {
+    "id": "normativos_52911",
+    "nome": "BC - Instrução Normativa BCB N° 617 de 06/05/2025",
+    "descricao": "Altera a Instrução Normativa BCB nº 85, de 10 de março de 2021, que estabelece os procedimentos para a remessa das informações relativas às apurações de limites e padrões regulamentares de que trata o art. 3º da Resolução BCB nº 69, de 10 de fevereiro de 2021 e altera o leiaute e as Instruções de preenchimento do documento de código 2062 - Demonstrativo de Limites Operacionais Individuais (DLI), de que trata a Instrução Normativa BCB nº 85, de 10 de março de 2021.",
+    "data": "2025-05-06T17:47:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=617"
+  },
+  {
+    "id": "normativos_52912",
+    "nome": "BC - Instrução Normativa BCB N° 616 de 06/05/2025",
+    "descricao": "Estabelece as orientações e as condições para a realização de testes em produção pelas instituições participantes relativos ao Pix Automático no Open Finance.",
+    "data": "2025-05-06T13:57:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=616"
+  },
+  {
+    "id": "normativos_52913",
+    "nome": "BC - Instrução Normativa BCB N° 615 de 06/05/2025",
+    "descricao": "Divulga a versão 7.0 do Manual de APIs do Open Finance.",
+    "data": "2025-05-06T12:46:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=615"
+  },
+  {
+    "id": "normativos_52914",
+    "nome": "BC - Instrução Normativa BCB N° 614 de 05/05/2025",
+    "descricao": "Altera a Instrução Normativa BCB nº 513, de 30 de agosto de 2024, que estabelece os procedimentos operacionais relativos ao Pix Automático, ao Pix Agendado e ao Pix Cobrança, para incluir dispositivos relacionados às instruções e às ordens de pagamento no âmbito do Pix Automático.",
+    "data": "2025-05-05T15:32:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=614"
   }
 ]
