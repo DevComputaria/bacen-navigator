@@ -1,0 +1,27 @@
+{
+  "id": "normativos_52878",
+  "ano": 2025,
+  "nome": "BC - Instrução Normativa BCB N° 605 de 01/04/2025",
+  "descricao": "Altera a Instrução Normativa BCB nº 589, de 4 de fevereiro de 2025, que divulga a versão 7.1 do documento \"Requisitos Mínimos para a Experiência do Usuário\", que compõe o Regulamento do Pix, para modificar data de entrada em vigor.",
+  "data_feed": "2025-04-01T11:03:00-03:00",
+  "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=605",
+  "api_url": "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Instru%C3%A7%C3%A3o+Normativa+BCB&p2=605",
+  "extraido_em": "2026-10-12T18:39:10.412593+00:00",
+  "conteudo": {
+    "titulo": "Instrução Normativa BCB N° 605",
+    "tipo": "Instrução Normativa BCB",
+    "numero": 605.0,
+    "data": "2025-04-01T14:03:00Z",
+    "data_texto": "1/4/2025 11:03",
+    "assunto": "Altera a Instrução Normativa BCB nº 589, de 4 de fevereiro de 2025, que divulga a versão 7.1 do documento “Requisitos Mínimos para a Experiência do Usuário”, que compõe o Regulamento do Pix, para modificar data de entrada em vigor.",
+    "dou": "Publicada no DOU de 2/4/2025, Seção 1, p. 124, retificada no DOU de 16/4/2025, Seção 1, p. 153.",
+    "referencias": "Resolução BCB nº 1/2020, regulamento anexo, art. 2º, inciso IV.;#Resolução BCB nº 340/2023, Anexo (Regimento Interno do BCB), arts. 23, inciso I, “a”, e 94, inciso IX.;#Altera Instrução Normativa BCB nº 589/2025 - Dá nova redação: art. 3º, inciso II.;#",
+    "normas_vinculadas": "INSTRUÇÃO NORMATIVA BCB;@689;@2025;#INSTRUÇÃO NORMATIVA BCB;@673;@2025;#INSTRUÇÃO NORMATIVA BCB;@589;@2025;#RESOLUÇÃO BCB;@340;@2023;#RESOLUÇÃO BCB;@1;@2020;#",
+    "atualizacoes": "Instrução Normativa BCB nº 689/2025 - Revogação total a partir de 2/2/2026.;#",
+    "revogado": true,
+    "cancelado": false,
+    "versao": 2.0,
+    "id_bcb": 52559,
+    "texto": "Resolução Nº 222\n\nINSTRUÇÃO NORMATIVA\nBCB Nº 605, DE 1º DE ABRIL DE 2025\n\nDocumento normativo revogado, a partir\nde 2/2/2026, pela Instrução Normativa BCB nº 689, de 11/12/2025.\n\nAltera\na Instrução Normativa BCB nº 589, de 4 de fevereiro de 2025, que divulga a\nversão 7.1 do documento \"Requisitos Mínimos para a Experiência do\nUsuário\", que compõe o Regulamento do Pix, para modificar data de entrada\nem vigor.\n\nO Chefe do Departamento\nde Competição e de Estrutura do Mercado Financeiro (Decem), no uso das\natribuições que lhe conferem os arts. 23, caput, inciso I, alínea\n\"a\", e 94, caput, inciso IX, do Regimento Interno do Banco Central do\nBrasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, e tendo em\nvista o disposto no art. 2º, caput, inciso IV, do Regulamento anexo à Resolução\nBCB nº 1, de 12 de agosto de 2020,\n\nR E S O L V E :\n\nArt. 1º  A Instrução\nNormativa nº 589, de 4 de fevereiro de 2025, publicada no Diário Oficial da\nUnião de 7 de fevereiro de 2025, passa a vigorar com a seguinte alteração:\n\n“Art. 3º  ...................................................................................................................................\n\n.................................................................................................................................................\n\nII - em 1º de outubro de 2025, para o\ncapítulo 16;\n\n.......................................................................................................................................”\n(NR)\n\nArt. 2º  Esta Instrução Normativa entra\nem vigor na data de sua publicação.\n\nRicardo\nTeixeira Leite Mourão\n\nNOTA\n\nO Decreto nº 10.411, de\n30 de junho de 2020, prevê a obrigatoriedade da realização de análise de\nimpacto regulatório (AIR) para a edição de atos normativos de interesse geral\nproduzidos pelos órgãos e entidades da administração pública federal direta e indireta.\n\nTodavia, consoante se\ndefiniu no parágrafo 8 do Voto 280/2021-BCB, de 10 de novembro de 2021, o\nRegulamento do Pix, inclusive os demais documentos que o integram ou que o\ndetalham e complementam, não se caracterizam como ato regulatório de força\ncogente, ostentando, em verdade, natureza eminentemente contratual. Assim,\nmodificações promovidas no referido regulamento e nos demais documentos que o\nintegram ou que o detalham e complementam não se sujeitam à produção prévia de\nanálise de impacto regulatório (AIR).\n\nDessa forma, fica a\npresente Instrução Normativa dispensada da prévia produção de AIR.\n\nRicardo\nTeixeira Leite Mourão"
+  }
+}

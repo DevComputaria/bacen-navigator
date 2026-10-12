@@ -1,0 +1,27 @@
+{
+  "id": "normativos_52885",
+  "ano": 2025,
+  "nome": "BC - Resolução CMN N° 5.217 de 22/05/2025",
+  "descricao": "Altera o art. 3º da Resolução CMN nº 5.140, de 5 de junho de 2024, que estabelece a previsão de cláusula de compromisso de manutenção ou ampliação do número de empregos existentes anteriormente à calamidade pública nas linhas de financiamento de que trata o art. 47-A da Lei nº 12.351, de 22 de dezembro de 2010.",
+  "data_feed": "2025-05-22T18:02:00-03:00",
+  "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5217",
+  "api_url": "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Resolu%C3%A7%C3%A3o+CMN&p2=5217",
+  "extraido_em": "2026-10-12T18:39:17.124719+00:00",
+  "conteudo": {
+    "titulo": "Resolução CMN N° 5.217",
+    "tipo": "Resolução CMN",
+    "numero": 5217.0,
+    "data": "2025-05-22T21:02:00Z",
+    "data_texto": "22/5/2025 18:02",
+    "assunto": "Altera o art. 3º da Resolução CMN nº 5.140, de 5 de junho de 2024, que estabelece a previsão de cláusula de compromisso de manutenção ou ampliação do número de empregos existentes anteriormente à calamidade pública nas linhas de financiamento de que trata o art. 47-A da Lei nº 12.351, de 22 de dezembro de 2010.",
+    "dou": "Publicada no DOU de 26/5/2025, Seção 1, p. 50.",
+    "referencias": "Lei nº 4.595/1964, art. 9º.;#Lei nº 12.351/2010, art. 47-A.;#Altera Resolução CMN nº 5.140/2024 - Dá nova redação: art. 3º, § 3º. Inclui: art. 3º, § 3º, incisos I e II.;#",
+    "normas_vinculadas": "RESOLUÇÃO CMN;@5140;@2024;#",
+    "atualizacoes": null,
+    "revogado": false,
+    "cancelado": false,
+    "versao": 1.0,
+    "id_bcb": 52605,
+    "texto": "Resolução Nº 5.217\n\nRESOLUÇÃO CMN Nº 5.217, DE 22 DE MAIO DE 2025\n\nAltera o art. 3º da\nResolução CMN nº 5.140, de 5 de junho de 2024, que estabelece a previsão de\ncláusula de compromisso de manutenção ou ampliação do número de empregos\nexistentes anteriormente à calamidade pública nas linhas de financiamento de\nque trata o art. 47-A da Lei nº 12.351, de 22 de dezembro de 2010.\n\nO\nBanco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro\nde 1964, torna público que o Conselho Monetário Nacional, em sessão realizada\nem 22 de maio de 2025, com base no disposto no art. 47-A, § 4º e § 5º, da Lei\nnº 12.351, de 22 de dezembro de 2010,\n\nR\nE S O L V E U :\n\nArt.\n1º  A Resolução CMN nº 5.140, de 5 de junho de 2024, publicada no Diário\nOficial da União de 7 de junho de 2024, passa a vigorar com as seguintes\nalterações:\n\n“Art. 3º  ....................................................................................................................................\n\n.................................................................................................................................................\n\n§ 3º  O\ndescumprimento do compromisso de que trata o caput, a ser aferido ao\nfinal do décimo segundo mês e ao final do décimo sexto mês da data da\ncontratação, implicará substituição dos encargos financeiros aos mutuários,\ndefinidos no art. 2º, caput, inciso II, por encargos calculados com base\nna taxa média referencial do Sistema Especial de Liquidação e de Custódia –\nTaxa Selic, ou outra que vier a substitui-la, observadas as seguintes regras:\n\nI - na hipótese de\ndescumprimento aferido ao final do décimo segundo mês da data da contratação, a\nsubstituição dos encargos financeiros aos mutuários incidirá apenas em parcelas\nsubsequentes à data da aferição; e\n\nII - na hipótese de\ndescumprimento aferido ao final do décimo sexto mês da data da contratação, a\nsubstituição dos encargos financeiros aos mutuários ocorrerá de forma\nretroativa.\n\n.......................................................................................................................................”\n(NR)\n\nArt.\n2º  Poderão ser abrangidos pelo disposto nesta Resolução os financiamentos já\ncontratados nos termos da Resolução CMN nº 5.140, de 5 de junho de 2024,\nrespeitados o ato jurídico perfeito e os direitos adquiridos.\n\nArt.\n3º  Esta Resolução entra em vigor na data de sua publicação.\n\nGABRIEL\nMURICCA GALÍPOLO\n\nPresidente\ndo Banco Central do Brasil"
+  }
+}

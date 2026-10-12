@@ -1,0 +1,27 @@
+{
+  "id": "normativos_52826",
+  "ano": 2025,
+  "nome": "BC - Resolução BCB N° 449 de 15/01/2025",
+  "descricao": "Dispõe sobre os efeitos financeiros da alteração promovida pela Resolução BCB nº 446, de 17 de dezembro de 2024, no Regulamento do Programa de Assistência à Saúde dos Servidores do Banco Central – PASBC.",
+  "data_feed": "2025-01-15T18:02:00-03:00",
+  "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=449",
+  "api_url": "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Resolu%C3%A7%C3%A3o+BCB&p2=449",
+  "extraido_em": "2026-10-12T18:38:18.472293+00:00",
+  "conteudo": {
+    "titulo": "Resolução BCB N° 449",
+    "tipo": "Resolução BCB",
+    "numero": 449.0,
+    "data": "2025-01-15T21:02:00Z",
+    "data_texto": "15/1/2025 18:02",
+    "assunto": "Dispõe sobre os efeitos financeiros da alteração promovida pela Resolução BCB nº 446, de 17 de dezembro de 2024, no Regulamento do Programa de Assistência à Saúde dos Servidores do Banco Central – PASBC.",
+    "dou": "",
+    "referencias": "Lei nº 9.650/1998, art. 15, § 4º.;#Resolução BCB nº 340/2023, Anexo (Regimento Interno do BCB), art. 11, inciso III, “b”. ;#Resolução BCB nº 446/2024.;#Voto 3/2025–BCB.;#Cita Resolução BCB nº 415/2024.;#",
+    "normas_vinculadas": "RESOLUÇÃO BCB;@446;@2024;#RESOLUÇÃO BCB;@415;@2024;#RESOLUÇÃO BCB;@340;@2023;#",
+    "atualizacoes": null,
+    "revogado": false,
+    "cancelado": false,
+    "versao": 1.0,
+    "id_bcb": 52521,
+    "texto": "Resolução Nº 449\n\nRESOLUÇÃO BCB Nº 449, DE 15 DE JANEIRO\nDE 2025\n\nDispõe sobre\nos efeitos financeiros da alteração promovida pela Resolução BCB nº 446, de 17\nde dezembro de 2024, no Regulamento do Programa de Assistência à Saúde dos\nServidores do Banco Central – PASBC.\n\nA Diretoria Colegiada do Banco Central\ndo Brasil, no uso de suas atribuições, com fundamento no art. 11, caput,\ninciso III, alínea “b”, do Regimento Interno do Banco Central do Brasil, anexo\nà Resolução BCB nº 340, de 21 de setembro de 2023, no art. 15, § 4º, da Lei nº\n9.650, de 27 de maio de 1998, e no Voto 3/2025–BCB, de 15 de janeiro de 2025,\n\nR E S O L V E :\n\nArt. 1º  Os\nefeitos financeiros da alteração promovida pelo art. 1º da Resolução BCB nº\n446, de 17 de dezembro de 2024, no art. 57 do Regulamento do Programa de\nAssistência à Saúde dos Servidores do Banco Central – PASBC, anexo à Resolução\nBCB nº 415, de 24 de setembro de 2024, incidem a partir de 1º de março de 2025,\ncom cobrança na respectiva folha de pagamento, no mês de abril de 2025.\n\nArt. 2º  Esta Resolução entra em vigor\nna data de sua publicação.\n\nRODRIGO ALVES TEIXEIRA\nDiretor de Administração"
+  }
+}

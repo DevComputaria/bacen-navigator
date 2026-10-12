@@ -1,0 +1,27 @@
+{
+  "id": "normativos_52844",
+  "ano": 2025,
+  "nome": "BC - Resolução BCB N° 460 de 25/03/2025",
+  "descricao": "Encerra a publicação do Relatório de Economia Bancária – REB e revoga a Resolução BCB nº 56, de 16 de dezembro de 2020.",
+  "data_feed": "2025-03-25T18:01:00-03:00",
+  "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=460",
+  "api_url": "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Resolu%C3%A7%C3%A3o+BCB&p2=460",
+  "extraido_em": "2026-10-12T18:38:35.286164+00:00",
+  "conteudo": {
+    "titulo": "Resolução BCB N° 460",
+    "tipo": "Resolução BCB",
+    "numero": 460.0,
+    "data": "2025-03-25T21:01:00Z",
+    "data_texto": "25/3/2025 18:01",
+    "assunto": "Encerra a publicação do Relatório de Economia Bancária – REB e revoga a Resolução BCB nº 56, de 16 de dezembro de 2020.",
+    "dou": "",
+    "referencias": "Resolução BCB nº 340/2023, Anexo (Regimento Interno do BCB), art. 11, inciso III, “b”.;#Revoga Resolução BCB nº 56/2020.;#",
+    "normas_vinculadas": "RESOLUÇÃO BCB;@340;@2023;#RESOLUÇÃO BCB;@56;@2020;#",
+    "atualizacoes": null,
+    "revogado": false,
+    "cancelado": false,
+    "versao": 1.0,
+    "id_bcb": 52548,
+    "texto": "Resolução Nº 460\n\nRESOLUÇÃO BCB Nº 460, DE 25 DE MARÇO DE 2025\n\nEncerra a publicação do\nRelatório de Economia Bancária –\nREB e revoga a Resolução BCB nº 56, de 16 de dezembro de 2020.\n\nA Diretoria Colegiada do\nBanco Central do Brasil, em sessão realizada em 25 de março de 2025, com base no\nart. 11, caput, inciso III, alínea “b”, do Regimento Interno do Banco\nCentral do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023,\n\nR E S O L V E :\n\nArt. 1º  Fica encerrada\na publicação, pelo Banco Central do Brasil, do Relatório de Economia Bancária – REB.\n\nArt. 2º  Fica revogada a\nResolução BCB nº 56, de 16 de dezembro de 2020.\n\nArt. 3º  Esta Resolução\nentra em vigor na data de sua publicação.\n\nDIOGO ABRY GUILLEN                                              AILTON\nDE AQUINO SANTOS\n\nDiretor\nde Política Econômica                                 Diretor\nde Fiscalização"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "normativos_52862",
+  "ano": 2025,
+  "nome": "BC - Resolução BCB N° 468 de 30/04/2025",
+  "descricao": "Dispõe sobre a apuração e a remessa das informações de juros e encargos acumulados nas operações de cartão de crédito rotativo e de parcelamento de fatura referentes a cartões de crédito e a demais instrumentos de pagamento pós-pagos.",
+  "data_feed": "2025-04-30T18:05:00-03:00",
+  "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=468",
+  "api_url": "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Resolu%C3%A7%C3%A3o+BCB&p2=468",
+  "extraido_em": "2026-10-12T18:38:56.329093+00:00",
+  "conteudo": {
+    "titulo": "Resolução BCB N° 468",
+    "tipo": "Resolução BCB",
+    "numero": 468.0,
+    "data": "2025-04-30T21:05:00Z",
+    "data_texto": "30/4/2025 18:05",
+    "assunto": "Dispõe sobre a apuração e a remessa das informações de juros e encargos acumulados nas operações de cartão de crédito rotativo e de parcelamento de fatura referentes a cartões de crédito e a demais instrumentos de pagamento pós-pagos.",
+    "dou": "Publicada no DOU de 6/5/2025, Seção 1, p. 129/130.",
+    "referencias": "Lei nº 4.595/1964, arts. 10, inciso VI, e 37.;#Cita Resolução CMN nº 4.549/2017, art. 2º-A.;#Cita Resolução BCB nº 209/2022.;#",
+    "normas_vinculadas": "RESOLUÇÃO BCB;@209;@2022;#RESOLUÇÃO;@4549;@2017;#INSTRUÇÃO NORMATIVA BCB;@621;@2025;#",
+    "atualizacoes": null,
+    "revogado": false,
+    "cancelado": false,
+    "versao": 1.0,
+    "id_bcb": 52578,
+    "texto": "Resolução Nº 468\n\nRESOLUÇÃO\nBCB Nº 468, DE 30 DE ABRIL DE 2025\n\nDispõe sobre a apuração e a remessa das\ninformações de juros e encargos acumulados nas operações de cartão de crédito rotativo\ne de parcelamento de fatura referentes a cartões de crédito e a demais\ninstrumentos de pagamento pós-pagos.\n\nA Diretoria Colegiada do Banco Central do Brasil, em sessão\nrealizada em 30 de abril de 2025, com base nos arts. 10, caput, inciso\nVI, e 37 da Lei nº 4.595, de 31 de dezembro de 1964,\n\nR E S O L V E :\n\nArt.\n1º  Esta Resolução trata da apuração e da remessa de informações de juros e\nencargos acumulados nas operações de cartão de crédito rotativo e de parcelamento de fatura referentes a cartões\nde crédito e a demais instrumentos de pagamento pós-pagos, observadas as\ndefinições de que trata o art. 2º-A da Resolução nº 4.549, de 26 de janeiro de\n2017, pelas seguintes instituições:\n\nI - associações de poupança e empréstimo;\n\nII - Banco Nacional de Desenvolvimento Econômico\ne Social – BNDES;\n\nIII - bancos comerciais;\n\nIV - bancos de câmbio;\n\nV - bancos de desenvolvimento;\n\nVI - bancos de investimento;\n\nVII - bancos múltiplos;\n\nVIII - caixas econômicas;\n\nIX - companhias hipotecárias;\n\nX - sociedades de arrendamento mercantil;\n\nXI - sociedades de crédito, financiamento e\ninvestimento; e\n\nXII - sociedades de crédito imobiliário.\n\nArt. 2º  As instituições relacionadas no art. 1º\ndevem encaminhar ao Banco Central do Brasil informações de que trata o referido\nartigo mensalmente, no mês seguinte ao mês de referência.\n\nParágrafo único.  As informações de que trata o\nart. 1º devem ser apuradas em base individualizada por instituição.\n\nArt. 3º  As instituições relacionadas no art. 1º devem\ndesignar diretor responsável pela apuração e remessa das informações de que\ntrata esta Resolução.\n\n§\n1º  Admite-se que o diretor designado nos termos do caput desempenhe\noutras funções na instituição, desde que assegurada a inexistência de conflito\nde interesses.\n\n§\n2º  Os dados referentes ao diretor designado nos termos do caput devem\nser registrados e mantidos atualizados no Sistema de Informações sobre\nEntidades de Interesse do Banco Central – Unicad, de que trata a Resolução BCB nº 209,\nde 22 de março de 2022.\n\nArt. 4º  O Banco Central do Brasil divulgará os\nprocedimentos operacionais necessários ao cumprimento do disposto nesta\nResolução, inclusive quanto aos leiautes, à forma, ao prazo e às condições de\nremessa das informações de que trata esta Resolução.\n\nParágrafo único.  O Banco Central do Brasil\npoderá estabelecer procedimento simplificado ou condições especiais para\ndispensar da remessa a instituição que não apresentar ao longo do mês saldo\nrelativo às informações de que trata o art. 1º.\n\nArt. 5º  Esta Resolução\nentra em vigor em 1º de julho de 2025.\n\nDIOGO\nABRY GUILLEN                           GILNEU FRANCISCO ASTOLFI VIVAN\n\nDiretor de Política\nEconômica              Diretor de Regulação"
+  }
+}

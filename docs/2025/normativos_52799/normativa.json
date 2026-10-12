@@ -1,0 +1,27 @@
+{
+  "id": "normativos_52799",
+  "ano": 2025,
+  "nome": "BC - Resolução CMN N° 5.269 de 18/12/2025",
+  "descricao": "Ajusta normas do Programa de Garantia de Preços para a Agricultura Familiar – PGPAF, no âmbito do Programa Nacional de Fortalecimento da Agricultura Familiar – Pronaf.",
+  "data_feed": "2025-12-18T18:08:15-03:00",
+  "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5269",
+  "api_url": "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Resolu%C3%A7%C3%A3o+CMN&p2=5269",
+  "extraido_em": "2026-10-12T18:37:55.415053+00:00",
+  "conteudo": {
+    "titulo": "Resolução CMN N° 5.269",
+    "tipo": "Resolução CMN",
+    "numero": 5269.0,
+    "data": "2025-12-18T21:08:00Z",
+    "data_texto": "18/12/2025 18:08",
+    "assunto": "Ajusta normas do Programa de Garantia de Preços para a Agricultura Familiar – PGPAF, no âmbito do Programa Nacional de Fortalecimento da Agricultura Familiar – Pronaf.",
+    "dou": "Publicada no DOU de 22/12/2025, Seção 1, p. 226.",
+    "referencias": "Lei nº 4.595/1964, arts. 4º, inciso VI, 9º.;#Lei nº 4.829/1965, arts. 4º e 14.;#Decreto nº 5.996/2006, art. 5º.;#Altera, a partir de 10/1/2026, MCR 10-15-Anexo I-Tabela 1.;#",
+    "normas_vinculadas": null,
+    "atualizacoes": null,
+    "revogado": false,
+    "cancelado": false,
+    "versao": 1.0,
+    "id_bcb": 52799,
+    "texto": "O texto vigente do MCR encontra-se no seguinte endereço eletrônico: www3.bcb.gov.br/mcr.\n\nRESOLUÇÃO CMN Nº 5.269, DE 18 DE\nDEZEMBRO DE 2025\n\nAjusta normas do Programa de Garantia de Preços para a Agricultura Familiar –\nPGPAF, no âmbito do Programa Nacional de\nFortalecimento da Agricultura Familiar – Pronaf.\n\nO\nBanco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro\nde 1964, torna público que o Conselho Monetário Nacional, em sessão realizada\nem 18 de dezembro de 2025, tendo em vista as disposições do art. 4º, caput,\ninciso VI, da Lei nº 4.595, de 31 de dezembro de 1964, dos arts. 4º e 14 da Lei\nnº 4.829, de 5 de novembro de 1965, e do art. 5º do Decreto nº 5.996, de 20 de\ndezembro de 2006,\n\nR E S O L V E U :\n\nArt.\n1º  Ficam aprovados os preços de garantia\nconstantes da Tabela 1 - Preços de garantia vigentes sobre as operações de\ncusteio e de investimento com vencimento de 10/1/2026 até 9/1/2027 do Anexo I -\nTabelas de preços de garantia para produtos amparados pelo Programa de Garantia\nde Preços para a Agricultura Familiar – PGPAF da Seção\n15 (Programa de Garantia de Preços para a Agricultura Familiar – PGPAF) do\nCapítulo 10 (Programa Nacional de Fortalecimento da Agricultura Familiar – Pronaf)\ndo Manual de Crédito Rural – MCR, conforme anexo a esta Resolução.\n\nArt.\n2º  Esta Resolução entra em vigor em 10 de\njaneiro de 2026.\n\nGABRIEL MURICCA\nGALÍPOLO\n\nPresidente\ndo Banco Central do Brasil\n\n“Anexo I - Tabelas de preços de garantia para produtos\namparados pelo Programa de Garantia de Preços para a Agricultura Familiar – PGPAF:\n\nTabela 1 - Preços de garantia vigentes\nsobre as operações de custeio e de investimento com vencimento de 10/1/2026\naté 9/1/2027\n\nProdutos\n\nRegiões e Estados\n\nUnidade\n\nPreço de Garantia (R$)\n\nAçaí\ncultivado (fruto)\n\nNordeste e Norte\n\nkg\n\n2,44\n\nAmendoim\n\nSul, Sudeste, Centro-Oeste e Nordeste\n\n25kg\n\n51,61\n\nArroz (em casca)\n\nSul (exceto PR)\n\n50kg\n\n63,74\n\nCentro-Oeste, Nordeste, Norte, Sudeste e PR\n\n60kg\n\n80,00\n\nBatata\n\nSul, Sudeste, Nordeste e Centro-Oeste\n\n50kg\n\n71,87\n\nBatata-doce\n\nBrasil\n\n22kg\n\n16,89\n\nCana-de-açúcar\n\nSudeste\n\nt\n\n112,39\n\nNordeste\n\n145,34\n\nCaprino/Ovino (carne)\n\nNordeste\n\nkg\n\n15,87\n\nCará/Inhame\n\nBrasil\n\nkg\n\n2,52\n\nCebola\n\nBrasil\n\nkg\n\n1,40\n\nFeijão\n\nBrasil\n\n60kg\n\n181,23\n\nFeijão Caupi\n\nNordeste, Norte e MT\n\n60kg\n\n285,06\n\nJuta/Malva embonecada\n\nNorte\n\nkg\n\n5,16\n\nMaçã\n\nSul\n\nkg\n\n1,30\n\nMandioca (raiz)\n\nCentro-Oeste, Sudeste e Sul\n\nt\n\n508,23\n\nNorte e Nordeste\n\n603,76\n\nManga\n\nCentro-Oeste, Nordeste, Norte, Sudeste e PR\n\nkg\n\n3,47\n\nMaracujá\n\nBrasil\n\nkg\n\n2,94\n\nMilho\n\nSudeste e PR\n\n60kg\n\n51,03\n\nSC e RS\n\n55,64\n\nCentro-Oeste\n\n38,28\n\nNorte\n\n52,39\n\nPimenta-do-reino\n\nBrasil\n\nkg\n\n15,34\n\nSoja\n\nBrasil\n\n60kg\n\n71,04\n\nSorgo\n\nSudeste e PR\n\n60kg\n\n38,27\n\nSC e RS\n\n41,73\n\nCentro-Oeste\n\n28,71\n\nNorte\n\n39,29\n\nTangerina\n\nBrasil\n\n24kg\n\n23,11\n\nTomate\n\nBrasil\n\nkg\n\n1,90\n\nUva\n\nSul, Sudeste e Nordeste\n\nkg\n\n1,80\n\n......................................................................................................................................................”(NR)"
+  }
+}

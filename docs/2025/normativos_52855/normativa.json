@@ -1,0 +1,27 @@
+{
+  "id": "normativos_52855",
+  "ano": 2025,
+  "nome": "BC - Resolução CMN N° 5.208 de 30/04/2025",
+  "descricao": "Altera a Resolução nº 4.676, de 31 de julho de 2018, que dispõe sobre as condições gerais e os critérios para contratação de financiamento imobiliário pelas instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil e disciplina o direcionamento dos recursos captados em depósitos de poupança.",
+  "data_feed": "2025-04-30T20:19:00-03:00",
+  "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5208",
+  "api_url": "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Resolu%C3%A7%C3%A3o+CMN&p2=5208",
+  "extraido_em": "2026-10-12T18:38:47.948510+00:00",
+  "conteudo": {
+    "titulo": "Resolução CMN N° 5.208",
+    "tipo": "Resolução CMN",
+    "numero": 5208.0,
+    "data": "2025-04-30T23:19:00Z",
+    "data_texto": "30/4/2025 20:19",
+    "assunto": "Altera a Resolução nº 4.676, de 31 de julho de 2018, que dispõe sobre as condições gerais e os critérios para contratação de financiamento imobiliário pelas instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil e disciplina o direcionamento dos recursos captados em depósitos de poupança.",
+    "dou": "Publicada no DOU de 6/5/2025, Seção 1, p. 48.",
+    "referencias": "Lei nº 4.595/1964, arts. 4º, incisos VI e VIII, e 9º.;#Lei nº 13.097/2015, art. 95.;#Decreto-Lei nº 2.291/1986, art. 7º, inciso I.;#Altera Resolução CMN nº 4.676/2018 - Inclui: art. 14, parágrafo único.;#",
+    "normas_vinculadas": "RESOLUÇÃO;@4676;@2018;#",
+    "atualizacoes": null,
+    "revogado": false,
+    "cancelado": false,
+    "versao": 1.0,
+    "id_bcb": 52582,
+    "texto": "Resolução Nº 5.208\n\nRESOLUÇÃO CMN Nº 5.208, DE 30 DE ABRIL DE 2025\n\nAltera a Resolução nº 4.676, de 31 de julho de 2018,\nque dispõe sobre as condições gerais e os critérios para contratação de\nfinanciamento imobiliário pelas instituições financeiras e demais instituições\nautorizadas a funcionar pelo Banco Central do Brasil e disciplina o\ndirecionamento dos recursos captados em depósitos de poupança.\n\nO Banco Central do Brasil,\nna forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público\nque o Conselho Monetário Nacional, em sessão extraordinária realizada em 30 de\nabril de 2025, com base no art. 4º, caput, incisos VI e VIII, da\nreferida Lei, no art. 7º, caput, inciso I, do Decreto-Lei nº 2.291, de\n21 de novembro de 1986, e no art. 95 da Lei nº 13.097, de 19 de janeiro de 2015,\n\nR E S O L V E U :\n\nArt. 1º  A Resolução nº 4.676, de 31 de julho\nde 2018, publicada no Diário Oficial da União de 2 de agosto de 2018, passa a\nvigorar com as seguintes alterações:\n\n“Art. 14.  ..................................................................................................................................\n\n.................................................................................................................................................\n\nParágrafo único.  Nas operações conjugadas a linhas de programas\nhabitacionais que se utilizem de recursos do Fundo de Garantia do Tempo de\nServiço – FGTS, poderão ser aplicadas as mesmas tarifas previstas em norma do\nConselho Curador do FGTS.” (NR)\n\nArt. 2º  Esta Resolução entra\nem vigor na data de sua publicação.\n\nGABRIEL MURICCA GALÍPOLO\nPresidente do Banco Central do Brasil"
+  }
+}

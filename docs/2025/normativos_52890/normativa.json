@@ -1,0 +1,27 @@
+{
+  "id": "normativos_52890",
+  "ano": 2025,
+  "nome": "BC - Resolução CMN N° 5.212 de 22/05/2025",
+  "descricao": "Altera a Resolução CMN nº 5.118, de 1º de fevereiro de 2024, que dispõe sobre o lastro da emissão de Certificados de Recebíveis do Agronegócio – CRAs, de Certificados de Recebíveis Imobiliários – CRIs e de Certificados de Direitos Creditórios do Agronegócio – CDCAs.",
+  "data_feed": "2025-05-22T18:00:00-03:00",
+  "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5212",
+  "api_url": "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Resolu%C3%A7%C3%A3o+CMN&p2=5212",
+  "extraido_em": "2026-10-12T18:39:21.545965+00:00",
+  "conteudo": {
+    "titulo": "Resolução CMN N° 5.212",
+    "tipo": "Resolução CMN",
+    "numero": 5212.0,
+    "data": "2025-05-22T21:00:00Z",
+    "data_texto": "22/5/2025 18:00",
+    "assunto": "Altera a Resolução CMN nº 5.118, de 1º de fevereiro de 2024, que dispõe sobre o lastro da emissão de Certificados de Recebíveis do Agronegócio – CRAs, de Certificados de Recebíveis Imobiliários – CRIs e de Certificados de Direitos Creditórios do Agronegócio – CDCAs.",
+    "dou": "Publicada no DOU de 26/5/2025, Seção 1, p. 49.",
+    "referencias": "Lei nº 4.595/1964, art. 9º.;#Lei nº 6.385/1976, art. 3º, incisos I, II e III.;#Lei nº 11.076/2004, art. 49.;#Altera Resolução CMN nº 5.118/2024 - Dá nova redação: art. 3º, inciso I, \"a\".;#",
+    "normas_vinculadas": "RESOLUÇÃO CMN;@5118;@2024;#",
+    "atualizacoes": null,
+    "revogado": false,
+    "cancelado": false,
+    "versao": 1.0,
+    "id_bcb": 52600,
+    "texto": "Resolução Nº 5.212\n\nRESOLUÇÃO CMN Nº 5.212, DE 22 DE MAIO DE 2025\n\nAltera a Resolução\nCMN nº 5.118, de 1º de fevereiro de 2024, que dispõe sobre o lastro da emissão\nde Certificados de Recebíveis do Agronegócio – CRAs, de Certificados de\nRecebíveis Imobiliários – CRIs e de Certificados de Direitos Creditórios do\nAgronegócio – CDCAs.\n\nO Banco Central\ndo Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964,\ntorna público que o Conselho Monetário Nacional, em sessão realizada em 22 de maio\nde 2025, com base nos arts. 3º, caput, incisos I, II e III, da Lei nº\n6.385, de 7 de dezembro de 1976, e 49 da Lei nº 11.076, de 30 de dezembro de\n2004,\n\nR E S O L V E U\n:\n\nArt.\n1º  A Resolução CMN nº 5.118, de 1º de fevereiro de 2024, publicada no Diário\nOficial da União de 2 de fevereiro de 2024, passa a vigorar com as seguintes alterações:\n\n“Art. 3º  ...................................................................................................................................\n\nI - .............................................................................................................................................\n\na) pessoa jurídica\ncujo setor principal de atividade não seja o setor imobiliário, no caso dos\nCRIs, ou o agronegócio, no caso dos CRAs e CDCAs; ou\n\n.......................................................................................................................................”\n(NR)\n\nArt.\n2º  A redação do art. 3º, caput, inciso I, alínea “a”, da Resolução CMN\nnº 5.118, de 1º de fevereiro de 2024, na forma da alteração prevista no art. 1º,\nnão se aplica aos Certificados\nde Recebíveis do Agronegócio – CRAs, Certificados de Recebíveis Imobiliários – CRIs e Certificados de\nDireitos Creditórios do Agronegócio – CDCAs que, em data anterior à data de início\nde vigência desta Resolução, já tenham sido:\n\nI\n- devidamente\ndistribuídos; ou\n\nII\n- objeto de requerimento de registro de distribuição perante a Comissão de Valores\nMobiliários, nas ofertas de distribuição pública.\n\nParágrafo\núnico.  Eventuais prorrogações de prazo para os CRAs, CRIs e CDCAs já\ndistribuídos\ndevem respeitar o disposto na Resolução CMN nº 5.118, de 1º de fevereiro de\n2024.\n\nArt.\n3º  Esta Resolução entra em vigor na data de sua publicação.\n\nGABRIEL\nMURICCA GALÍPOLO\n\nPresidente\ndo Banco Central do Brasil"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "normativos_52864",
+  "ano": 2025,
+  "nome": "BC - Resolução BCB N° 466 de 30/04/2025",
+  "descricao": "Altera a Resolução BCB nº 3, de 12 de agosto de 2020, que dispõe sobre informações e procedimentos para autorização para instalação de agências no país e sobre o fornecimento de informações de dependências das instituições financeiras e das demais instituições autorizadas a funcionar pelo Banco Central do Brasil.",
+  "data_feed": "2025-04-30T18:03:00-03:00",
+  "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=466",
+  "api_url": "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Resolu%C3%A7%C3%A3o+BCB&p2=466",
+  "extraido_em": "2026-10-12T18:38:57.593268+00:00",
+  "conteudo": {
+    "titulo": "Resolução BCB N° 466",
+    "tipo": "Resolução BCB",
+    "numero": 466.0,
+    "data": "2025-04-30T21:03:00Z",
+    "data_texto": "30/4/2025 18:03",
+    "assunto": "Altera a Resolução BCB nº 3, de 12 de agosto de 2020, que dispõe sobre informações e procedimentos para autorização para instalação de agências no país e sobre o fornecimento de informações de dependências das instituições financeiras e das demais instituições autorizadas a funcionar pelo Banco Central do Brasil.",
+    "dou": "Publicada no DOU de 5/5/2025, Seção 1, p. 123.",
+    "referencias": "Lei nº 4.595/1964, art. 9º.;#Resolução CMN nº 4.072/2012, art. 14, inciso II.;#Altera, a partir de 5/5/2025, Resolução BCB nº 3/2020 - Dá nova redação: art. 5º, caput e parágrafo único. Revoga: art. 5º, incisos I, II e III.;#",
+    "normas_vinculadas": "RESOLUÇÃO BCB;@3;@2020;#RESOLUÇÃO;@4072;@2012;#",
+    "atualizacoes": null,
+    "revogado": false,
+    "cancelado": false,
+    "versao": 1.0,
+    "id_bcb": 52576,
+    "texto": "RESOLUÇÃO BCB\nNº 466, DE 30 DE ABRIL DE 2025\n\nAltera a Resolução BCB nº 3, de 12 de agosto de 2020, que dispõe\nsobre informações e procedimentos para autorização para instalação de agências\nno país e sobre o fornecimento de informações de dependências das instituições\nfinanceiras e das demais instituições autorizadas a funcionar pelo Banco\nCentral do Brasil.\n\nA Diretoria do Banco Central do Brasil, em sessão realizada em 30 de\nabril de 2025, com base no art. 9º da Lei nº 4.595, de 31 de dezembro de 1964,\ne tendo em vista o disposto no art. 14, caput, inciso II, da Resolução\nnº 4.072, de 26 de abril de 2012,\n\nR E S O L V E :\n\nArt. 1º   A Resolução BCB nº 3, de 12\nde agosto de 2020, publicada no Diário Oficial da União de 13 de agosto de 2020,\npassa a vigorar com as seguintes alterações:\n\nArt. 5º  As instituições mencionadas no art. 1º devem enviar ao\nBanco Central do Brasil as informações atualizadas relativas à identificação e à\nlocalização de suas dependências.\n\n.................................................................................................................................................\n\nParágrafo único.  O Banco Central do Brasil\ndivulgará a forma e as especificações do envio das informações de que trata\neste artigo.”\n(NR)\n\nArt. 2º\nFicam revogados os incisos I, II e III do art. 5º da Resolução BCB nº 3, de 12\nde agosto de 2020, publicada no Diário Oficial da União de 13 de agosto de 2020.\n\nArt. 3º  Esta Resolução entra em\nvigor em 5 de maio de 2025.\n\nGILNEU FRANCISCO ASTOLFI VIVAN\nDiretor\nde Regulação"
+  }
+}

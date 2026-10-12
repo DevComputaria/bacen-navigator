@@ -1,0 +1,27 @@
+{
+  "id": "normativos_52884",
+  "ano": 2025,
+  "nome": "BC - Resolução CMN N° 5.218 de 26/05/2025",
+  "descricao": "Altera a Resolução nº 4.753, de 26 de setembro de 2019, que dispõe sobre a abertura, a manutenção e o encerramento de conta de depósitos.",
+  "data_feed": "2025-05-26T09:00:00-03:00",
+  "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5218",
+  "api_url": "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Resolu%C3%A7%C3%A3o+CMN&p2=5218",
+  "extraido_em": "2026-10-12T18:39:16.130501+00:00",
+  "conteudo": {
+    "titulo": "Resolução CMN N° 5.218",
+    "tipo": "Resolução CMN",
+    "numero": 5218.0,
+    "data": "2025-05-26T12:00:00Z",
+    "data_texto": "26/5/2025 09:00",
+    "assunto": "Altera a Resolução nº 4.753, de 26 de setembro de 2019, que dispõe sobre a abertura, a manutenção e o encerramento de conta de depósitos.",
+    "dou": "Publicada no DOU de 27/5/2025, Seção 1, p. 139.",
+    "referencias": "Lei nº 4.595/1964, arts. 4º, inciso VIII, e 9º.;#Cita Resolução BCB nº 475/2025.;#Altera, a partir de 1º/12/2025, Resolução CMN nº 4.753/2019 - Inclui: art. 2º-A.;#",
+    "normas_vinculadas": "RESOLUÇÃO BCB;@475;@2025;#RESOLUÇÃO;@4753;@2019;#INSTRUÇÃO NORMATIVA BCB;@661;@2025;#",
+    "atualizacoes": null,
+    "revogado": false,
+    "cancelado": false,
+    "versao": 1.0,
+    "id_bcb": 52608,
+    "texto": "RESOLUÇÃO\nCMN Nº 5.218, DE 26 DE MAIO DE 2025\n\nAltera\na Resolução nº 4.753, de 26 de setembro de 2019, que dispõe sobre a abertura, a\nmanutenção e o encerramento de conta de depósitos.\n\nO Banco Central do\nBrasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna\npúblico que o Conselho Monetário Nacional, em sessão realizada em 22 de maio de\n2025, com base no art. 4º, caput, inciso VIII, da citada Lei,\n\nR E S O L V E U :\n\nArt. 1º  A Resolução nº\n4.753, de 26 de setembro de 2019, publicada no Diário Oficial da União de 30 de\nsetembro de 2019, passa a vigorar com as seguintes alterações:\n\n“Art.\n2º-A  As instituições referidas no art. 1º, a fim de\nsubsidiar os procedimentos e os controles relacionados ao processo de abertura\nde contas e de atualização das informações do titular da conta, de que trata\no art. 2º, § 4º, devem consultar o sistema de que trata a Resolução BCB nº 475,\nde 26 de maio de 2025, previamente à abertura de contas de depósitos à vista e\nde poupança e à alteração de titulares ou de seus representantes.\n\n§\n1º  Caso a instituição decida pela abertura da conta de\ndepósitos ou pela alteração de titulares ou de seus representantes, quando\nhouver solicitação em sentido contrário registrada\nno sistema de que trata o caput, a decisão deve ser documentada e fundamentada,\nsendo aplicável somente em situações excepcionais em que os titulares,\npretendentes a titular ou seus representantes estejam impedidos de excluir a\nsolicitação do sistema.\n\n§\n2º  Caso a instituição decida pela não abertura da conta de depósitos ou pela\nnão alteração de titulares ou de seus representantes, em razão exclusivamente da\nsolicitação referida no § 1º, os motivos da decisão devem ser explicitados ao titular\nda conta, ao pretendente a titular da conta ou ao seu representante.\n\n§\n3º  A tomada de decisão para a abertura da conta e para\nas alterações de titulares ou de seus representantes é de exclusiva\nresponsabilidade da instituição.\n\n§ 4º  As instituições devem\nmanter à disposição do Banco Central do Brasil por no mínimo dez anos a documentação\ncomprobatória referente à realização da consulta ao sistema de que trata o caput,\nincluindo o seu resultado, bem como a documentação referida no § 1º.” (NR)\n\nArt. 2º  Esta Resolução entra\nem vigor em 1º de dezembro de 2025.\n\nGABRIEL MURICCA\nGALÍPOLO\nPresidente do Banco\nCentral do Brasil"
+  }
+}

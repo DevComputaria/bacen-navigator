@@ -1,0 +1,27 @@
+{
+  "id": "normativos_52891",
+  "ano": 2025,
+  "nome": "BC - Resolução CMN N° 5.211 de 12/05/2025",
+  "descricao": "Estabelece limites e condições para execução do acordo de swap de moedas entre o Banco Central do Brasil e o Banco Popular da China.",
+  "data_feed": "2025-05-12T18:30:00-03:00",
+  "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5211",
+  "api_url": "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Resolu%C3%A7%C3%A3o+CMN&p2=5211",
+  "extraido_em": "2026-10-12T18:39:22.098954+00:00",
+  "conteudo": {
+    "titulo": "Resolução CMN N° 5.211",
+    "tipo": "Resolução CMN",
+    "numero": 5211.0,
+    "data": "2025-05-12T21:30:00Z",
+    "data_texto": "12/5/2025 18:30",
+    "assunto": "Estabelece limites e condições para execução do acordo de swap de moedas entre o Banco Central do Brasil e o Banco Popular da China.",
+    "dou": "Publicada no DOU de 13/5/2025, Seção 1, p. 46.",
+    "referencias": "Lei nº 4.595/1964, arts. 4º, inciso V, e 9º.;#Lei nº 11.908/2009, art. 6º.;#Lei nº 14.286/2021.;#",
+    "normas_vinculadas": null,
+    "atualizacoes": null,
+    "revogado": false,
+    "cancelado": false,
+    "versao": 1.0,
+    "id_bcb": 52594,
+    "texto": "RESOLUÇÃO CMN Nº 5.211, DE 12 DE MAIO DE 2025\n\nEstabelece limites e condições para execução do acordo de swap de moedas entre o Banco Central do Brasil e o Banco Popular da China.\n\nO Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão extraordinária realizada em 9 de maio de 2025, com fundamento no art. 4º, caput, inciso V, da Lei nº 4.595, de 31 de dezembro de 1964, no art. 6º da Lei nº 11.908, de 3 de março de 2009, e tendo em vista o disposto na Lei nº 14.286, de 29 de dezembro de 2021,\n\nR E S O L V E U :\n\nArt. 1º  Esta Resolução estabelece os limites e as condições a serem observados na execução de acordo de swap de moedas locais a ser firmado entre o Banco Central do Brasil e o Banco Popular da China, nos termos do art. 6º da Lei nº 11.908, de 3 de março de 2009.\n\nArt. 2º  O valor em aberto das operações decorrentes do acordo de que trata o art. 1º não poderá ultrapassar o montante agregado de R$157.000.000.000,00 (cento e cinquenta e sete bilhões de reais), admitindo-se a realização de operações por até cinco anos contados da data de efetivação, conforme estabelecido no acordo referido no art. 1º, podendo, entretanto, ser prorrogado conforme a vontade das partes.\n\nArt. 3º  Os valores em reais recebidos pelo Banco Popular da China serão creditados em conta especial de depósito aberta em seu nome no Banco Central do Brasil, sem remuneração ou acesso a crédito, cuja utilização será restrita às movimentações de recursos vinculadas à execução do acordo de que trata o art. 1º e condicionadas ao objetivo deste.\n\nArt. 4º  O Banco Central do Brasil, no momento da contratação das operações de que trata esta Resolução, deverá observar as taxas de câmbio, relativas às duas moedas, praticadas nos mercados cambiais nacional e internacional e as taxas de juros e prêmios de riscos das obrigações soberanas transacionadas nos mercados financeiros nacional e internacional, de forma a assegurar que as condições estabelecidas e acordadas garantam o equilíbrio econômico-financeiro dos haveres e/ou das obrigações eventualmente assumidos.\n\nArt. 5º  O Banco Central do Brasil adotará as medidas necessárias à execução do disposto nesta Resolução.\n\nArt. 6º  Esta Resolução entra em vigor na data de sua publicação.\n\nRENATO DIAS DE BRITO GOMES\n\nPresidente do Banco Central do Brasil substituto"
+  }
+}

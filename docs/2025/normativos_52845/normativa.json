@@ -1,0 +1,27 @@
+{
+  "id": "normativos_52845",
+  "ano": 2025,
+  "nome": "BC - Resolução BCB N° 459 de 25/03/2025",
+  "descricao": "Altera a Resolução BCB nº 339, de 24 de agosto de 2023, para dispor sobre testes homologatórios para fins de autorização de sistemas de escrituração, registro e depósito centralizado de duplicatas escriturais e sobre o cronograma de implementação das funcionalidades de interoperabilidade.",
+  "data_feed": "2025-03-25T18:00:00-03:00",
+  "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=459",
+  "api_url": "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Resolu%C3%A7%C3%A3o+BCB&p2=459",
+  "extraido_em": "2026-10-12T18:38:36.277650+00:00",
+  "conteudo": {
+    "titulo": "Resolução BCB N° 459",
+    "tipo": "Resolução BCB",
+    "numero": 459.0,
+    "data": "2025-03-25T21:00:00Z",
+    "data_texto": "25/3/2025 18:00",
+    "assunto": "Altera a Resolução BCB nº 339, de 24 de agosto de 2023, para dispor sobre testes homologatórios para fins de autorização de sistemas de escrituração, registro e depósito centralizado de duplicatas escriturais e sobre o cronograma de implementação das funcionalidades de interoperabilidade.",
+    "dou": "Publicada no DOU de 26/3/2025, Seção 1, p. 143.",
+    "referencias": "Lei nº 4.595/1964, art. 9º.;#Lei nº 12.810/2013, arts. 22, inciso II; e 28, inciso II.;#Lei nº 13.775/2018, arts. 3º, § 1º; 4º, § 2º; e 11.;#Decreto nº 9.769/2019.;#Resolução CMN nº 4.815/2020.;#Altera Resolução BCB nº 339/2023 - Dá nova redação: art. 35, § 1º, incisos I e II, \"a\" e \"b\"; e art. 39, incisos I, II, III e IV. Inclui: art. 35, § 1º, inciso II, \"c\", \"d\" e \"e\". Revoga: art. 35, § 1º, incisos III, IV e V.;#",
+    "normas_vinculadas": "RESOLUÇÃO BCB;@339;@2023;#RESOLUÇÃO;@4815;@2020;#",
+    "atualizacoes": null,
+    "revogado": false,
+    "cancelado": false,
+    "versao": 1.0,
+    "id_bcb": 52547,
+    "texto": "Resolução Nº 222\n\nRESOLUÇÃO BCB\nNº 459, DE 25 DE MARÇO DE 2025\n\nAltera\na Resolução BCB nº 339, de 24 de agosto de 2023, para dispor sobre testes\nhomologatórios para fins de autorização de sistemas de escrituração, registro e\ndepósito centralizado de duplicatas escriturais e sobre o cronograma de\nimplementação das funcionalidades de interoperabilidade.\n\nA Diretoria Colegiada do\nBanco Central do Brasil, em sessão realizada em 25 de março de 2025, com base\nnos arts. 9º da Lei nº 4.595, de 31 de dezembro de 1964, 22, caput,\ninciso II, e 28, caput, inciso II, da Lei nº 12.810, de 15 de maio de\n2013, e 3º, § 1º, 4º, § 2º, e 11 da Lei nº 13.775, de 20 de dezembro de 2018,\ncombinados com o disposto no Decreto nº 9.769, de 16 de abril de 2019, e tendo\nem vista o disposto na Resolução nº 4.815, de 4 de maio de 2020,\n\nR E S O L V E :\n\nArt. 1º  A Resolução BCB\nnº 339, de 24 de agosto de 2023, publicada no Diário Oficial da União de 25 de\nagosto de 2023, passa a vigorar com as seguintes alterações:\n\n\"Art. 35.  ..................................................................................................................................\n\n§ 1º  A participação nos testes\nhomologatórios está condicionada ao encaminhamento, pelas entidades referidas\nno caput, de documentos nos seguintes prazos, contados da data de\npublicação do ato de aprovação da convenção:\n\nI - em até cento e vinte dias: manuais\ntécnicos operacionais de que trata o art. 30, § 1º, inciso IX; e\n\nII - em até cento e cinquenta dias:\n\na) regulamentos do sistema de registro ou de\ndepósito centralizado objeto de comunicação ou de pedido de autorização,\nobservado o disposto no art. 21, caput, inciso I;\n\nb) manuais técnicos individuais, referentes\naos serviços prestados aos seus participantes e demais usuários;\n\nc) pedido de autorização para o exercício da\natividade de escrituração de duplicatas escriturais, conforme opção da\nentidade;\n\nd) indicação do diretor designado em estatuto\nou contrato social responsável pela realização dos testes homologatórios; e\n\ne) plano conjunto de testes para aprovação do\nBanco Central do Brasil.\n\n.......................................................................................................................................\"\n(NR)\n\n\"Art. 39.  ................................................................................................................................\n\nI - no caso do art. 29, caput, inciso\nI, no início dessas operações;\n\nII - no caso do art. 29, caput,\nincisos II e VI, em até dois meses;\n\nIII - no caso do art. 29, caput,\nincisos III, IV e VII, em até quatro meses; e\n\nIV - no caso dos demais incisos, em até seis\nmeses.\n\n........................................................................................................................................\"(NR)\n\nArt. 2º\nFicam revogados os incisos III, IV e V do § 1º do art. 35 da Resolução BCB nº\n339, de 24 de agosto 2023, publicada no Diário Oficial da União de 25 de agosto\nde 2023.\n\nArt. 3º  Esta\nResolução entra em vigor na data de sua publicação.\n\nGILNEU FRANCISCO ASTOLFI\nVIVAN                     RENATO DIAS DE BRITO GOMES\nDiretor de Regulação                                              Diretor\nde Organização do Sistema\nFinanceiro\ne de Resolução"
+  }
+}

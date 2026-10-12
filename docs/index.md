@@ -1,7 +1,310 @@
 # Índice de textos das normativas
 
-**Total extraído:** 0
+**Total extraído:** 297
 
-**Última atualização:** Ainda não executado
+**Última atualização:** 2026-10-12T18:39:53.120080+00:00
 
 Este arquivo é gerado automaticamente por `scripts/extract_bacen_texts.py`.
+
+## 2026
+
+- [BC - Resolução BCB N° 599 de 08/10/2026](2026/normativos_53026/normativa.md) — `normativos_53026`
+- [BC - Resolução BCB N° 598 de 07/10/2026](2026/normativos_53025/normativa.md) — `normativos_53025`
+- [BC - Resolução BCB N° 592 de 30/09/2026](2026/normativos_53018/normativa.md) — `normativos_53018`
+- [BC - Instrução Normativa BCB N° 779 de 01/10/2026](2026/normativos_53024/normativa.md) — `normativos_53024`
+- [BC - Resolução BCB N° 596 de 30/09/2026](2026/normativos_53022/normativa.md) — `normativos_53022`
+- [BC - Resolução BCB N° 593 de 30/09/2026](2026/normativos_53019/normativa.md) — `normativos_53019`
+- [BC - Resolução BCB N° 597 de 30/09/2026](2026/normativos_53023/normativa.md) — `normativos_53023`
+- [BC - Resolução BCB N° 594 de 30/09/2026](2026/normativos_53020/normativa.md) — `normativos_53020`
+- [BC - Resolução BCB N° 595 de 30/09/2026](2026/normativos_53021/normativa.md) — `normativos_53021`
+- [BC - Resolução BCB N° 591 de 30/09/2026](2026/normativos_53017/normativa.md) — `normativos_53017`
+
+## 2025
+
+- [BC - Resolução BCB N° 544 de 24/12/2025](2025/normativos_52814/normativa.md) — `normativos_52814`
+- [BC - Resolução CMN N° 5.278 de 24/12/2025](2025/normativos_52813/normativa.md) — `normativos_52813`
+- [BC - Instrução Normativa BCB N° 695 de 23/12/2025](2025/normativos_52812/normativa.md) — `normativos_52812`
+- [BC - Instrução Normativa BCB N° 694 de 23/12/2025](2025/normativos_52811/normativa.md) — `normativos_52811`
+- [BC - Instrução Normativa BCB N° 693 de 19/12/2025](2025/normativos_52810/normativa.md) — `normativos_52810`
+- [BC - Instrução Normativa BCB N° 692 de 19/12/2025](2025/normativos_52809/normativa.md) — `normativos_52809`
+- [BC - Resolução CMN N° 5.277 de 19/12/2025](2025/normativos_52808/normativa.md) — `normativos_52808`
+- [BC - Resolução CMN N° 5.275 de 18/12/2025](2025/normativos_52805/normativa.md) — `normativos_52805`
+- [BC - Instrução Normativa BCB N° 691 de 18/12/2025](2025/normativos_52807/normativa.md) — `normativos_52807`
+- [BC - Resolução CMN N° 5.276 de 18/12/2025](2025/normativos_52806/normativa.md) — `normativos_52806`
+- [BC - Resolução CMN N° 5.274 de 18/12/2025](2025/normativos_52804/normativa.md) — `normativos_52804`
+- [BC - Resolução CMN N° 5.273 de 18/12/2025](2025/normativos_52803/normativa.md) — `normativos_52803`
+- [BC - Resolução CMN N° 5.272 de 18/12/2025](2025/normativos_52802/normativa.md) — `normativos_52802`
+- [BC - Resolução CMN N° 5.271 de 18/12/2025](2025/normativos_52801/normativa.md) — `normativos_52801`
+- [BC - Resolução CMN N° 5.270 de 18/12/2025](2025/normativos_52800/normativa.md) — `normativos_52800`
+- [BC - Resolução CMN N° 5.269 de 18/12/2025](2025/normativos_52799/normativa.md) — `normativos_52799`
+- [BC - Resolução CMN N° 5.268 de 18/12/2025](2025/normativos_52798/normativa.md) — `normativos_52798`
+- [BC - Instrução Normativa BCB N° 690 de 17/12/2025](2025/normativos_52791/normativa.md) — `normativos_52791`
+- [BC - Resolução BCB N° 537 de 16/12/2025](2025/normativos_52790/normativa.md) — `normativos_52790`
+- [BC - Resolução BCB N° 536 de 16/12/2025](2025/normativos_52789/normativa.md) — `normativos_52789`
+- [BC - Resolução BCB N° 535 de 16/12/2025](2025/normativos_52788/normativa.md) — `normativos_52788`
+- [BC - Resolução BCB N° 534 de 16/12/2025](2025/normativos_52787/normativa.md) — `normativos_52787`
+- [BC - Resolução BCB N° 533 de 16/12/2025](2025/normativos_52786/normativa.md) — `normativos_52786`
+- [BC - Resolução BCB N° 532 de 11/12/2025](2025/normativos_52785/normativa.md) — `normativos_52785`
+- [BC - Resolução BCB N° 531 de 11/12/2025](2025/normativos_52784/normativa.md) — `normativos_52784`
+- [BC - Resolução BCB N° 530 de 11/12/2025](2025/normativos_52783/normativa.md) — `normativos_52783`
+- [BC - Instrução Normativa BCB N° 689 de 11/12/2025](2025/normativos_52782/normativa.md) — `normativos_52782`
+- [BC - Instrução Normativa BCB N° 688 de 10/12/2025](2025/normativos_52781/normativa.md) — `normativos_52781`
+- [BC - Instrução Normativa BCB N° 687 de 09/12/2025](2025/normativos_52780/normativa.md) — `normativos_52780`
+- [BC - Instrução Normativa BCB N° 686 de 08/12/2025](2025/normativos_52779/normativa.md) — `normativos_52779`
+- [BC - Instrução Normativa BCB N° 685 de 05/12/2025](2025/normativos_52778/normativa.md) — `normativos_52778`
+- [BC - Resolução BCB N° 529 de 03/12/2025](2025/normativos_52777/normativa.md) — `normativos_52777`
+- [BC - Resolução BCB N° 528 de 03/12/2025](2025/normativos_52776/normativa.md) — `normativos_52776`
+- [BC - Resolução BCB N° 527 de 03/12/2025](2025/normativos_52775/normativa.md) — `normativos_52775`
+- [BC - Resolução BCB N° 526 de 03/12/2025](2025/normativos_52774/normativa.md) — `normativos_52774`
+- [BC - Instrução Normativa BCB N° 684 de 01/12/2025](2025/normativos_52773/normativa.md) — `normativos_52773`
+- [BC - Instrução Normativa BCB N° 683 de 28/11/2025](2025/normativos_52772/normativa.md) — `normativos_52772`
+- [BC - Resolução Conjunta N° 18 de 28/11/2025](2025/normativos_52771/normativa.md) — `normativos_52771`
+- [BC - Resolução BCB N° 525 de 28/11/2025](2025/normativos_52770/normativa.md) — `normativos_52770`
+- [BC - Resolução CMN N° 5.267 de 28/11/2025](2025/normativos_52769/normativa.md) — `normativos_52769`
+- [BC - Resolução CMN N° 5.266 de 28/11/2025](2025/normativos_52768/normativa.md) — `normativos_52768`
+- [BC - Resolução Conjunta N° 17 de 28/11/2025](2025/normativos_52767/normativa.md) — `normativos_52767`
+- [BC - Resolução Conjunta N° 16 de 28/11/2025](2025/normativos_52766/normativa.md) — `normativos_52766`
+- [BC - Resolução Conjunta N° 15 de 28/11/2025](2025/normativos_52765/normativa.md) — `normativos_52765`
+- [BC - Resolução CMN N° 5.265 de 28/11/2025](2025/normativos_52764/normativa.md) — `normativos_52764`
+- [BC - Resolução CMN N° 5.264 de 27/11/2025](2025/normativos_52763/normativa.md) — `normativos_52763`
+- [BC - Instrução Normativa BCB N° 682 de 19/11/2025](2025/normativos_52762/normativa.md) — `normativos_52762`
+- [BC - Resolução BCB N° 524 de 18/11/2025](2025/normativos_52761/normativa.md) — `normativos_52761`
+- [BC - Resolução BCB N° 523 de 17/11/2025](2025/normativos_52760/normativa.md) — `normativos_52760`
+- [BC - Resolução CMN N° 5.263 de 13/11/2025](2025/normativos_52759/normativa.md) — `normativos_52759`
+- [BC - Resolução CMN N° 5.262 de 13/11/2025](2025/normativos_52758/normativa.md) — `normativos_52758`
+- [BC - Instrução Normativa BCB N° 681 de 13/11/2025](2025/normativos_52757/normativa.md) — `normativos_52757`
+- [BC - Instrução Normativa BCB N° 680 de 11/11/2025](2025/normativos_52756/normativa.md) — `normativos_52756`
+- [BC - Resolução BCB N° 522 de 10/11/2025](2025/normativos_52755/normativa.md) — `normativos_52755`
+- [BC - Resolução BCB N° 521 de 10/11/2025](2025/normativos_52754/normativa.md) — `normativos_52754`
+- [BC - Resolução BCB N° 520 de 10/11/2025](2025/normativos_52753/normativa.md) — `normativos_52753`
+- [BC - Resolução BCB N° 519 de 10/11/2025](2025/normativos_52752/normativa.md) — `normativos_52752`
+- [BC - Resolução BCB N° 518 de 03/11/2025](2025/normativos_52751/normativa.md) — `normativos_52751`
+- [BC - Resolução BCB N° 517 de 03/11/2025](2025/normativos_52750/normativa.md) — `normativos_52750`
+- [BC - Resolução Conjunta N° 14 de 03/11/2025](2025/normativos_52749/normativa.md) — `normativos_52749`
+- [BC - Resolução CMN N° 5.261 de 03/11/2025](2025/normativos_52748/normativa.md) — `normativos_52748`
+- [BC - Resolução CMN N° 5.260 de 30/10/2025](2025/normativos_52747/normativa.md) — `normativos_52747`
+- [BC - Instrução Normativa BCB N° 677 de 29/10/2025](2025/normativos_52746/normativa.md) — `normativos_52746`
+- [BC - Instrução Normativa BCB N° 679 de 30/10/2025](2025/normativos_52745/normativa.md) — `normativos_52745`
+- [BC - Instrução Normativa BCB N° 678 de 30/10/2025](2025/normativos_52744/normativa.md) — `normativos_52744`
+- [BC - Resolução BCB N° 516 de 29/10/2025](2025/normativos_52743/normativa.md) — `normativos_52743`
+- [BC - Resolução CMN N° 5.259 de 23/10/2025](2025/normativos_52742/normativa.md) — `normativos_52742`
+- [BC - Resolução CMN N° 5.258 de 23/10/2025](2025/normativos_52741/normativa.md) — `normativos_52741`
+- [BC - Resolução BCB N° 515 de 21/10/2025](2025/normativos_52740/normativa.md) — `normativos_52740`
+- [BC - Resolução BCB N° 514 de 21/10/2025](2025/normativos_52739/normativa.md) — `normativos_52739`
+- [BC - Resolução BCB N° 513 de 21/10/2025](2025/normativos_52738/normativa.md) — `normativos_52738`
+- [BC - Instrução Normativa BCB N° 676 de 15/10/2025](2025/normativos_52737/normativa.md) — `normativos_52737`
+- [BC - Instrução Normativa BCB N° 675 de 14/10/2025](2025/normativos_52736/normativa.md) — `normativos_52736`
+- [BC - Instrução Normativa BCB N° 674 de 10/10/2025](2025/normativos_52735/normativa.md) — `normativos_52735`
+- [BC - Resolução BCB N° 512 de 10/10/2025](2025/normativos_52734/normativa.md) — `normativos_52734`
+- [BC - Resolução CMN N° 5.255 de 10/10/2025](2025/normativos_52731/normativa.md) — `normativos_52731`
+- [BC - Resolução CMN N° 5.254 de 10/10/2025](2025/normativos_52730/normativa.md) — `normativos_52730`
+- [BC - Resolução CMN N° 5.257 de 10/10/2025](2025/normativos_52733/normativa.md) — `normativos_52733`
+- [BC - Resolução CMN N° 5.256 de 10/10/2025](2025/normativos_52732/normativa.md) — `normativos_52732`
+- [BC - Resolução BCB N° 511 de 08/10/2025](2025/normativos_52729/normativa.md) — `normativos_52729`
+- [BC - Resolução BCB N° 510 de 08/10/2025](2025/normativos_52728/normativa.md) — `normativos_52728`
+- [BC - Resolução BCB N° 509 de 03/10/2025](2025/normativos_52727/normativa.md) — `normativos_52727`
+- [BC - Resolução BCB N° 508 de 03/10/2025](2025/normativos_52726/normativa.md) — `normativos_52726`
+- [BC - Instrução Normativa BCB N° 673 de 03/10/2025](2025/normativos_52725/normativa.md) — `normativos_52725`
+- [BC - Instrução Normativa BCB N° 672 de 02/10/2025](2025/normativos_52724/normativa.md) — `normativos_52724`
+- [BC - Instrução Normativa BCB N° 671 de 01/10/2025](2025/normativos_52723/normativa.md) — `normativos_52723`
+- [BC - Instrução Normativa BCB N° 670 de 30/09/2025](2025/normativos_52722/normativa.md) — `normativos_52722`
+- [BC - Instrução Normativa BCB N° 669 de 29/09/2025](2025/normativos_52721/normativa.md) — `normativos_52721`
+- [BC - Resolução BCB N° 507 de 26/09/2025](2025/normativos_52720/normativa.md) — `normativos_52720`
+- [BC - Resolução BCB N° 506 de 26/09/2025](2025/normativos_52719/normativa.md) — `normativos_52719`
+- [BC - Instrução Normativa BCB N° 668 de 26/09/2025](2025/normativos_52718/normativa.md) — `normativos_52718`
+- [BC - Resolução BCB N° 505 de 25/09/2025](2025/normativos_52717/normativa.md) — `normativos_52717`
+- [BC - Resolução CMN N° 5.253 de 25/09/2025](2025/normativos_52716/normativa.md) — `normativos_52716`
+- [BC - Resolução CMN N° 5.252 de 25/09/2025](2025/normativos_52715/normativa.md) — `normativos_52715`
+- [BC - Resolução CMN N° 5.251 de 25/09/2025](2025/normativos_52714/normativa.md) — `normativos_52714`
+- [BC - Resolução CMN N° 5.250 de 25/09/2025](2025/normativos_52713/normativa.md) — `normativos_52713`
+- [BC - Portaria Conjunta N° 16 de 22/09/2025](2025/normativos_52709/normativa.md) — `normativos_52709`
+- [BC - Resolução BCB N° 504 de 23/09/2025](2025/normativos_52712/normativa.md) — `normativos_52712`
+- [BC - Instrução Normativa BCB N° 667 de 22/09/2025](2025/normativos_52711/normativa.md) — `normativos_52711`
+- [BC - Instrução Normativa BCB N° 666 de 22/09/2025](2025/normativos_52710/normativa.md) — `normativos_52710`
+- [BC - Resolução CMN N° 5.249 de 19/09/2025](2025/normativos_52708/normativa.md) — `normativos_52708`
+- [BC - Resolução CMN N° 5.248 de 19/09/2025](2025/normativos_52707/normativa.md) — `normativos_52707`
+- [BC - Resolução CMN N° 5.247 de 19/09/2025](2025/normativos_52706/normativa.md) — `normativos_52706`
+- [BC - Resolução BCB N° 503 de 18/09/2025](2025/normativos_52705/normativa.md) — `normativos_52705`
+- [BC - Instrução Normativa BCB N° 665 de 16/09/2025](2025/normativos_52704/normativa.md) — `normativos_52704`
+- [BC - Instrução Normativa BCB N° 664 de 12/09/2025](2025/normativos_52703/normativa.md) — `normativos_52703`
+- [BC - Instrução Normativa BCB N° 663 de 12/09/2025](2025/normativos_52702/normativa.md) — `normativos_52702`
+- [BC - Instrução Normativa BCB N° 662 de 11/09/2025](2025/normativos_52701/normativa.md) — `normativos_52701`
+- [BC - Resolução BCB N° 502 de 11/09/2025](2025/normativos_52700/normativa.md) — `normativos_52700`
+- [BC - Instrução Normativa BCB N° 661 de 11/09/2025](2025/normativos_52699/normativa.md) — `normativos_52699`
+- [BC - Resolução BCB N° 501 de 11/09/2025](2025/normativos_52698/normativa.md) — `normativos_52698`
+- [BC - Resolução BCB N° 500 de 10/09/2025](2025/normativos_52697/normativa.md) — `normativos_52697`
+- [BC - Resolução BCB N° 499 de 10/09/2025](2025/normativos_52696/normativa.md) — `normativos_52696`
+- [BC - Instrução Normativa BCB N° 660 de 10/09/2025](2025/normativos_52695/normativa.md) — `normativos_52695`
+- [BC - Instrução Normativa BCB N° 659 de 08/09/2025](2025/normativos_52694/normativa.md) — `normativos_52694`
+- [BC - Resolução BCB N° 498 de 05/09/2025](2025/normativos_52693/normativa.md) — `normativos_52693`
+- [BC - Resolução BCB N° 497 de 05/09/2025](2025/normativos_52692/normativa.md) — `normativos_52692`
+- [BC - Resolução BCB N° 496 de 05/09/2025](2025/normativos_52691/normativa.md) — `normativos_52691`
+- [BC - Resolução BCB N° 495 de 05/09/2025](2025/normativos_52690/normativa.md) — `normativos_52690`
+- [BC - Resolução BCB N° 494 de 05/09/2025](2025/normativos_52689/normativa.md) — `normativos_52689`
+- [BC - Instrução Normativa BCB N° 658 de 05/09/2025](2025/normativos_52688/normativa.md) — `normativos_52688`
+- [BC - Instrução Normativa BCB N° 657 de 01/09/2025](2025/normativos_52687/normativa.md) — `normativos_52687`
+- [BC - Instrução Normativa BCB N° 656 de 01/09/2025](2025/normativos_52686/normativa.md) — `normativos_52686`
+- [BC - Resolução CMN N° 5.246 de 28/08/2025](2025/normativos_52685/normativa.md) — `normativos_52685`
+- [BC - Resolução CMN N° 5.245 de 28/08/2025](2025/normativos_52684/normativa.md) — `normativos_52684`
+- [BC - Resolução CMN N° 5.244 de 28/08/2025](2025/normativos_52683/normativa.md) — `normativos_52683`
+- [BC - Resolução CMN N° 5.243 de 28/08/2025](2025/normativos_52682/normativa.md) — `normativos_52682`
+- [BC - Instrução Normativa BCB N° 655 de 28/08/2025](2025/normativos_52681/normativa.md) — `normativos_52681`
+- [BC - Instrução Normativa BCB N° 654 de 28/08/2025](2025/normativos_52680/normativa.md) — `normativos_52680`
+- [BC - Instrução Normativa BCB N° 653 de 28/08/2025](2025/normativos_52679/normativa.md) — `normativos_52679`
+- [BC - Resolução BCB N° 493 de 28/08/2025](2025/normativos_52678/normativa.md) — `normativos_52678`
+- [BC - Instrução Normativa BCB N° 652 de 27/08/2025](2025/normativos_52677/normativa.md) — `normativos_52677`
+- [BC - Instrução Normativa BCB N° 651 de 26/08/2025](2025/normativos_52676/normativa.md) — `normativos_52676`
+- [BC - Resolução CMN N° 5.242 de 22/08/2025](2025/normativos_52675/normativa.md) — `normativos_52675`
+- [BC - Resolução CMN N° 5.241 de 22/08/2025](2025/normativos_52674/normativa.md) — `normativos_52674`
+- [BC - Resolução CMN N° 5.240 de 22/08/2025](2025/normativos_52673/normativa.md) — `normativos_52673`
+- [BC - Resolução CMN N° 5.239 de 22/08/2025](2025/normativos_52672/normativa.md) — `normativos_52672`
+- [BC - Instrução Normativa BCB N° 650 de 19/08/2025](2025/normativos_52671/normativa.md) — `normativos_52671`
+- [BC - Resolução BCB N° 492 de 14/08/2025](2025/normativos_52670/normativa.md) — `normativos_52670`
+- [BC - Instrução Normativa BCB N° 649 de 13/08/2025](2025/normativos_52669/normativa.md) — `normativos_52669`
+- [BC - Instrução Normativa BCB N° 648 de 12/08/2025](2025/normativos_52668/normativa.md) — `normativos_52668`
+- [BC - Instrução Normativa BCB N° 647 de 08/08/2025](2025/normativos_52667/normativa.md) — `normativos_52667`
+- [BC - Resolução BCB N° 491 de 06/08/2025](2025/normativos_52666/normativa.md) — `normativos_52666`
+- [BC - Resolução BCB N° 490 de 06/08/2025](2025/normativos_52665/normativa.md) — `normativos_52665`
+- [BC - Resolução CMN N° 5.238 de 01/08/2025](2025/normativos_52664/normativa.md) — `normativos_52664`
+- [BC - Instrução Normativa BCB N° 646 de 01/08/2025](2025/normativos_52663/normativa.md) — `normativos_52663`
+- [BC - Instrução Normativa BCB N° 645 de 31/07/2025](2025/normativos_52662/normativa.md) — `normativos_52662`
+- [BC - Resolução BCB N° 489 de 24/07/2025](2025/normativos_52661/normativa.md) — `normativos_52661`
+- [BC - Resolução CMN N° 5.237 de 24/07/2025](2025/normativos_52660/normativa.md) — `normativos_52660`
+- [BC - Resolução CMN N° 5.236 de 24/07/2025](2025/normativos_52659/normativa.md) — `normativos_52659`
+- [BC - Instrução Normativa BCB N° 644 de 23/07/2025](2025/normativos_52658/normativa.md) — `normativos_52658`
+- [BC - Instrução Normativa BCB N° 643 de 17/07/2025](2025/normativos_52657/normativa.md) — `normativos_52657`
+- [BC - Resolução BCB N° 488 de 16/07/2025](2025/normativos_52656/normativa.md) — `normativos_52656`
+- [BC - Resolução CMN N° 5.235 de 11/07/2025](2025/normativos_52655/normativa.md) — `normativos_52655`
+- [BC - Resolução BCB N° 487 de 10/07/2025](2025/normativos_52654/normativa.md) — `normativos_52654`
+- [BC - Instrução Normativa BCB N° 642 de 10/07/2025](2025/normativos_52653/normativa.md) — `normativos_52653`
+- [BC - Instrução Normativa BCB N° 641 de 09/07/2025](2025/normativos_52652/normativa.md) — `normativos_52652`
+- [BC - Resolução BCB N° 485 de 03/07/2025](2025/normativos_52650/normativa.md) — `normativos_52650`
+- [BC - Resolução BCB N° 486 de 03/07/2025](2025/normativos_52651/normativa.md) — `normativos_52651`
+- [BC - Resolução CMN N° 5.234 de 01/07/2025](2025/normativos_52649/normativa.md) — `normativos_52649`
+- [BC - Resolução CMN N° 5.233 de 01/07/2025](2025/normativos_52648/normativa.md) — `normativos_52648`
+- [BC - Resolução CMN N° 5.232 de 01/07/2025](2025/normativos_52647/normativa.md) — `normativos_52647`
+- [BC - Resolução CMN N° 5.231 de 01/07/2025](2025/normativos_52646/normativa.md) — `normativos_52646`
+- [BC - Resolução CMN N° 5.230 de 01/07/2025](2025/normativos_52645/normativa.md) — `normativos_52645`
+- [BC - Resolução CMN N° 5.229 de 01/07/2025](2025/normativos_52644/normativa.md) — `normativos_52644`
+- [BC - Resolução CMN N° 5.228 de 01/07/2025](2025/normativos_52643/normativa.md) — `normativos_52643`
+- [BC - Resolução CMN N° 5.227 de 26/06/2025](2025/normativos_52642/normativa.md) — `normativos_52642`
+- [BC - Resolução CMN N° 5.226 de 26/06/2025](2025/normativos_52641/normativa.md) — `normativos_52641`
+- [BC - Resolução CMN N° 5.225 de 26/06/2025](2025/normativos_52640/normativa.md) — `normativos_52640`
+- [BC - Resolução BCB N° 484 de 26/06/2025](2025/normativos_52639/normativa.md) — `normativos_52639`
+- [BC - Instrução Normativa BCB N° 640 de 23/06/2025](2025/normativos_52638/normativa.md) — `normativos_52638`
+- [BC - Instrução Normativa BCB N° 639 de 17/06/2025](2025/normativos_52637/normativa.md) — `normativos_52637`
+- [BC - Instrução Normativa BCB N° 638 de 13/06/2025](2025/normativos_52636/normativa.md) — `normativos_52636`
+- [BC - Instrução Normativa BCB N° 637 de 13/06/2025](2025/normativos_52635/normativa.md) — `normativos_52635`
+- [BC - Resolução BCB N° 483 de 11/06/2025](2025/normativos_52634/normativa.md) — `normativos_52634`
+- [BC - Instrução Normativa BCB N° 636 de 10/06/2025](2025/normativos_52633/normativa.md) — `normativos_52633`
+- [BC - Instrução Normativa BCB N° 635 de 09/06/2025](2025/normativos_52632/normativa.md) — `normativos_52632`
+- [BC - Resolução CMN N° 5.224 de 06/06/2025](2025/normativos_52631/normativa.md) — `normativos_52631`
+- [BC - Instrução Normativa BCB N° 634 de 05/06/2025](2025/normativos_52630/normativa.md) — `normativos_52630`
+- [BC - Instrução Normativa BCB N° 633 de 05/06/2025](2025/normativos_52629/normativa.md) — `normativos_52629`
+- [BC - Instrução Normativa BCB N° 632 de 05/06/2025](2025/normativos_52628/normativa.md) — `normativos_52628`
+- [BC - Instrução Normativa BCB N° 631 de 05/06/2025](2025/normativos_52627/normativa.md) — `normativos_52627`
+- [BC - Instrução Normativa BCB N° 630 de 05/06/2025](2025/normativos_52626/normativa.md) — `normativos_52626`
+- [BC - Instrução Normativa BCB N° 629 de 05/06/2025](2025/normativos_52625/normativa.md) — `normativos_52625`
+- [BC - Resolução BCB N° 482 de 05/06/2025](2025/normativos_52624/normativa.md) — `normativos_52624`
+- [BC - Resolução BCB N° 481 de 04/06/2025](2025/normativos_52623/normativa.md) — `normativos_52623`
+- [BC - Resolução BCB N° 480 de 04/06/2025](2025/normativos_52622/normativa.md) — `normativos_52622`
+- [BC - Resolução BCB N° 477 de 30/05/2025](2025/normativos_52894/normativa.md) — `normativos_52894`
+- [BC - Resolução BCB N° 478 de 30/05/2025](2025/normativos_52893/normativa.md) — `normativos_52893`
+- [BC - Resolução CMN N° 5.223 de 30/05/2025](2025/normativos_52879/normativa.md) — `normativos_52879`
+- [BC - Resolução CMN N° 5.222 de 30/05/2025](2025/normativos_52880/normativa.md) — `normativos_52880`
+- [BC - Resolução CMN N° 5.221 de 30/05/2025](2025/normativos_52881/normativa.md) — `normativos_52881`
+- [BC - Resolução CMN N° 5.220 de 29/05/2025](2025/normativos_52882/normativa.md) — `normativos_52882`
+- [BC - Resolução CMN N° 5.219 de 29/05/2025](2025/normativos_52883/normativa.md) — `normativos_52883`
+- [BC - Instrução Normativa BCB N° 627 de 29/05/2025](2025/normativos_52901/normativa.md) — `normativos_52901`
+- [BC - Instrução Normativa BCB N° 626 de 29/05/2025](2025/normativos_52902/normativa.md) — `normativos_52902`
+- [BC - Instrução Normativa BCB N° 625 de 29/05/2025](2025/normativos_52903/normativa.md) — `normativos_52903`
+- [BC - Resolução BCB N° 476 de 26/05/2025](2025/normativos_52895/normativa.md) — `normativos_52895`
+- [BC - Resolução BCB N° 475 de 26/05/2025](2025/normativos_52896/normativa.md) — `normativos_52896`
+- [BC - Resolução CMN N° 5.218 de 26/05/2025](2025/normativos_52884/normativa.md) — `normativos_52884`
+- [BC - Resolução BCB N° 474 de 22/05/2025](2025/normativos_52897/normativa.md) — `normativos_52897`
+- [BC - Resolução CMN N° 5.216 de 22/05/2025](2025/normativos_52886/normativa.md) — `normativos_52886`
+- [BC - Resolução CMN N° 5.217 de 22/05/2025](2025/normativos_52885/normativa.md) — `normativos_52885`
+- [BC - Resolução CMN N° 5.214 de 22/05/2025](2025/normativos_52888/normativa.md) — `normativos_52888`
+- [BC - Resolução CMN N° 5.215 de 22/05/2025](2025/normativos_52887/normativa.md) — `normativos_52887`
+- [BC - Resolução CMN N° 5.212 de 22/05/2025](2025/normativos_52890/normativa.md) — `normativos_52890`
+- [BC - Resolução CMN N° 5.213 de 22/05/2025](2025/normativos_52889/normativa.md) — `normativos_52889`
+- [BC - Instrução Normativa BCB N° 624 de 22/05/2025](2025/normativos_52904/normativa.md) — `normativos_52904`
+- [BC - Instrução Normativa BCB N° 623 de 21/05/2025](2025/normativos_52905/normativa.md) — `normativos_52905`
+- [BC - Resolução BCB N° 473 de 20/05/2025](2025/normativos_52898/normativa.md) — `normativos_52898`
+- [BC - Instrução Normativa BCB N° 622 de 15/05/2025](2025/normativos_52906/normativa.md) — `normativos_52906`
+- [BC - Instrução Normativa BCB N° 621 de 13/05/2025](2025/normativos_52907/normativa.md) — `normativos_52907`
+- [BC - Resolução CMN N° 5.211 de 12/05/2025](2025/normativos_52891/normativa.md) — `normativos_52891`
+- [BC - Resolução CMN N° 5.210 de 09/05/2025](2025/normativos_52892/normativa.md) — `normativos_52892`
+- [BC - Instrução Normativa BCB N° 620 de 09/05/2025](2025/normativos_52908/normativa.md) — `normativos_52908`
+- [BC - Instrução Normativa BCB N° 619 de 09/05/2025](2025/normativos_52909/normativa.md) — `normativos_52909`
+- [BC - Resolução BCB N° 471 de 08/05/2025](2025/normativos_52900/normativa.md) — `normativos_52900`
+- [BC - Resolução BCB N° 472 de 08/05/2025](2025/normativos_52899/normativa.md) — `normativos_52899`
+- [BC - Instrução Normativa BCB N° 618 de 07/05/2025](2025/normativos_52910/normativa.md) — `normativos_52910`
+- [BC - Instrução Normativa BCB N° 617 de 06/05/2025](2025/normativos_52911/normativa.md) — `normativos_52911`
+- [BC - Instrução Normativa BCB N° 616 de 06/05/2025](2025/normativos_52912/normativa.md) — `normativos_52912`
+- [BC - Instrução Normativa BCB N° 615 de 06/05/2025](2025/normativos_52913/normativa.md) — `normativos_52913`
+- [BC - Instrução Normativa BCB N° 614 de 05/05/2025](2025/normativos_52914/normativa.md) — `normativos_52914`
+- [BC - Resolução CMN N° 5.209 de 30/04/2025](2025/normativos_52854/normativa.md) — `normativos_52854`
+- [BC - Resolução CMN N° 5.208 de 30/04/2025](2025/normativos_52855/normativa.md) — `normativos_52855`
+- [BC - Resolução CMN N° 5.207 de 30/04/2025](2025/normativos_52856/normativa.md) — `normativos_52856`
+- [BC - Resolução BCB N° 470 de 30/04/2025](2025/normativos_52860/normativa.md) — `normativos_52860`
+- [BC - Resolução BCB N° 468 de 30/04/2025](2025/normativos_52862/normativa.md) — `normativos_52862`
+- [BC - Resolução BCB N° 469 de 30/04/2025](2025/normativos_52861/normativa.md) — `normativos_52861`
+- [BC - Resolução BCB N° 467 de 30/04/2025](2025/normativos_52863/normativa.md) — `normativos_52863`
+- [BC - Resolução BCB N° 466 de 30/04/2025](2025/normativos_52864/normativa.md) — `normativos_52864`
+- [BC - Instrução Normativa BCB N° 613 de 30/04/2025](2025/normativos_52870/normativa.md) — `normativos_52870`
+- [BC - Resolução BCB N° 465 de 29/04/2025](2025/normativos_52865/normativa.md) — `normativos_52865`
+- [BC - Resolução BCB N° 464 de 29/04/2025](2025/normativos_52866/normativa.md) — `normativos_52866`
+- [BC - Resolução CMN N° 5.206 de 28/04/2025](2025/normativos_52857/normativa.md) — `normativos_52857`
+- [BC - Instrução Normativa BCB N° 612 de 25/04/2025](2025/normativos_52871/normativa.md) — `normativos_52871`
+- [BC - Resolução BCB N° 463 de 22/04/2025](2025/normativos_52867/normativa.md) — `normativos_52867`
+- [BC - Instrução Normativa BCB N° 611 de 22/04/2025](2025/normativos_52872/normativa.md) — `normativos_52872`
+- [BC - Resolução CMN N° 5.205 de 17/04/2025](2025/normativos_52858/normativa.md) — `normativos_52858`
+- [BC - Instrução Normativa BCB N° 610 de 16/04/2025](2025/normativos_52873/normativa.md) — `normativos_52873`
+- [BC - Instrução Normativa BCB N° 609 de 11/04/2025](2025/normativos_52874/normativa.md) — `normativos_52874`
+- [BC - Resolução BCB N° 462 de 09/04/2025](2025/normativos_52868/normativa.md) — `normativos_52868`
+- [BC - Resolução BCB N° 461 de 09/04/2025](2025/normativos_52869/normativa.md) — `normativos_52869`
+- [BC - Instrução Normativa BCB N° 608 de 08/04/2025](2025/normativos_52875/normativa.md) — `normativos_52875`
+- [BC - Resolução CMN N° 5.204 de 04/04/2025](2025/normativos_52859/normativa.md) — `normativos_52859`
+- [BC - Instrução Normativa BCB N° 607 de 03/04/2025](2025/normativos_52876/normativa.md) — `normativos_52876`
+- [BC - Instrução Normativa BCB N° 606 de 03/04/2025](2025/normativos_52877/normativa.md) — `normativos_52877`
+- [BC - Instrução Normativa BCB N° 605 de 01/04/2025](2025/normativos_52878/normativa.md) — `normativos_52878`
+- [BC - Instrução Normativa BCB N° 604 de 31/03/2025](2025/normativos_52834/normativa.md) — `normativos_52834`
+- [BC - Instrução Normativa BCB N° 603 de 28/03/2025](2025/normativos_52835/normativa.md) — `normativos_52835`
+- [BC - Resolução CMN N° 5.202 de 27/03/2025](2025/normativos_52837/normativa.md) — `normativos_52837`
+- [BC - Resolução CMN N° 5.203 de 27/03/2025](2025/normativos_52836/normativa.md) — `normativos_52836`
+- [BC - Instrução Normativa BCB N° 602 de 27/03/2025](2025/normativos_52838/normativa.md) — `normativos_52838`
+- [BC - Instrução Normativa BCB N° 601 de 27/03/2025](2025/normativos_52839/normativa.md) — `normativos_52839`
+- [BC - Instrução Normativa BCB N° 600 de 27/03/2025](2025/normativos_52840/normativa.md) — `normativos_52840`
+- [BC - Instrução Normativa BCB N° 599 de 27/03/2025](2025/normativos_52841/normativa.md) — `normativos_52841`
+- [BC - Instrução Normativa BCB N° 598 de 26/03/2025](2025/normativos_52842/normativa.md) — `normativos_52842`
+- [BC - Instrução Normativa BCB N° 597 de 26/03/2025](2025/normativos_52843/normativa.md) — `normativos_52843`
+- [BC - Resolução BCB N° 460 de 25/03/2025](2025/normativos_52844/normativa.md) — `normativos_52844`
+- [BC - Resolução BCB N° 459 de 25/03/2025](2025/normativos_52845/normativa.md) — `normativos_52845`
+- [BC - Instrução Normativa BCB N° 596 de 24/03/2025](2025/normativos_52846/normativa.md) — `normativos_52846`
+- [BC - Instrução Normativa BCB N° 595 de 21/03/2025](2025/normativos_52847/normativa.md) — `normativos_52847`
+- [BC - Resolução BCB N° 458 de 20/03/2025](2025/normativos_52848/normativa.md) — `normativos_52848`
+- [BC - Instrução Normativa BCB N° 594 de 19/03/2025](2025/normativos_52849/normativa.md) — `normativos_52849`
+- [BC - Instrução Normativa BCB N° 593 de 19/03/2025](2025/normativos_52850/normativa.md) — `normativos_52850`
+- [BC - Instrução Normativa BCB N° 592 de 19/03/2025](2025/normativos_52851/normativa.md) — `normativos_52851`
+- [BC - Instrução Normativa BCB N° 591 de 17/03/2025](2025/normativos_52852/normativa.md) — `normativos_52852`
+- [BC - Resolução BCB N° 457 de 06/03/2025](2025/normativos_52853/normativa.md) — `normativos_52853`
+- [BC - Resolução CMN N° 5.201 de 27/02/2025](2025/normativos_52828/normativa.md) — `normativos_52828`
+- [BC - Resolução BCB N° 456 de 25/02/2025](2025/normativos_52829/normativa.md) — `normativos_52829`
+- [BC - Resolução CMN N° 5.200 de 20/02/2025](2025/normativos_52831/normativa.md) — `normativos_52831`
+- [BC - Resolução BCB N° 455 de 20/02/2025](2025/normativos_52830/normativa.md) — `normativos_52830`
+- [BC - Instrução Normativa BCB N° 590 de 05/02/2025](2025/normativos_52832/normativa.md) — `normativos_52832`
+- [BC - Instrução Normativa BCB N° 589 de 04/02/2025](2025/normativos_52833/normativa.md) — `normativos_52833`
+- [BC - Instrução Normativa BCB N° 588 de 31/01/2025](2025/normativos_52815/normativa.md) — `normativos_52815`
+- [BC - Instrução Normativa BCB N° 587 de 31/01/2025](2025/normativos_52816/normativa.md) — `normativos_52816`
+- [BC - Resolução BCB N° 454 de 30/01/2025](2025/normativos_52817/normativa.md) — `normativos_52817`
+- [BC - Resolução BCB N° 453 de 30/01/2025](2025/normativos_52818/normativa.md) — `normativos_52818`
+- [BC - Instrução Normativa BCB N° 586 de 29/01/2025](2025/normativos_52819/normativa.md) — `normativos_52819`
+- [BC - Instrução Normativa BCB N° 585 de 29/01/2025](2025/normativos_52820/normativa.md) — `normativos_52820`
+- [BC - Instrução Normativa BCB N° 584 de 28/01/2025](2025/normativos_52821/normativa.md) — `normativos_52821`
+- [BC - Instrução Normativa BCB N° 583 de 27/01/2025](2025/normativos_52822/normativa.md) — `normativos_52822`
+- [BC - Resolução BCB N° 452 de 21/01/2025](2025/normativos_52823/normativa.md) — `normativos_52823`
+- [BC - Resolução BCB N° 451 de 15/01/2025](2025/normativos_52824/normativa.md) — `normativos_52824`
+- [BC - Resolução BCB N° 449 de 15/01/2025](2025/normativos_52826/normativa.md) — `normativos_52826`
+- [BC - Resolução BCB N° 450 de 15/01/2025](2025/normativos_52825/normativa.md) — `normativos_52825`
+- [BC - Instrução Normativa BCB N° 582 de 09/01/2025](2025/normativos_52827/normativa.md) — `normativos_52827`

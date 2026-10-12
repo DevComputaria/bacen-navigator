@@ -1,0 +1,27 @@
+{
+  "id": "normativos_52857",
+  "ano": 2025,
+  "nome": "BC - Resolução CMN N° 5.206 de 28/04/2025",
+  "descricao": "Altera a Resolução nº 4.072, de 26 de abril de 2012, que altera e consolida as normas sobre a instalação, no País, de dependências de instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil.",
+  "data_feed": "2025-04-28T18:00:00-03:00",
+  "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5206",
+  "api_url": "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Resolu%C3%A7%C3%A3o+CMN&p2=5206",
+  "extraido_em": "2026-10-12T18:38:49.068554+00:00",
+  "conteudo": {
+    "titulo": "Resolução CMN N° 5.206",
+    "tipo": "Resolução CMN",
+    "numero": 5206.0,
+    "data": "2025-04-28T21:00:00Z",
+    "data_texto": "28/4/2025 18:00",
+    "assunto": "Altera a Resolução nº 4.072, de 26 de abril de 2012, que altera e consolida as normas sobre a instalação, no País, de dependências de instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil.",
+    "dou": "Publicada no DOU de 29/4/2025, Seção 1, p. 72.",
+    "referencias": "Lei Complementar nº 130/2009, arts. 1º, § 1º, e 12.;#Lei nº 4.595/1964, arts. 4º, inciso VIII, e 9º.;#Lei nº 6.099/1974, arts. 7º e 23, “a”.;#Lei nº 10.194/2001, art. 1º, inciso II.;#Decreto-Lei nº 759/1969, art. 6º.;#Altera, a partir de 1º/5/2025, Resolução CMN nº 4.072/2012 - Dá nova redação: art. 14, inciso II.;#",
+    "normas_vinculadas": "RESOLUÇÃO;@4072;@2012;#",
+    "atualizacoes": null,
+    "revogado": false,
+    "cancelado": false,
+    "versao": 1.0,
+    "id_bcb": 52572,
+    "texto": "Resolução Nº 5.206\n\nRESOLUÇÃO CMN Nº 5.206,\nDE 28 DE ABRIL DE 2025\n\nAltera a Resolução nº 4.072, de 26 de abril de 2012, que altera\ne consolida as normas sobre a instalação, no País, de dependências de\ninstituições financeiras e demais instituições autorizadas a funcionar pelo\nBanco Central do Brasil.\n\nO Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de\n31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em\nsessão realizada em 24 de abril de 2025, com base no disposto no art. 4º, caput,\ninciso VIII, da referida Lei, no art. 6º do Decreto-Lei nº 759, de 12 de agosto\nde 1969, nos arts. 7º e 23, caput, alínea “a”, da Lei nº 6.099, de 12 de\nsetembro de 1974, no art. 1º, caput, inciso II, da Lei nº 10.194, de 14\nde fevereiro de 2001, e nos arts. 1º, § 1º, e 12 da Lei Complementar nº 130, de\n17 de abril de 2009,\n\nR E S O L V E U :\n\nArt. 1º  A Resolução nº 4.072, de 26\nde abril de 2012, publicada no Diário Oficial da União de 27 de abril de 2012, passa\na vigorar com as seguintes alterações:\n\n“Art. 14.  ..................................................................................................................................\n\n.................................................................................................................................................\n\nII - a forma, o prazo e as condições de fornecimento das\ninformações a serem encaminhadas a ele pelas instituições referidas no art. 1º\nsobre a instalação e a localização de suas dependências; e\n\n.......................................................................................................................................”\n(NR)\n\nArt. 2º  Esta Resolução entra em vigor em 1º de maio de 2025.\n\nGABRIEL\nMURICCA GALÍPOLO\nPresidente\ndo Banco Central do Brasil"
+  }
+}
