@@ -68,5 +68,103 @@
     "descricao": "Altera a Circular nº 3.978, de 23 de janeiro de 2020, que dispõe sobre a política, os procedimentos e os controles internos a serem adotados pelas instituições autorizadas a funcionar pelo Banco Central do Brasil visando à prevenção da utilização do sistema financeiro para a prática dos crimes de “lavagem” ou ocultação de bens, direitos e valores, de que trata a Lei nº 9.613, de 3 de março de 1998, e de financiamento do terrorismo, previsto na Lei nº 13.260, de 16 de março de 2016, e revoga a Resolução BCB nº 588, de 23 de setembro de 2026.",
     "data": "2026-10-01T17:15:37-03:00",
     "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=591"
+  },
+  {
+    "id": "normativos_52830",
+    "nome": "BC - Resolução BCB N° 547 de 30/01/2026",
+    "descricao": "Altera a Resolução BCB nº 498, de 5 de setembro de 2025, que disciplina, no âmbito do Sistema Financeiro Nacional e do Sistema de Pagamentos Brasileiro, os requisitos, os procedimentos e as condições para o credenciamento de Provedor de Serviços de Tecnologia da Informação – PSTI e dá outras providências.",
+    "data": "2026-01-30T18:00:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=547"
+  },
+  {
+    "id": "normativos_52829",
+    "nome": "BC - Instrução Normativa BCB N° 707 de 29/01/2026",
+    "descricao": "Esclarece acerca das condições a serem observadas na contratação de operações de crédito imobiliário que compartilhem o mesmo imóvel como garantia.",
+    "data": "2026-01-29T13:20:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=707"
+  },
+  {
+    "id": "normativos_52828",
+    "nome": "BC - Instrução Normativa BCB N° 706 de 29/01/2026",
+    "descricao": "Divulga a versão 3.0 do Manual de Monitoramento do Open Finance.",
+    "data": "2026-01-29T12:59:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=706"
+  },
+  {
+    "id": "normativos_52827",
+    "nome": "BC - Instrução Normativa BCB N° 705 de 29/01/2026",
+    "descricao": "Altera a Instrução Normativa BCB nº 103, de 30 de abril de 2021, e a Instrução Normativa BCB nº 299, de 30 de agosto de 2022, para dispor sobre alteração da instrução de pedidos de autorização para operar no mercado de câmbio pelas instituições de pagamento e pelas instituições de que trata a Resolução CMN nº 4.970, de 25 de novembro de 2021, respectivamente, e sobre a exclusão de referência a sociedade corretora de câmbio, sociedade corretora de títulos e valores mobiliários e sociedade distribuidora de títulos e valores mobiliários na Instrução Normativa BCB nº 299, de 2022.",
+    "data": "2026-01-29T11:15:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=705"
+  },
+  {
+    "id": "normativos_52826",
+    "nome": "BC - Instrução Normativa BCB N° 704 de 29/01/2026",
+    "descricao": "Divulga procedimentos, documentos, prazos e informações necessários à instrução dos pedidos de autorização relacionados ao funcionamento das sociedades corretoras de câmbio, das sociedades corretoras de títulos e valores mobiliários, das sociedades distribuidoras de títulos e valores mobiliários e das sociedades prestadoras de serviços de ativos virtuais.",
+    "data": "2026-01-29T10:04:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=704"
+  },
+  {
+    "id": "normativos_52825",
+    "nome": "BC - Instrução Normativa BCB N° 703 de 28/01/2026",
+    "descricao": "Altera a Instrução Normativa BCB nº 511, de 30 de agosto de 2024, que estabelece os procedimentos necessários para a adesão ao Pix, para incluir dispositivos referentes à comprovação de capital social e de patrimônio líquido, e ajustar dispositivo referente ao teste de recuperação de valores.",
+    "data": "2026-01-28T15:37:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=703"
+  },
+  {
+    "id": "normativos_52824",
+    "nome": "BC - Instrução Normativa BCB N° 702 de 27/01/2026",
+    "descricao": "Divulga a versão 8.1 do Manual Operacional do Diretório de Identificadores de Contas Transacionais (DICT), que compõe o Regulamento do Pix.",
+    "data": "2026-01-27T11:51:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=702"
+  },
+  {
+    "id": "normativos_52823",
+    "nome": "BC - Resolução CMN N° 5.279 de 22/01/2026",
+    "descricao": "Altera os Anexos I e II da Resolução nº 4.222, de 23 de maio de 2013, que tratam, respectivamente, do Estatuto e do Regulamento do Fundo Garantidor de Créditos – FGC, para introduzir aperfeiçoamentos na governança do FGC e na proteção aos depositantes.",
+    "data": "2026-01-22T18:02:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5279"
+  },
+  {
+    "id": "normativos_52822",
+    "nome": "BC - Resolução BCB N° 546 de 22/01/2026",
+    "descricao": "Altera o regulamento anexo à Resolução BCB nº 1, de 12 de agosto de 2020, que institui o arranjo de pagamentos Pix e aprova o seu regulamento.",
+    "data": "2026-01-22T18:01:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=546"
+  },
+  {
+    "id": "normativos_52821",
+    "nome": "BC - Instrução Normativa BCB N° 701 de 22/01/2026",
+    "descricao": "Estabelece a forma de comunicação e os requisitos mínimos a serem observados na elaboração, por empresa qualificada independente, de certificação técnica que acompanha a comunicação de interesse em prestar serviços de ativos virtuais no País, de que trata a Resolução BCB nº 520, de 10 de novembro de 2025.",
+    "data": "2026-01-22T10:09:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=701"
+  },
+  {
+    "id": "normativos_52820",
+    "nome": "BC - Resolução BCB N° 545 de 20/01/2026",
+    "descricao": "Divulga alterações no Regulamento do Programa de Assistência à Saúde dos Servidores do Banco Central – PASBC.",
+    "data": "2026-01-20T18:00:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=545"
+  },
+  {
+    "id": "normativos_52819",
+    "nome": "BC - Instrução Normativa BCB N° 700 de 13/01/2026",
+    "descricao": "Altera a Instrução Normativa BCB nº 33, de 29 de outubro de 2020, que estabelece os procedimentos para a remessa das informações de que trata a Circular nº 3.979, de 30 de janeiro de 2020, e altera as Instruções de Preenchimento e o leiaute do documento de código 5050 – Demonstrativo de Risco Operacional – DRO, de que trata a Instrução Normativa BCB nº 33, de 2020.",
+    "data": "2026-01-13T16:40:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=700"
+  },
+  {
+    "id": "normativos_52818",
+    "nome": "BC - Instrução Normativa BCB N° 699 de 12/01/2026",
+    "descricao": "Estabelece critérios de avaliação, classificação e padrões de referência visual de numerário nacional legítimo para saneamento do meio circulante, e dispõe sobre os procedimentos a serem observados pelas instituições autorizadas pelo Banco Central do Brasil, detentoras de conta Reservas Bancárias ou de Conta de Liquidação, para a efetivação das operações de meio circulante.",
+    "data": "2026-01-12T16:32:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=699"
+  },
+  {
+    "id": "normativos_52817",
+    "nome": "BC - Instrução Normativa BCB N° 698 de 06/01/2026",
+    "descricao": "Altera a Instrução Normativa BCB nº 108, de 19 de maio de 2021, que estabelece procedimentos para a retirada de circulação de cédulas e moedas metálicas nacionais tidas como falsas ou de legitimidade duvidosa.",
+    "data": "2026-01-06T11:23:00-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=698"
   }
 ]

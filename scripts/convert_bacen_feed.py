@@ -13,6 +13,7 @@ from pathlib import Path
 
 
 ATOM_NAMESPACE = {"atom": "http://www.w3.org/2005/Atom"}
+REQUIRED_FIELDS = ("id", "nome", "descricao", "data", "link")
 
 
 def clean_text(element: ET.Element | None) -> str:
@@ -50,14 +51,39 @@ def parse_feed(feed_file: Path) -> list[dict[str, str]]:
     return items
 
 
+def load_existing(output_file: Path, year: int) -> list[dict[str, str]]:
+    """Carrega registros históricos que não aparecem mais na janela do feed."""
+    if not output_file.exists():
+        return []
+
+    data = json.loads(output_file.read_text(encoding="utf-8"))
+    if not isinstance(data, list):
+        raise ValueError(f"{output_file}: o conteúdo deve ser uma lista JSON")
+
+    items = []
+    for position, item in enumerate(data):
+        if not isinstance(item, dict):
+            raise ValueError(f"{output_file}: item {position} não é um objeto")
+        missing = [field for field in REQUIRED_FIELDS if not item.get(field)]
+        if missing:
+            fields = ", ".join(missing)
+            raise ValueError(f"{output_file}: item {position} sem os campos: {fields}")
+        if not str(item["data"]).startswith(f"{year}-"):
+            raise ValueError(f"{output_file}: item {position} não pertence a {year}")
+        items.append({field: str(item[field]) for field in REQUIRED_FIELDS})
+
+    return items
+
+
 def convert(input_dir: Path, output_file: Path, year: int) -> int:
     feed_files = sorted(input_dir.glob("feed-*.xml"))
     if not feed_files:
         raise FileNotFoundError(f"nenhum feed XML encontrado em {input_dir}")
 
-    # Os snapshots podem repetir entradas. O mais recente, processado por último,
-    # prevalece caso o BCB atualize uma normativa já publicada.
-    items_by_id: dict[str, dict[str, str]] = {}
+    # O feed expõe somente uma janela recente. Preservamos o histórico já
+    # consolidado e deixamos os snapshots, processados em ordem, atualizarem
+    # registros repetidos pelo ID.
+    items_by_id = {item["id"]: item for item in load_existing(output_file, year)}
     for feed_file in feed_files:
         for item in parse_feed(feed_file):
             if not item["data"].startswith(f"{year}-"):
