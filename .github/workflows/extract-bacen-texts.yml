@@ -1,6 +1,10 @@
 name: Extract Bacen Texts
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/normativas_*.json'
   workflow_run:
     workflows: ["Update Bacen JSON"]
     types: [completed]
