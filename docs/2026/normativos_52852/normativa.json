@@ -1,0 +1,27 @@
+{
+  "id": "normativos_52852",
+  "ano": 2026,
+  "nome": "BC - Instrução Normativa BCB N° 717 de 24/03/2026",
+  "descricao": "Dispõe sobre os procedimentos para o registro de transferências de valores realizadas por instituições financeiras brasileiras destinadas ao crédito de contas de organismos internacionais mantidas no Banco Central do Brasil (BCB).",
+  "data_feed": "2026-03-24T11:34:00-03:00",
+  "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=717",
+  "api_url": "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Instru%C3%A7%C3%A3o+Normativa+BCB&p2=717",
+  "extraido_em": "2026-10-12T21:50:14.722074+00:00",
+  "conteudo": {
+    "titulo": "Instrução Normativa BCB N° 717",
+    "tipo": "Instrução Normativa BCB",
+    "numero": 717.0,
+    "data": "2026-03-24T14:34:00Z",
+    "data_texto": "24/3/2026 11:34",
+    "assunto": "Dispõe sobre os procedimentos para o registro de transferências de valores realizadas por instituições financeiras brasileiras destinadas ao crédito de contas de organismos internacionais mantidas no Banco Central do Brasil (BCB).",
+    "dou": "Publicada no DOU de 25/3/2026, Seção 1, p. 188, retificada no DOU de 26/3/2026, Seção 1, p. 144.",
+    "referencias": "Resolução BCB nº 340/2023, Anexo (Regimento Interno do BCB), arts. 23, inciso I, “a”; e 76, inciso II, \"a\".;#",
+    "normas_vinculadas": "RESOLUÇÃO BCB;@340;@2023;#",
+    "atualizacoes": null,
+    "revogado": false,
+    "cancelado": false,
+    "versao": 1.0,
+    "id_bcb": 52852,
+    "texto": "INSTRUÇÃO\nNORMATIVA BCB Nº 717, DE 24 DE MARÇO DE 2026\n\nDispõe sobre os procedimentos para o registro de transferências de\nvalores realizadas por instituições financeiras brasileiras destinadas ao\ncrédito de contas de organismos internacionais mantidas no Banco Central do\nBrasil (BCB).\n\nO Chefe do\nDepartamento de Assuntos Internacionais (Derin), no uso das atribuições que lhe\nconferem a alínea “a” do inciso I do art. 23 e a alínea “a” do inc. II do art.\n76 do Regimento Interno do Banco Central do Brasil (BCB), aprovado pela\nResolução BCB nº 340, de 21 de setembro de 2023,\n\nR E S O L V E :\n\nArt. 1º  As transferências de valores destinadas a\ncontas de Organismos Internacionais mantidas no Banco Central do Brasil\nobservarão o disposto nesta Instrução Normativa.\n\nParágrafo\núnico. Sujeitam-se ao regime desta Instrução Normativa, as instituições\nfinanceiras brasileiras que, por conta própria ou por ordem de clientes, realizarem\ntransferências de valores destinadas a creditar as contas referidas no caput\ndeste Artigo.\n\nArt. 2º  As  transferências de que trata esta Instrução\nNormativa deverão ser registradas por meio da Mensagem SLB0007 - “Requisição de\nPagamento ao Banco Central do Brasil”, conforme especificações constantes do Catálogo\nde Serviços do Sistema Financeiro Nacional.\n\nParágrafo\núnico.  Nas situações de contingência, assim\ndefinidas pelo Banco Central, a transferência de valores das instituições financeiras\npara as contas de organismos internacionais mantidas no BCB deverá ser realizada\npor meio da mensagem SLB0001 – “Informação de Lançamento devido pelo\nparticipante”.\n\nArt. 3º  Para fins de elaboração das mensagens SLB referidas\nno art. 2º, a instituição financeira brasileira deverá observar os parâmetros estabelecidos\nno Catálogo de Serviços do Sistema Financeiro Nacional, bem como os seguintes\ncritérios adicionais:\n\nI - o campo “CNPJ\nConveniado” deverá ser preenchido com o CNPJ do cliente remetente dos recursos\nao organismo internacional ou, tratando-se de operação própria da instituição\nfinanceira, permanecer em branco;\n\nII - o campo “Finalidade\nSLB” deverá indicar, obrigatoriamente, o organismo internacional destinatário dos\nvalores, conforme relação constante do Anexo I;\n\nIII - não será\nadmitido o registro de operações com vencimento futuro.\n\nArt. 4º  Os valores registrados pelas instituições\nfinanceiras brasileiras desta Instrução Normativa deverão ser expressos em\nreais.\n\n§ 1º  Caso a conta mantida pelo organismo\ninternacional no BCB seja denominada em uma moeda diversa do real, o BCB\nefetuará a conversão e creditará o valor correspondente.\n\n§ 2º  Na hipótese prevista no §\n1º, será utilizada a última cotação de venda da PTAX divulgada até o momento do\nregistro da operação, dentre as cotações de abertura e intermediárias, vedada a\nutilização da cotação de fechamento.\n\nArt. 5º  Os registros de transferência de valores deverão\nser realizados das 9h às 17h, horário de Brasília, em dias úteis.\n\nArt. 6º  Esta Instrução Normativa entra em vigor em 6 de\nabril de 2026.\n\nMarcelo Antonio Thomaz de\nAragão\nChefe do\nDepartamento de Assuntos Internacionais\n\nAnexo I\n\nRelação dos\nOrganismos Internacionais e respectivos códigos\n\nAssociação\nInternacional de Desenvolvimento - AID\n\nSCO010040\n\nBanco\nInteramericano de Desenvolvimento - BID\n\nSCO010140\n\nBanco\nInternacional de Reconstrução e Desenvolvimento - Bird\n\nSCO010240\n\nCorporação\nFinanceira Internacional - CFI\n\nSCO010340\n\nFundo Financeiro\npara o Desenvolvimento da Bacia do Prata - Fonplata\n\nSCO010440\n\nFundo Monetário\nInternacional - FMI\n\nSCO010540\n\nFundo\nInternacional para o Desenvolvimento Agrícola - Fida\n\nSCO010640\n\nAgência\nMultilateral de Garantia para Investimentos - Miga\n\nSCO010740\n\nNovo Banco de\nDesenvolvimento - NBD\n\nSCO010840"
+  }
+}

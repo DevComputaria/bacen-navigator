@@ -1,0 +1,27 @@
+{
+  "id": "normativos_53001",
+  "ano": 2026,
+  "nome": "BC - Instrução Normativa BCB N° 773 de 03/09/2026",
+  "descricao": "Estabelece as tabelas padronizadas para fins da divulgação do Relatório de Riscos e Oportunidades Sociais, Ambientais e Climáticas – Relatório GRSAC.",
+  "data_feed": "2026-09-03T09:36:00-03:00",
+  "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=773",
+  "api_url": "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Instru%C3%A7%C3%A3o+Normativa+BCB&p2=773",
+  "extraido_em": "2026-10-12T21:47:10.984638+00:00",
+  "conteudo": {
+    "titulo": "Instrução Normativa BCB N° 773",
+    "tipo": "Instrução Normativa BCB",
+    "numero": 773.0,
+    "data": "2026-09-03T12:36:00Z",
+    "data_texto": "3/9/2026 09:36",
+    "assunto": "Estabelece as tabelas padronizadas para fins da divulgação do Relatório de Riscos e Oportunidades Sociais, Ambientais e Climáticas – Relatório GRSAC.",
+    "dou": "",
+    "referencias": null,
+    "normas_vinculadas": null,
+    "atualizacoes": null,
+    "revogado": false,
+    "cancelado": true,
+    "versao": 0.0,
+    "id_bcb": 53001,
+    "texto": "O Chefe do Departamento de Regulação Prudencial e Cambial – Dereg, no uso das atribuições que lhe conferem os arts. 23, inciso I, alínea “a”, e 119, inciso I, alínea “d”, do Regimento Interno do Banco Central do Brasil, anexo à Resolução BCB nº 340, de 21\nde setembro de 2023, e tendo em vista o disposto no art. 56, da Resolução nº 4.557, de 23 de fevereiro de 2017, no art. 63 da Resolução BCB nº 265, de 25 de novembro de 2022, e no art. X da Resolução BCB nº X.XXX de DD de MMM de 2026,\n\nR E S O L V E :\n\nArt. 1º  As tabelas relativas ao Relatório de Riscos e Oportunidades Sociais, Ambientais e Climáticas (Relatório GRSAC), de que trata a Resolução BCB nº 586, de 3 de setembro de 2026, estão disponíveis no endereço eletrônico https://www.bcb.gov.br/content/estabilidadefinanceira/regulacao_prudencial_docs/Leiautes-Relatorio-GRSAC-v1.pdf,\nna página do Banco Central do Brasil.\n\nArt. 2º  Fica revogada a Instrução Normativa nº 153, de 15 de setembro de 2021.\n\nArt. 3º  Esta Instrução Normativa entra em vigor em 1º de janeiro de 2027.\n\nRicardo Franco Moura"
+  }
+}

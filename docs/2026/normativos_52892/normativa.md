@@ -1,0 +1,162 @@
+# Resolução CMN N° 5.299
+
+- **ID:** `normativos_52892`
+- **Ano:** 2026
+- **Data:** 4/5/2026 09:01
+- **Tipo:** Resolução CMN
+- **Número:** 5299.0
+- **Revogado:** Não
+- **Cancelado:** Não
+- **Fonte:** [https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5299](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5299)
+
+## Assunto
+
+Estabelece as diretrizes que devem ser observadas na regulamentação dos direitos da pessoa natural usuária de serviços financeiros, de que trata a Lei nº 15.252, de 4 de novembro de 2025.
+
+## Diário Oficial da União
+
+Publicada no DOU extra de 4/5/2026, Seção 1, p. 4.
+
+## Referências
+
+- Lei nº 4.595/1964, art. 9º.
+- Lei nº 12.865/2013, arts. 6º, § 1º, e 7º.
+- Lei nº 15.252/2025.
+- Revoga, a partir de 1º/7/2027, Resoluções CMN ns. 4.790/2020 e 5.058/2022.
+
+## Texto
+
+RESOLUÇÃO CMN Nº 5.299, DE 4 DE MAIO DE 2026
+
+Estabelece as
+diretrizes que devem ser observadas na regulamentação dos direitos da pessoa
+natural usuária de serviços financeiros, de que trata a Lei nº 15.252, de 4 de
+novembro de 2025.
+
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de
+dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão
+realizada em 23 de abril de 2026, com base nos arts. 6º, § 1º, e 7º da Lei nº
+12.865, de 9 de outubro de 2013, e no art. 17 da Lei nº 15.252, de 4 de
+novembro de 2025,
+
+R E S O L V E U :
+
+Art. 1º  Esta Resolução estabelece as diretrizes que
+devem ser observadas na regulamentação, pelo Banco Central do Brasil, dos
+direitos da pessoa natural usuária de serviços financeiros, de que trata a Lei
+nº 15.252, de 4 de novembro de 2025.
+
+Art. 2º  A regulamentação da portabilidade salarial,
+que inclui salários, proventos, soldos, vencimentos, aposentadorias, pensões e
+similares, conforme o art. 4º da Lei nº 15.252, de 4 de novembro de 2025, deve
+observar os seguintes princípios:
+
+I - livre opção dos beneficiários
+para manter seus recursos em conta-salário ou realizar a portabilidade salarial
+para contas de depósitos ou contas de pagamento pré-pagas;
+
+II - proteção dos beneficiários,
+considerando suas vulnerabilidades associadas;
+
+III - integridade, conformidade
+e segurança dos pedidos de portabilidade salarial, bem como suas confirmações e
+recusas;
+
+IV - eficiência e
+segurança na prestação do serviço de pagamento de salários, proventos, soldos,
+vencimentos, aposentadorias, pensões e similares;
+
+V - acesso não discriminatório
+aos serviços e às infraestruturas necessárias para a portabilidade salarial; e
+
+VI - uniformidade das
+normas aplicáveis às instituições autorizadas a funcionar pelo Banco Central do
+Brasil.
+
+Art. 3º  A regulamentação da modalidade especial de
+crédito com juros reduzidos deve observar os seguintes princípios:
+
+I - ética,
+responsabilidade e diligência na contratação das operações;
+
+II - transparência na
+oferta do crédito;
+
+III - proporcionalidade
+entre os ônus e os benefícios inerentes à modalidade especial de crédito com
+juros reduzidos;
+
+IV - prevenção ao
+superendividamento; e
+
+V - compatibilidade da
+oferta com as necessidades do tomador de crédito.
+
+Parágrafo único.  O Banco Central do Brasil determinará as
+características e os requisitos para contratação da modalidade especial com
+juros reduzidos prevista na Lei nº 15.252, de 4 de novembro de 2025.
+
+Art. 4º  A regulamentação do débito automático nas
+contas de depósitos, nas contas de pagamento pré-pagas e nas contas-salário
+deve observar os seguintes princípios:
+
+I - proteção dos clientes
+e usuários;
+
+II - integridade,
+conformidade e segurança da autorização, bem como dos respectivos lançamentos a
+débito em contas;
+
+III - transparência na
+autorização, bem como nos respectivos lançamentos a débito em contas;
+
+IV - acesso não
+discriminatório aos serviços e às infraestruturas necessárias para a
+autorização e os lançamentos a débito em contas; e
+
+V - uniformidade das
+normas aplicáveis às diversas modalidades de pagamentos, independentemente da
+espécie de conta de que trata o caput, ressalvadas as peculiaridades
+decorrentes das características inerentes a cada espécie de pagamento e conta.
+
+Art. 5º  A regulamentação do
+direito à informação deve observar os seguintes princípios:
+
+I - transparência e
+clareza nas relações com clientes e usuários;
+
+II - objetividade,
+relevância e acessibilidade informacional, inclusive em relação aos canais
+digitais e à interface com o usuário;
+
+III - adequabilidade e
+qualidade da informação;
+
+IV - oferta responsável de
+produtos de crédito; e
+
+V - confiança nas
+relações.
+
+Art. 6º  Ficam revogadas:
+
+I - a Resolução nº 4.790,
+de 26 de março de 2020, publicada no Diário
+Oficial da União de 30 de março de 2020;
+e
+
+II - a Resolução CMN nº
+5.058, de 15 de dezembro de 2022, publicada no Diário
+Oficial da União de 19 de dezembro de 2022.
+
+Art. 7º  Esta Resolução entra em vigor:
+
+I - em 1º de julho de 2027,
+quanto ao art. 6º; e
+
+II - na data de sua
+publicação, quanto aos demais dispositivos.
+
+GABRIEL MURICCA GALÍPOLO
+
+Presidente do Banco Central do Brasil

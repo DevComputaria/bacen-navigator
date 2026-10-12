@@ -1,0 +1,27 @@
+{
+  "id": "normativos_52991",
+  "ano": 2026,
+  "nome": "BC - Resolução BCB N° 585 de 24/08/2026",
+  "descricao": "Dispõe sobre o formato padrão para identificação de contas bancárias mantidas no Brasil para fins de transferências internacionais de fundos (formato IBAN) e regulamenta seu uso.",
+  "data_feed": "2026-08-24T10:49:00-03:00",
+  "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=585",
+  "api_url": "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Resolu%C3%A7%C3%A3o+BCB&p2=585",
+  "extraido_em": "2026-10-12T21:47:22.647946+00:00",
+  "conteudo": {
+    "titulo": "Resolução BCB N° 585",
+    "tipo": "Resolução BCB",
+    "numero": 585.0,
+    "data": "2026-08-24T13:49:00Z",
+    "data_texto": "24/8/2026 10:49",
+    "assunto": "Dispõe sobre o formato padrão para identificação de contas bancárias mantidas no Brasil para fins de transferências internacionais de fundos (formato IBAN) e regulamenta seu uso.",
+    "dou": "Publicada no DOU de 25/8/2026, Seção 1, p. 163.",
+    "referencias": "Lei nº 10.214/2001, art. 10.;#Lei nº 14.286/2021, arts. 5º, incisos I, VIII a XI, e § 4º, e 14, § 2º.;#Resolução CMN nº 4.952/2021, arts. 3º, 5º, inciso I, 9º e 12.;#Resolução CMN nº 5.042/2022, arts. 3º,  incisos II e III, e 4º, inciso VI, alínea “d”.;#Revoga Circular nº 3.625/2013.;#",
+    "normas_vinculadas": "RESOLUÇÃO CMN;@5042;@2022;#RESOLUÇÃO CMN;@4952;@2021;#CIRCULAR;@3625;@2013;#",
+    "atualizacoes": null,
+    "revogado": false,
+    "cancelado": false,
+    "versao": 1.0,
+    "id_bcb": 52991,
+    "texto": "RESOLUÇÃO BCB Nº 585, DE 24 DE AGOSTO DE\n2026\n\nDispõe\nsobre o formato padrão para identificação de contas bancárias mantidas no\nBrasil para fins de transferências internacionais de fundos (formato IBAN) e\nregulamenta seu uso.\n\nA Diretoria Colegiada do Banco\nCentral do Brasil, em sessão realizada em 21 de agosto de 2026, com base no\nart. 10 da Lei nº 10.214, de 27 de março de 2001, nos arts. 5º, caput, incisos\nI, VIII a XI, e § 4º, e 14, § 2º, da Lei nº 14.286, de 29 de dezembro de 2021, e\ntendo em vista o disposto nos arts. 3º, 5º, caput, inciso I, 9º e 12 da\nResolução CMN nº 4.952, de 30 de setembro de 2021, e nos arts. 3º, caput, incisos\nII e III, e 4º, caput, inciso VI, alínea “d”, da Resolução CMN nº 5.042,\nde 25 de novembro de 2022,\n\nR E S O L V E :\n\nArt. 1º  Esta Resolução dispõe\nsobre a utilização do padrão ISO 13616 (International Bank Account Number\n– IBAN) como formato padrão para a identificação de contas bancárias\nmantidas no Brasil nas transferências internacionais de fundos, denominado\nformato IBAN para fins desta Resolução.\n\nArt. 2º  O formato IBAN,\ncomposto por vinte e nove caracteres, segue o seguinte critério de formação:\n\nI - dois caracteres\nalfanuméricos correspondentes ao código do país, conforme a norma ISO 3166-1;\n\nII - dois dígitos verificadores\n(mod 97), conforme a norma ISO 7064;\n\nIII - oito caracteres\nalfanuméricos correspondentes ao Identificador do participante junto ao Banco\nCentral do Brasil para o Sistema de Pagamentos Brasileiro – ISPB, conforme as\nlistas de participantes do Sistema de Transferência de Reservas – STR e do\nSistema de Pagamentos Instantâneos – SPI divulgadas no sítio do Banco Central\ndo Brasil;\n\nIV - cinco caracteres numéricos\ncorrespondentes à identificação da agência bancária (sem dígito verificador);\n\nV - dez caracteres numéricos\ncorrespondentes ao número de conta do cliente (com dígito verificador);\n\nVI - um caractere alfanumérico\ncorrespondente ao tipo de conta, conforme dicionário de tipos do Catálogo de Serviços\ndo Sistema Financeiro Nacional (segundo caractere); e\n\nVII - um caractere alfanumérico\ncorrespondente à identificação do titular da conta, de acordo com a ordem na\nlistagem de titulares.\n\n§ 1º  A identificação do\ntitular da conta, de que trata o inciso VII do caput, será realizada\nmediante:\n\nI - a atribuição dos numerais\n“1” para o primeiro ou único titular, “2” para o segundo titular e assim por\ndiante, até o nono titular; ou\n\nII - a atribuição das letras\n“A” para o décimo titular, “B” para o décimo primeiro e assim por diante,\nutilizando os caracteres alfabéticos de “A” a “Z” (incluindo “K”, “W” e “Y”).\n\n§ 2º  A validação do formato\npadrão não deve diferenciar caracteres maiúsculos e minúsculos.\n\n§ 3º  Os campos numéricos\ndevem, sempre que necessário, ser preenchidos com zeros à esquerda.\n\n§ 4º  A apresentação do formato\nIBAN deve ser feita em grupos de quatro caracteres separados por espaço, com\ntodos os caracteres em maiúsculo, com vistas a facilitar a sua automação e a\nsua leitura, inclusive a eletrônica.\n\nArt. 3º  As instituições\nfinanceiras e demais instituições autorizadas a funcionar pelo Banco Central do\nBrasil, com referência às transferências internacionais de fundos para crédito\nde seus clientes, devem:\n\nI - fornecer a identificação da\nconta no formato IBAN a seus clientes, a qualquer tempo, sob sua demanda; e\n\nII - acatar as transferências\nrealizadas com a utilização do formato IBAN, efetuando as validações de sua\nresponsabilidade.\n\nArt. 4º  Fica revogada a\nCircular nº 3.625, de 14 de fevereiro de 2013, publicada no Diário Oficial da\nUnião de 18 de fevereiro de 2013.\n\nArt. 5º  Esta Resolução entra\nem vigor na data de sua publicação.\n\nGILNEU\nFRANCISCO ASTOLFI VIVAN        NILTON JOSÉ SCHNEIDER DAVID\n\nDiretor de Regulação                                  Diretor\nde Política Monetária"
+  }
+}

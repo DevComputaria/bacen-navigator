@@ -1,0 +1,27 @@
+{
+  "id": "normativos_52993",
+  "ano": 2026,
+  "nome": "BC - Resolução CMN N° 5.335 de 24/08/2026",
+  "descricao": "Ajusta normas no Programa Nacional de Apoio ao Médio Produtor Rural – Pronamp, de que trata a Seção 1 do Capítulo 8 do Manual de Crédito Rural – MCR.",
+  "data_feed": "2026-08-24T18:03:00-03:00",
+  "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5335",
+  "api_url": "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Resolu%C3%A7%C3%A3o+CMN&p2=5335",
+  "extraido_em": "2026-10-12T21:47:20.856596+00:00",
+  "conteudo": {
+    "titulo": "Resolução CMN N° 5.335",
+    "tipo": "Resolução CMN",
+    "numero": 5335.0,
+    "data": "2026-08-24T21:03:00Z",
+    "data_texto": "24/8/2026 18:03",
+    "assunto": "Ajusta normas no Programa Nacional de Apoio ao Médio Produtor Rural – Pronamp, de que trata a Seção 1 do Capítulo 8 do Manual de Crédito Rural – MCR.",
+    "dou": "Publicada no DOU de 26/8/2026, Seção 1, p. 38.",
+    "referencias": "Lei nº 4.595/1964, arts. 4º, caput, inciso VI, e 9º.;#Lei nº 4.829/1965, arts. 4º e 14.;#Cita MCR 3-2, 3-3 e 3-4.;#Altera MCR 8-1-1.;#",
+    "normas_vinculadas": null,
+    "atualizacoes": null,
+    "revogado": false,
+    "cancelado": false,
+    "versao": 1.0,
+    "id_bcb": 52993,
+    "texto": "Resolução Nº 5.335\n\nO texto vigente do MCR encontra-se no seguinte endereço eletrônico: www3.bcb.gov.br/mcr.\n\nRESOLUÇÃO CMN Nº 5.335, DE 24 DE AGOSTO DE\n2026\n\nAjusta normas no Programa Nacional de Apoio ao Médio Produtor Rural – Pronamp,\nde que trata a Seção 1 do Capítulo 8\ndo Manual de Crédito Rural – MCR.\n\nO Banco Central do Brasil,\nna forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público\nque o Conselho Monetário Nacional, em sessão realizada em 24 de agosto de 2026,\ntendo em vista as disposições dos arts. 4º, caput, inciso VI, da Lei nº\n4.595, de 31 de dezembro de 1964, e 4º e 14 da Lei nº 4.829, de 5 de novembro\nde 1965,\n\nR E S O L V E U :\n\nArt. 1º  A Seção 1 (Pronamp)\ndo Capítulo 8 (Programa Nacional de Apoio ao Médio\nProdutor Rural – Pronamp) do Manual de Crédito Rural – MCR passa a vigorar\ncom as seguintes alterações:\n\n“1 - As operações do Programa Nacional de Apoio ao Médio Produtor\nRural – Pronamp ficam sujeitas às normas gerais do crédito rural, às\ndisposições do MCR 3-2 (Créditos de Custeio), do MCR 3-3 (Créditos de\nInvestimento) e do MCR 3-4 (Créditos de Comercialização) e às seguintes\ncondições especiais:\n\n.................................................................................................................................................\n\nd)\n.............................................................................................................................................\n\n.................................................................................................................................................\n\nIII\n- comercialização: os estabelecidos na Seção Créditos de Comercialização do\nCapítulo Operações.\n\n.......................................................................................................................................”\n(NR)\n\nArt.\n2º  Esta Resolução entra em vigor na data de sua publicação.\n\nGABRIEL MURICCA GALÍPOLO\nPresidente do Banco Central do Brasil"
+  }
+}

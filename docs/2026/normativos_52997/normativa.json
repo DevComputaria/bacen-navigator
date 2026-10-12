@@ -1,0 +1,27 @@
+{
+  "id": "normativos_52997",
+  "ano": 2026,
+  "nome": "BC - Resolução CMN N° 5.338 de 27/08/2026",
+  "descricao": "Altera a Resolução CMN nº 5.130, de 25 de abril de 2024, que dispõe sobre os financiamentos ao amparo da Linha de Mobilização de Capital Privado Externo e Proteção Cambial – Linha Eco Invest Brasil –, no âmbito do Fundo Nacional sobre Mudança do Clima – FNMC.",
+  "data_feed": "2026-08-27T18:02:00-03:00",
+  "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5338",
+  "api_url": "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Resolu%C3%A7%C3%A3o+CMN&p2=5338",
+  "extraido_em": "2026-10-12T21:47:15.772521+00:00",
+  "conteudo": {
+    "titulo": "Resolução CMN N° 5.338",
+    "tipo": "Resolução CMN",
+    "numero": 5338.0,
+    "data": "2026-08-27T21:02:00Z",
+    "data_texto": "27/8/2026 18:02",
+    "assunto": "Altera a Resolução CMN nº 5.130, de 25 de abril de 2024, que dispõe sobre os financiamentos ao amparo da Linha de Mobilização de Capital Privado Externo e Proteção Cambial – Linha Eco Invest Brasil –, no âmbito do Fundo Nacional sobre Mudança do Clima – FNMC.",
+    "dou": "Publicada no DOU de 31/8/2026, Seção 1, p. 17.",
+    "referencias": "Lei nº 4.595/1964, art. 9º.;#Lei nº 14.995/2024, arts. 33, § 1º, 34 e 40.;#Altera a Resolução CMN nº 5.130/2024 - Dá nova redação: art. 3º, inciso I, e  § 12, incisos III e V.;#",
+    "normas_vinculadas": "RESOLUÇÃO CMN;@5130;@2024;#",
+    "atualizacoes": null,
+    "revogado": false,
+    "cancelado": false,
+    "versao": 1.0,
+    "id_bcb": 52997,
+    "texto": "RESOLUÇÃO CMN Nº 5.338,\nDE 27 DE AGOSTO DE 2026\n\nAltera a Resolução CMN nº 5.130, de 25 de\nabril de 2024, que dispõe sobre os financiamentos ao amparo da Linha de\nMobilização de Capital Privado Externo e Proteção Cambial – Linha Eco Invest\nBrasil –, no âmbito do Fundo Nacional sobre Mudança do Clima – FNMC.\n\nO\nBanco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro\nde 1964, torna público que o Conselho Monetário Nacional, em sessão extraordinária\nrealizada em 27 de agosto de 2026, com base no disposto nos arts. 33, § 1º, 34\ne 40, todos da Lei nº 14.995, de 10 de outubro de 2024,\n\nR\nE S O L V E U :\n\nArt.\n1º  A Resolução CMN nº 5.130, de 25 de abril de 2024, publicada no Diário\nOficial da União de 26 de abril de 2024, passa a vigorar com as seguintes\nalterações:\n\n“Art. 3º  ...................................................................................................................................\n\nI - no ato do leilão\na que se refere o art. 2º, § 1º, as instituições financeiras deverão apresentar\ncronograma para a efetiva mobilização do capital externo ao projeto, observado\no prazo máximo de vinte e quatro meses da data do recebimento do primeiro\ndesembolso;\n\n.................................................................................................................................................\n\n§ 12.  ........................................................................................................................................\n\n.................................................................................................................................................\n\nIII - a remuneração\nda instituição financeira pela disponibilização dos recursos da Linha Eco\nInvest Brasil aos Fundos de Inovação Eco Invest Brasil ficará limitada a 3%\na.a. (três por cento ao ano);\n\n.................................................................................................................................................\n\nV - a remuneração\nmáxima auferida pela instituição financeira nas operações realizadas com\nrecursos da Linha Eco Invest Brasil destinadas aos Fundos de Inovação Eco\nInvest Brasil corresponderá à conversão em fatores dos encargos previstos nos\nincisos III e IV, limitada a 4% a.a. (quatro por cento ao ano);\n\n.......................................................................................................................................\n(NR)”\n\nArt.\n2º  Esta Resolução entra em vigor na data de sua publicação.\n\nGABRIEL MURICCA\nGALÍPOLO\nPresidente do Banco\nCentral do Brasil"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "normativos_52867",
+  "ano": 2026,
+  "nome": "BC - Instrução Normativa BCB N° 723 de 16/04/2026",
+  "descricao": "Atualiza o Anexo II (Códigos dos Recursos Obrigatórios - MCR 6-2) do Documento 6 (Demonstrativo das Exigibilidades e das Aplicações de Crédito Rural) do Manual de Crédito Rural (MCR).",
+  "data_feed": "2026-04-16T11:00:00-03:00",
+  "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=723",
+  "api_url": "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Instru%C3%A7%C3%A3o+Normativa+BCB&p2=723",
+  "extraido_em": "2026-10-12T21:49:56.162203+00:00",
+  "conteudo": {
+    "titulo": "Instrução Normativa BCB N° 723",
+    "tipo": "Instrução Normativa BCB",
+    "numero": 723.0,
+    "data": "2026-04-16T14:00:00Z",
+    "data_texto": "16/4/2026 11:00",
+    "assunto": "Atualiza o Anexo II (Códigos dos Recursos Obrigatórios - MCR 6-2) do Documento 6 (Demonstrativo das Exigibilidades e das Aplicações de Crédito Rural) do Manual de Crédito Rural (MCR).",
+    "dou": "Publicada no DOU de 17/4/2026, Seção 1, p. 133.",
+    "referencias": "Circular BCB nº 3.801/2016, art. 4º.;#Resolução BCB nº 340/2023, Anexo (Regimento Interno do BCB), art. 23, inciso I, “a”.;#MCR 6-1-11 e 6-2.;#Cita Resolução CMN nº 5.290/2026.;#Altera MCR, Documento 6, Anexo II.;#",
+    "normas_vinculadas": "RESOLUÇÃO BCB;@340;@2023;#RESOLUÇÃO CMN;@5290;@2026;#CIRCULAR;@3801;@2016;#",
+    "atualizacoes": null,
+    "revogado": false,
+    "cancelado": false,
+    "versao": 1.0,
+    "id_bcb": 52867,
+    "texto": "O texto vigente do MCR encontra-se no seguinte endereço eletrônico: www3.bcb.gov.br/mcr.\n\nINSTRUÇÃO NORMATIVA BCB Nº 723, DE 16 DE ABRIL DE 2026\n\nAtualiza\no Anexo II (Códigos dos Recursos Obrigatórios - MCR 6-2) do Documento 6\n(Demonstrativo das Exigibilidades e das Aplicações de Crédito Rural) do Manual\nde Crédito Rural (MCR).\n\nO Chefe do Departamento de\nRegulação, Supervisão e Controle das Operações do Crédito Rural e do Proagro\n(Derop), no uso das atribuições que lhe conferem o art. 23, inciso I, alínea\n“a”, do Regimento Interno do Banco Central do Brasil, divulgado por meio da\nResolução BCB nº 340, de 21 de setembro de 2023, e o art. 4º da Circular nº\n3.801, de 7 de julho de 2016, e tendo em vista as disposições do item 11 da\nSeção 1 do Capítulo 6 do Manual de Crédito Rural (MCR),\n\nR E S O L V E :\n\nArt. 1º  O Anexo II (Códigos dos Recursos Obrigatórios\n- MCR 6-2) do Documento 6 (Demonstrativo das Exigibilidades e das Aplicações de\nCrédito Rural) do Manual de Crédito Rural (MCR), passa a vigorar com a\nseguintes alteração para as posições informadas a partir de abril de 2026.\n\n“2.1.10.20-4 Subexigibilidade Pronaf - Própria.\n\nEsse código é preenchido automaticamente pelo Sisex e indica o\nvalor equivalente a 30% (trinta por cento) do montante registrado no código\n2.1.10.00-8.\n\nA Resolução CMN nº 5.290, de 26/3/2026, alterou o percentual da\nsubexigibilidade Pronaf dos recursos obrigatórios de 35% para 14,35% de 1º de\nabril a 30 de junho de 2026. O percentual médio ponderado do período de\ncumprimento 2025/2026 de 30,00% corresponde a 191 dias úteis em 35% e 61 dias\núteis em 14,35%.” (NR)\n\nParágrafo Único.  O MCR - Documento 6 será disponibilizado no\nsítio eletrônico do Banco Central do Brasil, na página de consulta ao MCR,\ndisponível no endereço eletrônico www3.bcb.gov.br/mcr.\n\nArt. 2º  Esta Instrução Normativa BCB entra em vigor\nna data de sua publicação.\n\nClaudio\nFilgueiras Pacheco Moreira\nChefe\ndo Derop\n\nNOTA\n\nAs\nalterações promovidas nesta Instrução Normativa visam a atualizar o MCR\nDocumento 3 Esta Instrução Normativa (IN BCB) tem por objetivo ajustar o Anexo\nII (Códigos dos Recursos Obrigatórios - MCR 6-2) do Documento 6 (Demonstrativo\ndas Exigibilidades e das Aplicações de Crédito Rural) do Manual de Crédito\nRural (MCR), para adequá-lo à Resolução CMN n° 5.290, de 26 de março de 2026,\nque alterou,  de 30% para 14,35%, o\npercentual de subexigibilidade de recursos para o Programa Nacional de\nFortalecimento da Agricultura Familiar – Pronaf aplicável entre 1º de abril a\n30 de junho de 2026, no âmbito da exigibilidade dos recursos obrigatórios\nrelativa ao período de cumprimento de julho de 2025 a junho de 2026.\n\n2.                         Cumpre destacar que,\npor força do art. 24 do Decreto nº 10.411, de 30 de junho de 2020, a edição de\natos normativos pelos órgãos e entidades da administração pública federal\ndireta, autárquica e fundacional, a partir de 14 de outubro de 2021, deve ser\nprecedida de AIR. Entretanto, em seu artigo 4º, o referido decreto estabelece\nas hipóteses de dispensa de realização de AIR. A presente Instrução Normativa\n(IN) BCB se enquadra na hipótese prevista no inciso do inciso II do caput do\nart. 4º do Decreto nº 10.411, de 2020, por se tratar de ato normativo destinado\na disciplinar direitos ou obrigações definidos em norma hierarquicamente\nsuperior que não permita, técnica ou juridicamente, diferentes alternativas\nregulatórias.\n\nClaudio Filgueiras Pacheco Moreira\nChefe do Derop"
+  }
+}

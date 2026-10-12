@@ -1,0 +1,27 @@
+{
+  "id": "normativos_52915",
+  "ano": 2026,
+  "nome": "BC - Instrução Normativa BCB N° 738 de 27/05/2026",
+  "descricao": "Altera a Instrução Normativa BCB nº 536, de 1º de novembro de 2024, e a Instrução Normativa BCB nº 549, de 11 de novembro de 2024.",
+  "data_feed": "2026-05-27T16:28:00-03:00",
+  "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=738",
+  "api_url": "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Instru%C3%A7%C3%A3o+Normativa+BCB&p2=738",
+  "extraido_em": "2026-10-12T21:48:57.450275+00:00",
+  "conteudo": {
+    "titulo": "Instrução Normativa BCB N° 738",
+    "tipo": "Instrução Normativa BCB",
+    "numero": 738.0,
+    "data": "2026-05-27T19:28:00Z",
+    "data_texto": "27/5/2026 16:28",
+    "assunto": "Altera a Instrução Normativa BCB nº 536, de 1º de novembro de 2024, e a Instrução Normativa BCB nº 549, de 11 de novembro de 2024.",
+    "dou": "",
+    "referencias": "Resolução BCB nº 340/2023, Anexo (Regimento Interno do BCB), arts. 61, inciso IX, 70, inciso IV, e 115, inciso VII, \"c\".;#Resolução BCB nº 420/2024.;#Altera Instrução Normativa BCB nº 536/2024 - Dá nova redação: art. 5º, incisos II e III. Inclui: art. 5º, inciso IV e § 2º.;#Altera Instrução Normativa BCB nº 549/2024 - Dá nova redação: art. 5º, incisos II e III. Inclui: art. 5º, inciso IV e § 2º.;#",
+    "normas_vinculadas": "INSTRUÇÃO NORMATIVA BCB;@549;@2024;#INSTRUÇÃO NORMATIVA BCB;@536;@2024;#RESOLUÇÃO BCB;@420;@2024;#RESOLUÇÃO BCB;@340;@2023;#",
+    "atualizacoes": null,
+    "revogado": false,
+    "cancelado": false,
+    "versao": 1.0,
+    "id_bcb": 52915,
+    "texto": "Cocip - LIG - Resolução\n\nINSTRUÇÃO NORMATIVA BCB\nNº 738, DE 27 DE MAIO DE 2026\n\nAltera a Instrução Normativa BCB nº 536, de 1º de novembro\nde 2024, e a Instrução Normativa BCB nº 549, de 11 de novembro de 2024.\n\nO Chefe do Departamento de Gestão de Pessoas, Educação, Saúde\ne Organização (Depes), o Chefe do Departamento de Tecnologia da Informação\n(Deinf), e o Chefe do Departamento de Operações do Mercado Aberto (Demab), tendo\nem vista o disposto no art. 61, inciso IX, no art. 70, inciso IV, e no art.\n115, inciso VII, alínea \"c\", do Regimento Interno do Banco Central do\nBrasil, e considerando as disposições contidas na Resolução BCB nº 420,\nde 3 de outubro de 2024,\n\nR E S O\nL V E M :\n\nArt. 1º  A Instrução\nNormativa BCB nº 536, de 1º de novembro de 2024, passa a vigorar com as\nseguintes alterações:\n\n“Art.\n5º  .......................................................................................................................\n\n....................................................................................................................................\n\nII\n- a acumulação de horas decorrentes de convocação decorrente do sobreaviso\ndeverá ser registrada utilizando o fato funcional “9610 - SOBREAVISO\nCONVOCACAO”;\n\nIII\n- a utilização das horas acumuladas decorrentes de sobreaviso em períodos de oito\nhoras diárias deverá ser registrada utilizando o fato funcional “9640 - FOLGA\nSOBREAVISO UTILIZACAO”; e\n\nIV\n- a utilização das horas acumuladas decorrentes de sobreaviso em períodos inferiores\na oito horas diárias deverá ser registrada utilizando o fato funcional “9660 -\nSOBREAVISO - FOLGA PARCIAL”.\n\n§\n1º  Em caso de convocação de servidor que não estava em regime de\nsobreaviso, o registro das horas efetivamente trabalhadas será realizado de\nacordo com o disposto no inciso II do caput.\n\n§\n2º  Ficam vedadas:\n\nI\n- a utilização de folga parcial em períodos inferiores a uma hora; e\n\nII\n- a assunção de função comissionada por substituto eventual quando o titular da\nfunção utilizar a folga parcial de que trata o inciso IV do caput.” (NR)\n\nArt. 2º  A Instrução\nNormativa BCB nº 549, de 11 de novembro de 2024, passa a vigorar com as\nseguintes alterações.\n\n“Art.\n5º\n.......................................................................................................................\n\n....................................................................................................................................\n\nII\n- a acumulação de horas decorrentes de convocação decorrente do sobreaviso\ndeverá ser registrada utilizando o fato funcional “9610 - SOBREAVISO\nCONVOCACAO”;\n\nIII\n- a utilização das horas acumuladas decorrentes de sobreaviso em períodos de\noito horas diárias deverá ser registrada utilizando o fato funcional “9640 -\nFOLGA SOBREAVISO UTILIZACAO”; e\n\nIV\n- a utilização das horas acumuladas decorrentes de sobreaviso em períodos\ninferiores a oito horas diárias deverá ser registrada utilizando o fato\nfuncional “9660 - SOBREAVISO - FOLGA PARCIAL”.\n\n§\n1º  Em caso de convocação de servidor que não estava em regime de sobreaviso, o\nregistro das horas efetivamente trabalhadas será realizado de acordo com o\ndisposto no inciso II do caput.\n\n§\n2º  Ficam vedadas:\n\nI\n- a utilização de folga parcial em períodos inferiores a uma hora; e\n\nII\n- a assunção de função comissionada por substituto eventual quando o titular da\nfunção utilizar a folga parcial de que trata o inciso IV do caput.” (NR)\n\nArt. 3º  Esta\nInstrução Normativa entra em vigor na data de sua publicação.\n\nMarcelo\nForesti de Matheus Cota         Caio Moreira Fernandes\nChefe do Depes                                                  Chefe\ndo Deinf\n\nAndré\nde Oliveira Amante\nChefe do Demab"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "normativos_52992",
+  "ano": 2026,
+  "nome": "BC - Resolução CMN N° 5.334 de 24/08/2026",
+  "descricao": "Altera a Resolução CMN nº 5.330, de 23 de julho de 2026, que dispõe sobre a contratação, pelas instituições financeiras, de linha de crédito rural para composição de dívidas rurais para liquidação ou amortização de operações de crédito rural e sobre a prorrogação do vencimento de operações de crédito rural que se enquadrem na linha de composição de dívidas, nos termos da Medida Provisória nº 1.376, de 15 de julho de 2026.",
+  "data_feed": "2026-08-24T18:02:00-03:00",
+  "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5334",
+  "api_url": "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Resolu%C3%A7%C3%A3o+CMN&p2=5334",
+  "extraido_em": "2026-10-12T21:47:22.021697+00:00",
+  "conteudo": {
+    "titulo": "Resolução CMN N° 5.334",
+    "tipo": "Resolução CMN",
+    "numero": 5334.0,
+    "data": "2026-08-24T21:02:00Z",
+    "data_texto": "24/8/2026 18:02",
+    "assunto": "Altera a Resolução CMN nº 5.330, de 23 de julho de 2026, que dispõe sobre a contratação, pelas instituições financeiras, de linha de crédito rural para composição de dívidas rurais para liquidação ou amortização de operações de crédito rural e sobre a prorrogação do vencimento de operações de crédito rural que se enquadrem na linha de composição de dívidas, nos termos da Medida Provisória nº 1.376, de 15 de julho de 2026.",
+    "dou": "Publicada no DOU de 26/8/2026, Seção 1, p. 38.",
+    "referencias": "Lei nº 4.595/1964, arts. 4º, inciso VI, e 9º.;#Medida Provisória nº 1.376/2026.;#Cita MCR 6-2.;#Altera Resolução CMN nº 5.330/2026 - Dá nova redação: art. 1º, § 9º, incisos I, II e III. Inclui: art. 1º, § 9º, inciso I, \"a\" e \"b\".;#",
+    "normas_vinculadas": "RESOLUÇÃO CMN;@5330;@2026;#",
+    "atualizacoes": null,
+    "revogado": false,
+    "cancelado": false,
+    "versao": 1.0,
+    "id_bcb": 52992,
+    "texto": "Resolução Nº 5.334\n\nRESOLUÇÃO CMN Nº 5.334, DE 24 DE AGOSTO\nDE 2026\n\nAltera a Resolução CMN nº 5.330, de 23\nde julho de 2026, que dispõe sobre a contratação, pelas instituições\nfinanceiras, de linha de crédito rural para composição de dívidas rurais para\nliquidação ou amortização de operações de crédito rural e sobre a prorrogação\ndo vencimento de operações de crédito rural que se enquadrem na linha de\ncomposição de dívidas, nos termos da Medida Provisória nº 1.376, de 15 de julho\nde 2026.\n\nO Banco Central do\nBrasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna\npúblico que o Conselho Monetário Nacional, em sessão realizada em 24 de agosto de\n2026, tendo em vista as disposições do art. 4º, caput, inciso VI, da Lei\nnº 4.595, de 31 de dezembro de 1964, e dos arts. 1º, caput, 2º, caput\ne § 4º, 5º, caput, 6º, parágrafo único, e 7º da Medida Provisória nº 1.376,\nde 15 de julho de 2026,\n\nR E S O L V E U :\n\nArt. 1º  A Resolução CMN\nnº 5.330, de 23 de julho de 2026, publicada no Diário Oficial da União de 24 de\njulho de 2026, passa a vigorar com as seguintes alterações:\n\n“Art.\n1º  ...................................................................................................................................\n\n.................................................................................................................................................\n\n§\n9º  A instituição financeira pode utilizar os saldos das operações de que trata\neste artigo para cumprimento das exigibilidades e subexigibilidades do crédito\nrural, desde que observadas as seguintes condições:\n\nI\n- para fins de cumprimento da exigibilidade e das subexigibilidades dos\nRecursos Obrigatórios (MCR 6-2):\n\na)\nadmite-se a utilização de recursos para liquidação ou amortização de operações\nque se encontrem lastreadas em quaisquer fontes de recursos, exceto dos Fundos\nConstitucionais; e\n\nb)\nos saldos médios das operações destinadas à liquidação ou amortização de\ndívidas de que trata este artigo não poderão exceder 40% (quarenta por cento)\nda exigibilidade e das subexigibilidades apuradas na forma do MCR 6-2, sendo\ndesconsiderado, para fins de cumprimento, o saldo que exceder esse limite;\n\nII\n- podem ser utilizados recursos direcionados não controlados ou livres não\ncontrolados, a seu critério, observadas as taxas de juros definidas nos §§ 4º e\n7º; e\n\nIII\n- devem ser observados os limites para equalização estabelecidos em portaria do\nMinistério da Fazenda.\n\n.......................................................................................................................................”\n(NR)\n\nArt. 2º  Esta Resolução entra em vigor\nna data de sua publicação.\n\nGABRIEL MURICCA GALÍPOLO\nPresidente do Banco\nCentral do Brasil"
+  }
+}
