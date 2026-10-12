@@ -1,0 +1,67 @@
+name: Extract Bacen Texts
+
+on:
+  workflow_run:
+    workflows: ["Update Bacen JSON"]
+    types: [completed]
+  workflow_dispatch:
+    inputs:
+      force:
+        description: Reextrair normativas já presentes no índice
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: extract-bacen-texts
+  cancel-in-progress: false
+
+jobs:
+  extract:
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Extract normative texts
+        shell: bash
+        env:
+          FORCE_EXTRACTION: ${{ inputs.force || 'false' }}
+        run: |
+          args=(
+            src/normativas_2025.json
+            src/normativas_2026.json
+            --output-dir docs
+          )
+          if [[ "$FORCE_EXTRACTION" == "true" ]]; then
+            args+=(--force)
+          fi
+          python3 scripts/extract_bacen_texts.py "${args[@]}"
+
+      - name: Commit extracted texts
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: extract Bacen normative texts"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
