@@ -8,6 +8,7 @@ class BACENNavigator {
         this.normativas = [];
         this.filteredNormativas = [];
         this.currentView = 'matrix';
+        this.currentYear = '2025';
         this.months = [
             'Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho',
             'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'
@@ -22,28 +23,63 @@ class BACENNavigator {
     }
 
     async init() {
-        await this.loadData();
+        await this.loadData(this.currentYear);
+        this.updateYearUI();
         this.setupEventListeners();
         this.applyFilters();
         this.updateStats();
     }
 
-    async loadData() {
+    async loadData(year) {
         try {
-            const response = await fetch('../normativas_2025.json');
-            this.normativas = await response.json();
-            console.log(`Carregadas ${this.normativas.length} normativas`);
-        } catch (error) {
-            console.error('Erro ao carregar dados:', error);
-            // Tentar caminho alternativo
-            try {
-                const response = await fetch('./normativas_2025.json');
-                this.normativas = await response.json();
-            } catch (e) {
-                console.error('Erro ao carregar dados (caminho alternativo):', e);
-                this.normativas = [];
+            const response = await fetch(`./normativas_${year}.json`, { cache: 'no-store' });
+            if (!response.ok) {
+                throw new Error(`HTTP ${response.status}`);
             }
+
+            const normativas = await response.json();
+            if (!Array.isArray(normativas)) {
+                throw new Error('Formato de dados inválido');
+            }
+
+            this.normativas = normativas;
+            console.log(`Carregadas ${this.normativas.length} normativas de ${year}`);
+            return true;
+        } catch (error) {
+            console.error(`Erro ao carregar normativas de ${year}:`, error);
+            return false;
         }
+    }
+
+    async changeYear(year) {
+        if (year === this.currentYear) return;
+
+        const yearSelect = document.getElementById('year-select');
+        const previousYear = this.currentYear;
+        yearSelect.disabled = true;
+
+        const loaded = await this.loadData(year);
+        yearSelect.disabled = false;
+
+        if (!loaded) {
+            yearSelect.value = previousYear;
+            window.alert(`Não foi possível carregar as normativas de ${year}.`);
+            return;
+        }
+
+        this.currentYear = year;
+        this.updateYearUI();
+        this.closeModal('detail-modal');
+        this.hideTooltip();
+        this.clearFilters();
+    }
+
+    updateYearUI() {
+        document.title = `BACEN Navigator - Normativas ${this.currentYear}`;
+        document.getElementById('page-title').textContent =
+            `Normativas do Banco Central do Brasil - ${this.currentYear}`;
+        document.getElementById('help-year').textContent = this.currentYear;
+        document.getElementById('year-select').value = this.currentYear;
     }
 
     setupEventListeners() {
@@ -78,6 +114,11 @@ class BACENNavigator {
 
         // Month filter
         document.getElementById('filter-month').addEventListener('change', () => this.applyFilters());
+
+        // Year selector
+        document.getElementById('year-select').addEventListener('change', (event) => {
+            this.changeYear(event.target.value);
+        });
 
         // Clear filters
         document.getElementById('btn-clear-filters').addEventListener('click', () => this.clearFilters());
@@ -249,8 +290,20 @@ class BACENNavigator {
         }
     }
 
+    createElement(tagName, className = '', text = '') {
+        const element = document.createElement(tagName);
+        if (className) element.className = className;
+        if (text) element.textContent = text;
+        return element;
+    }
+
+    createEmptyState(message) {
+        return this.createElement('div', 'empty-state', message);
+    }
+
     renderMatrix() {
         const container = document.getElementById('matrix-view');
+        container.replaceChildren();
         
         // Organizar dados por tipo e mês
         const data = {};
@@ -278,73 +331,63 @@ class BACENNavigator {
         const activeMonths = Array.from(monthsWithData).sort((a, b) => a - b);
 
         if (activeMonths.length === 0) {
-            container.innerHTML = '<div style="padding: 2rem; text-align: center; color: var(--text-secondary);">Nenhuma normativa encontrada com os filtros atuais.</div>';
+            container.appendChild(this.createEmptyState('Nenhuma normativa encontrada com os filtros atuais.'));
             return;
         }
 
-        // Construir HTML da matriz
-        const cols = activeMonths.length + 1;
-        let html = `<div class="matrix" style="grid-template-columns: 180px repeat(${activeMonths.length}, minmax(120px, 1fr));">`;
+        // Construir matriz usando APIs seguras do DOM.
+        const matrix = this.createElement('div', 'matrix');
+        matrix.style.gridTemplateColumns = `180px repeat(${activeMonths.length}, minmax(120px, 1fr))`;
 
         // Header row
-        html += '<div class="matrix-header-cell">Tipo / Mês</div>';
+        matrix.appendChild(this.createElement('div', 'matrix-header-cell', 'Tipo / Mês'));
         activeMonths.forEach(m => {
-            html += `<div class="matrix-header-cell">${this.months[m]}</div>`;
+            matrix.appendChild(this.createElement('div', 'matrix-header-cell', this.months[m]));
         });
 
         // Data rows
         this.types.forEach(type => {
-            html += `<div class="matrix-type-cell"><span class="legend-color ${type.id}-bg" style="margin-right: 8px;"></span>${type.name}</div>`;
+            const typeCell = this.createElement('div', 'matrix-type-cell');
+            const legend = this.createElement('span', `legend-color ${type.id}-bg`);
+            legend.style.marginRight = '8px';
+            typeCell.append(legend, document.createTextNode(type.name));
+            matrix.appendChild(typeCell);
             
             activeMonths.forEach(m => {
                 const items = data[type.id][m];
                 const count = items.length;
                 
                 if (count === 0) {
-                    html += '<div class="matrix-cell empty">-</div>';
+                    matrix.appendChild(this.createElement('div', 'matrix-cell empty', '-'));
                 } else {
-                    html += `<div class="matrix-cell" data-type="${type.id}" data-month="${m}">`;
-                    html += `<span class="cell-count">${count}</span>`;
+                    const cell = this.createElement('div', 'matrix-cell');
+                    cell.appendChild(this.createElement('span', 'cell-count', String(count)));
                     
                     // Mostrar até 3 itens
-                    const showItems = items.slice(0, 3);
-                    showItems.forEach(item => {
+                    items.slice(0, 3).forEach(item => {
                         const shortName = this.getShortName(item.nome);
-                        html += `<div class="cell-item ${type.id}" data-id="${item.id}" title="${item.nome}">${shortName}</div>`;
+                        const itemElement = this.createElement('div', `cell-item ${type.id}`, shortName);
+                        itemElement.title = item.nome;
+                        itemElement.addEventListener('click', (event) => {
+                            event.stopPropagation();
+                            this.showDetail(item);
+                        });
+                        itemElement.addEventListener('mouseenter', (event) => this.showTooltip(event, item));
+                        itemElement.addEventListener('mouseleave', () => this.hideTooltip());
+                        cell.appendChild(itemElement);
                     });
                     
                     if (count > 3) {
-                        html += `<div class="cell-more">+${count - 3} mais</div>`;
+                        cell.appendChild(this.createElement('div', 'cell-more', `+${count - 3} mais`));
                     }
-                    
-                    html += '</div>';
+
+                    cell.addEventListener('click', () => this.showCellItems(type.id, m));
+                    matrix.appendChild(cell);
                 }
             });
         });
 
-        html += '</div>';
-        container.innerHTML = html;
-
-        // Add event listeners to cells
-        container.querySelectorAll('.cell-item').forEach(item => {
-            item.addEventListener('click', (e) => {
-                e.stopPropagation();
-                const id = item.dataset.id;
-                const normativa = this.normativas.find(n => n.id === id);
-                if (normativa) this.showDetail(normativa);
-            });
-
-            item.addEventListener('mouseenter', (e) => this.showTooltip(e, item.dataset.id));
-            item.addEventListener('mouseleave', () => this.hideTooltip());
-        });
-
-        container.querySelectorAll('.matrix-cell:not(.empty)').forEach(cell => {
-            cell.addEventListener('click', () => {
-                const type = cell.dataset.type;
-                const month = parseInt(cell.dataset.month);
-                this.showCellItems(type, month);
-            });
-        });
+        container.appendChild(matrix);
     }
 
     getShortName(nome) {
@@ -358,45 +401,49 @@ class BACENNavigator {
 
     renderList() {
         const tbody = document.getElementById('list-body');
+        tbody.replaceChildren();
         
         // Ordenar por data (mais recente primeiro)
         const sorted = [...this.filteredNormativas].sort((a, b) => 
             new Date(b.data) - new Date(a.data)
         );
 
-        let html = '';
+        if (sorted.length === 0) {
+            const row = document.createElement('tr');
+            const cell = this.createElement('td', 'empty-table-cell', 'Nenhuma normativa encontrada');
+            cell.colSpan = 5;
+            row.appendChild(cell);
+            tbody.appendChild(row);
+            return;
+        }
+
         sorted.forEach(n => {
             const type = this.getType(n);
             const typeName = this.types.find(t => t.id === type)?.name || 'Outro';
-            
-            html += `
-                <tr data-id="${n.id}">
-                    <td><span class="badge ${type}">${typeName}</span></td>
-                    <td>${n.nome}</td>
-                    <td>${this.getFormattedDate(n)}</td>
-                    <td class="description" title="${n.descricao}">${n.descricao}</td>
-                    <td>
-                        <button class="btn-action btn-detail" data-id="${n.id}">
-                            <i class="fas fa-eye"></i> Ver
-                        </button>
-                    </td>
-                </tr>
-            `;
-        });
 
-        tbody.innerHTML = html || '<tr><td colspan="5" style="text-align: center;">Nenhuma normativa encontrada</td></tr>';
+            const row = document.createElement('tr');
+            const typeCell = document.createElement('td');
+            typeCell.appendChild(this.createElement('span', `badge ${type}`, typeName));
+            const nameCell = this.createElement('td', '', n.nome);
+            const dateCell = this.createElement('td', '', this.getFormattedDate(n));
+            const descriptionCell = this.createElement('td', 'description', n.descricao);
+            descriptionCell.title = n.descricao;
 
-        // Add event listeners
-        tbody.querySelectorAll('.btn-detail').forEach(btn => {
-            btn.addEventListener('click', () => {
-                const normativa = this.normativas.find(n => n.id === btn.dataset.id);
-                if (normativa) this.showDetail(normativa);
-            });
+            const actionCell = document.createElement('td');
+            const button = this.createElement('button', 'btn-action btn-detail');
+            const icon = this.createElement('i', 'fas fa-eye');
+            button.append(icon, document.createTextNode(' Ver'));
+            button.addEventListener('click', () => this.showDetail(n));
+            actionCell.appendChild(button);
+
+            row.append(typeCell, nameCell, dateCell, descriptionCell, actionCell);
+            tbody.appendChild(row);
         });
     }
 
     renderTimeline() {
         const container = document.getElementById('timeline-content');
+        container.replaceChildren();
         
         // Agrupar por mês
         const byMonth = {};
@@ -409,40 +456,45 @@ class BACENNavigator {
         // Ordenar meses (mais recente primeiro)
         const sortedMonths = Object.keys(byMonth).map(Number).sort((a, b) => b - a);
 
-        let html = '';
+        if (sortedMonths.length === 0) {
+            container.appendChild(this.createEmptyState('Nenhuma normativa encontrada'));
+            return;
+        }
+
         sortedMonths.forEach(month => {
             const items = byMonth[month].sort((a, b) => new Date(b.data) - new Date(a.data));
-            
-            html += `
-                <div class="timeline-month">
-                    <div class="timeline-month-header">${this.months[month]} 2025</div>
-            `;
+
+            const monthElement = this.createElement('div', 'timeline-month');
+            monthElement.appendChild(
+                this.createElement('div', 'timeline-month-header', `${this.months[month]} ${this.currentYear}`)
+            );
 
             items.forEach(n => {
                 const type = this.getType(n);
-                html += `
-                    <div class="timeline-item ${type}" data-id="${n.id}">
-                        <div class="timeline-item-header">
-                            <span class="timeline-item-title">${n.nome}</span>
-                            <span class="timeline-item-date">${this.getFormattedDate(n)}</span>
-                        </div>
-                        <div class="timeline-item-description">${n.descricao}</div>
-                    </div>
-                `;
+                const item = this.createTimelineItem(n, type);
+                item.addEventListener('click', () => this.showDetail(n));
+                monthElement.appendChild(item);
             });
 
-            html += '</div>';
+            container.appendChild(monthElement);
         });
+    }
 
-        container.innerHTML = html || '<div style="padding: 2rem; text-align: center; color: var(--text-secondary);">Nenhuma normativa encontrada</div>';
+    createTimelineItem(normativa, type, descriptionLimit = null) {
+        const item = this.createElement('div', `timeline-item ${type}`);
+        const header = this.createElement('div', 'timeline-item-header');
+        header.append(
+            this.createElement('span', 'timeline-item-title', normativa.nome),
+            this.createElement('span', 'timeline-item-date', this.getFormattedDate(normativa))
+        );
 
-        // Add event listeners
-        container.querySelectorAll('.timeline-item').forEach(item => {
-            item.addEventListener('click', () => {
-                const normativa = this.normativas.find(n => n.id === item.dataset.id);
-                if (normativa) this.showDetail(normativa);
-            });
-        });
+        let description = normativa.descricao;
+        if (descriptionLimit !== null && description.length > descriptionLimit) {
+            description = `${description.substring(0, descriptionLimit)}...`;
+        }
+
+        item.append(header, this.createElement('div', 'timeline-item-description', description));
+        return item;
     }
 
     showCellItems(typeId, month) {
@@ -459,31 +511,22 @@ class BACENNavigator {
             const monthName = this.months[month];
             
             const modal = document.getElementById('detail-modal');
-            document.getElementById('modal-title').textContent = `${typeName} - ${monthName} 2025`;
+            document.getElementById('modal-title').textContent = `${typeName} - ${monthName} ${this.currentYear}`;
             
             const body = document.querySelector('#detail-modal .modal-body');
-            body.innerHTML = `
-                <p style="margin-bottom: 1rem; color: var(--text-secondary);">${items.length} normativas encontradas:</p>
-                <div class="cell-items-list">
-                    ${items.map(n => `
-                        <div class="timeline-item ${typeId}" data-id="${n.id}" style="cursor: pointer;">
-                            <div class="timeline-item-header">
-                                <span class="timeline-item-title">${n.nome}</span>
-                                <span class="timeline-item-date">${this.getFormattedDate(n)}</span>
-                            </div>
-                            <div class="timeline-item-description">${n.descricao.substring(0, 150)}...</div>
-                        </div>
-                    `).join('')}
-                </div>
-            `;
+            body.replaceChildren();
+            const summary = this.createElement('p', 'cell-items-summary', `${items.length} normativas encontradas:`);
+            const list = this.createElement('div', 'cell-items-list');
 
-            // Add click listeners
-            body.querySelectorAll('.timeline-item').forEach(item => {
+            items.forEach(normativa => {
+                const item = this.createTimelineItem(normativa, typeId, 150);
                 item.addEventListener('click', () => {
-                    const normativa = this.normativas.find(n => n.id === item.dataset.id);
-                    if (normativa) this.showDetail(normativa);
+                    this.showDetail(normativa);
                 });
+                list.appendChild(item);
             });
+
+            body.append(summary, list);
 
             document.querySelector('#detail-modal .modal-footer').style.display = 'none';
             modal.classList.add('active');
@@ -497,48 +540,60 @@ class BACENNavigator {
         document.getElementById('modal-title').textContent = 'Detalhes da Normativa';
         
         const body = document.querySelector('#detail-modal .modal-body');
-        body.innerHTML = `
-            <div class="detail-row">
-                <label>Tipo:</label>
-                <span class="badge ${type}">${typeName}</span>
-            </div>
-            <div class="detail-row">
-                <label>Nome:</label>
-                <span>${normativa.nome}</span>
-            </div>
-            <div class="detail-row">
-                <label>Data:</label>
-                <span>${this.getFormattedDate(normativa)}</span>
-            </div>
-            <div class="detail-row">
-                <label>Descrição:</label>
-                <p>${normativa.descricao}</p>
-            </div>
-            <div class="detail-row">
-                <label>Link:</label>
-                <a href="${normativa.link}" target="_blank" id="modal-link">
-                    <i class="fas fa-external-link-alt"></i> Acessar Normativa no site do BCB
-                </a>
-            </div>
-        `;
+        body.replaceChildren();
+
+        const typeRow = this.createDetailRow('Tipo:');
+        typeRow.appendChild(this.createElement('span', `badge ${type}`, typeName));
+        const nameRow = this.createDetailRow('Nome:');
+        nameRow.appendChild(this.createElement('span', '', normativa.nome));
+        const dateRow = this.createDetailRow('Data:');
+        dateRow.appendChild(this.createElement('span', '', this.getFormattedDate(normativa)));
+        const descriptionRow = this.createDetailRow('Descrição:');
+        descriptionRow.appendChild(this.createElement('p', '', normativa.descricao));
+        const linkRow = this.createDetailRow('Link:');
+        const safeLink = this.getSafeNormativaLink(normativa.link);
+        const link = this.createElement('a', '', safeLink ? ' Acessar Normativa no site do BCB' : 'Link indisponível');
+        link.id = 'modal-link';
+        if (safeLink) {
+            link.href = safeLink;
+            link.target = '_blank';
+            link.rel = 'noopener noreferrer';
+            link.prepend(this.createElement('i', 'fas fa-external-link-alt'));
+        }
+        linkRow.appendChild(link);
+        body.append(typeRow, nameRow, dateRow, descriptionRow, linkRow);
 
         document.querySelector('#detail-modal .modal-footer').style.display = 'flex';
         
         // Atualizar link para copiar
-        this.currentNormativaLink = normativa.link;
+        this.currentNormativaLink = safeLink;
         
         document.getElementById('detail-modal').classList.add('active');
     }
 
-    showTooltip(e, id) {
-        const normativa = this.normativas.find(n => n.id === id);
-        if (!normativa) return;
+    createDetailRow(labelText) {
+        const row = this.createElement('div', 'detail-row');
+        row.appendChild(this.createElement('label', '', labelText));
+        return row;
+    }
 
+    getSafeNormativaLink(link) {
+        try {
+            const url = new URL(link);
+            const isBacenHost = url.hostname === 'bcb.gov.br' || url.hostname.endsWith('.bcb.gov.br');
+            return url.protocol === 'https:' && isBacenHost ? url.href : null;
+        } catch {
+            return null;
+        }
+    }
+
+    showTooltip(e, normativa) {
         const tooltip = document.getElementById('tooltip');
-        tooltip.querySelector('.tooltip-content').innerHTML = `
-            <div class="tooltip-title">${normativa.nome}</div>
-            <div class="tooltip-description">${normativa.descricao.substring(0, 150)}...</div>
-        `;
+        const content = tooltip.querySelector('.tooltip-content');
+        content.replaceChildren(
+            this.createElement('div', 'tooltip-title', normativa.nome),
+            this.createElement('div', 'tooltip-description', `${normativa.descricao.substring(0, 150)}...`)
+        );
 
         tooltip.style.left = `${e.pageX + 10}px`;
         tooltip.style.top = `${e.pageY + 10}px`;
@@ -561,10 +616,15 @@ class BACENNavigator {
         if (this.currentNormativaLink) {
             navigator.clipboard.writeText(this.currentNormativaLink).then(() => {
                 const btn = document.getElementById('btn-copy-link');
-                const originalHTML = btn.innerHTML;
-                btn.innerHTML = '<i class="fas fa-check"></i> Copiado!';
+                btn.replaceChildren(
+                    this.createElement('i', 'fas fa-check'),
+                    document.createTextNode(' Copiado!')
+                );
                 setTimeout(() => {
-                    btn.innerHTML = originalHTML;
+                    btn.replaceChildren(
+                        this.createElement('i', 'fas fa-copy'),
+                        document.createTextNode(' Copiar Link')
+                    );
                 }, 2000);
             });
         }
@@ -573,6 +633,7 @@ class BACENNavigator {
     exportData() {
         const data = {
             exportDate: new Date().toISOString(),
+            year: this.currentYear,
             totalNormativas: this.filteredNormativas.length,
             normativas: this.filteredNormativas.map(n => ({
                 nome: n.nome,
@@ -587,7 +648,7 @@ class BACENNavigator {
         const url = URL.createObjectURL(blob);
         const a = document.createElement('a');
         a.href = url;
-        a.download = `normativas_bacen_export_${new Date().toISOString().split('T')[0]}.json`;
+        a.download = `normativas_bacen_${this.currentYear}_export_${new Date().toISOString().split('T')[0]}.json`;
         document.body.appendChild(a);
         a.click();
         document.body.removeChild(a);

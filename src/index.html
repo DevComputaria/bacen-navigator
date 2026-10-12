@@ -22,9 +22,17 @@
             <span class="version">v1.0</span>
         </div>
         <div class="header-center">
-            <h1>Normativas do Banco Central do Brasil - 2025</h1>
+            <h1 id="page-title">Normativas do Banco Central do Brasil - 2025</h1>
         </div>
         <div class="header-right">
+            <label class="year-selector" for="year-select" title="Selecionar ano">
+                <i class="fas fa-calendar-alt" aria-hidden="true"></i>
+                <select id="year-select" aria-label="Selecionar ano das normativas">
+                    <option value="2025" selected>2025</option>
+                    <option value="2026">2026</option>
+                </select>
+                <i class="fas fa-chevron-down year-selector-arrow" aria-hidden="true"></i>
+            </label>
             <button class="btn-icon" id="btn-export" title="Exportar">
                 <i class="fas fa-download"></i>
             </button>
@@ -239,7 +247,7 @@
             </div>
             <div class="modal-body">
                 <h3>Sobre</h3>
-                <p>O BACEN Navigator é uma ferramenta inspirada no MITRE ATT&CK Navigator para visualização e navegação das normativas do Banco Central do Brasil publicadas em 2025.</p>
+                <p>O BACEN Navigator é uma ferramenta inspirada no MITRE ATT&CK Navigator para visualização e navegação das normativas do Banco Central do Brasil publicadas em <span id="help-year">2025</span>.</p>
                 
                 <h3>Visualizações</h3>
                 <ul>

@@ -111,7 +111,53 @@ body {
 
 .header-right {
     display: flex;
+    align-items: center;
     gap: 0.5rem;
+}
+
+.year-selector {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    gap: 0.45rem;
+    padding: 0 0.65rem;
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 8px;
+    color: var(--text-primary);
+    cursor: pointer;
+    transition: var(--transition-fast);
+}
+
+.year-selector:hover,
+.year-selector:focus-within {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: rgba(255, 255, 255, 0.4);
+}
+
+.year-selector select {
+    appearance: none;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    color: var(--text-primary);
+    font: inherit;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.year-selector select:disabled {
+    cursor: wait;
+    opacity: 0.7;
+}
+
+.year-selector select option {
+    color: #111111;
+}
+
+.year-selector-arrow {
+    font-size: 0.65rem;
+    pointer-events: none;
 }
 
 .btn-icon {
@@ -419,6 +465,21 @@ body {
 
 .matrix-info {
     font-size: 0.9rem;
+    color: var(--text-secondary);
+}
+
+.empty-state {
+    padding: 2rem;
+    text-align: center;
+    color: var(--text-secondary);
+}
+
+.empty-table-cell {
+    text-align: center;
+}
+
+.cell-items-summary {
+    margin-bottom: 1rem;
     color: var(--text-secondary);
 }
 
@@ -983,6 +1044,15 @@ body {
     
     .header-right {
         gap: 0.25rem;
+    }
+
+    .year-selector {
+        height: 36px;
+        padding: 0 0.5rem;
+    }
+
+    .year-selector > .fa-calendar-alt {
+        display: none;
     }
     
     .btn-icon {
