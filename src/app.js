@@ -8,6 +8,7 @@ class BACENNavigator {
         this.normativas = [];
         this.filteredNormativas = [];
         this.currentView = 'matrix';
+        this.currentYear = '2025';
         this.months = [
             'Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho',
             'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'
@@ -22,28 +23,63 @@ class BACENNavigator {
     }
 
     async init() {
-        await this.loadData();
+        await this.loadData(this.currentYear);
+        this.updateYearUI();
         this.setupEventListeners();
         this.applyFilters();
         this.updateStats();
     }
 
-    async loadData() {
+    async loadData(year) {
         try {
-            const response = await fetch('../normativas_2025.json');
-            this.normativas = await response.json();
-            console.log(`Carregadas ${this.normativas.length} normativas`);
-        } catch (error) {
-            console.error('Erro ao carregar dados:', error);
-            // Tentar caminho alternativo
-            try {
-                const response = await fetch('./normativas_2025.json');
-                this.normativas = await response.json();
-            } catch (e) {
-                console.error('Erro ao carregar dados (caminho alternativo):', e);
-                this.normativas = [];
+            const response = await fetch(`./normativas_${year}.json`, { cache: 'no-store' });
+            if (!response.ok) {
+                throw new Error(`HTTP ${response.status}`);
             }
+
+            const normativas = await response.json();
+            if (!Array.isArray(normativas)) {
+                throw new Error('Formato de dados inválido');
+            }
+
+            this.normativas = normativas;
+            console.log(`Carregadas ${this.normativas.length} normativas de ${year}`);
+            return true;
+        } catch (error) {
+            console.error(`Erro ao carregar normativas de ${year}:`, error);
+            return false;
         }
+    }
+
+    async changeYear(year) {
+        if (year === this.currentYear) return;
+
+        const yearSelect = document.getElementById('year-select');
+        const previousYear = this.currentYear;
+        yearSelect.disabled = true;
+
+        const loaded = await this.loadData(year);
+        yearSelect.disabled = false;
+
+        if (!loaded) {
+            yearSelect.value = previousYear;
+            window.alert(`Não foi possível carregar as normativas de ${year}.`);
+            return;
+        }
+
+        this.currentYear = year;
+        this.updateYearUI();
+        this.closeModal('detail-modal');
+        this.hideTooltip();
+        this.clearFilters();
+    }
+
+    updateYearUI() {
+        document.title = `BACEN Navigator - Normativas ${this.currentYear}`;
+        document.getElementById('page-title').textContent =
+            `Normativas do Banco Central do Brasil - ${this.currentYear}`;
+        document.getElementById('help-year').textContent = this.currentYear;
+        document.getElementById('year-select').value = this.currentYear;
     }
 
     setupEventListeners() {
@@ -78,6 +114,11 @@ class BACENNavigator {
 
         // Month filter
         document.getElementById('filter-month').addEventListener('change', () => this.applyFilters());
+
+        // Year selector
+        document.getElementById('year-select').addEventListener('change', (event) => {
+            this.changeYear(event.target.value);
+        });
 
         // Clear filters
         document.getElementById('btn-clear-filters').addEventListener('click', () => this.clearFilters());
@@ -415,7 +456,7 @@ class BACENNavigator {
             
             html += `
                 <div class="timeline-month">
-                    <div class="timeline-month-header">${this.months[month]} 2025</div>
+                    <div class="timeline-month-header">${this.months[month]} ${this.currentYear}</div>
             `;
 
             items.forEach(n => {
@@ -459,7 +500,7 @@ class BACENNavigator {
             const monthName = this.months[month];
             
             const modal = document.getElementById('detail-modal');
-            document.getElementById('modal-title').textContent = `${typeName} - ${monthName} 2025`;
+            document.getElementById('modal-title').textContent = `${typeName} - ${monthName} ${this.currentYear}`;
             
             const body = document.querySelector('#detail-modal .modal-body');
             body.innerHTML = `
@@ -573,6 +614,7 @@ class BACENNavigator {
     exportData() {
         const data = {
             exportDate: new Date().toISOString(),
+            year: this.currentYear,
             totalNormativas: this.filteredNormativas.length,
             normativas: this.filteredNormativas.map(n => ({
                 nome: n.nome,
@@ -587,7 +629,7 @@ class BACENNavigator {
         const url = URL.createObjectURL(blob);
         const a = document.createElement('a');
         a.href = url;
-        a.download = `normativas_bacen_export_${new Date().toISOString().split('T')[0]}.json`;
+        a.download = `normativas_bacen_${this.currentYear}_export_${new Date().toISOString().split('T')[0]}.json`;
         document.body.appendChild(a);
         a.click();
         document.body.removeChild(a);
