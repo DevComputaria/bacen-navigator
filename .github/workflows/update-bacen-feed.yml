@@ -1,0 +1,50 @@
+name: Update Bacen Feed
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-bacen-feed
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Download Bacen feed
+        shell: bash
+        run: |
+          set -euo pipefail
+          URL="https://www.bcb.gov.br/api/feed/app/normativos/normativos?ano=2026"
+          OUTPUT_DIR="docs/feed/2026"
+          mkdir -p "$OUTPUT_DIR"
+          timestamp=$(date -u '+%Y%m%d-%H%M%S')
+          output_file="$OUTPUT_DIR/feed-$timestamp.xml"
+          curl --fail --location --retry 3 --retry-all-errors "$URL" --output "$output_file"
+          python3 -c 'import sys, xml.etree.ElementTree as ET; ET.parse(sys.argv[1])' "$output_file"
+          echo "FEED_FILE=$output_file" >> "$GITHUB_ENV"
+
+      - name: Commit changes
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "$FEED_FILE"
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: update Bacen feed"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
