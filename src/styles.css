@@ -468,6 +468,21 @@ body {
     color: var(--text-secondary);
 }
 
+.empty-state {
+    padding: 2rem;
+    text-align: center;
+    color: var(--text-secondary);
+}
+
+.empty-table-cell {
+    text-align: center;
+}
+
+.cell-items-summary {
+    margin-bottom: 1rem;
+    color: var(--text-secondary);
+}
+
 /* ============================================
    Matrix View
    ============================================ */
