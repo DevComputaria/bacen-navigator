@@ -1,5 +1,19 @@
 [
   {
+    "id": "normativos_53028",
+    "nome": "BC - Instrução Normativa BCB N° 781 de 13/10/2026",
+    "descricao": "Constitui o Centro de Excelência de Desenvolvimento de Software do Banco Central do Brasil.",
+    "data": "2026-10-13T10:35:03-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=781"
+  },
+  {
+    "id": "normativos_53027",
+    "nome": "BC - Instrução Normativa BCB N° 780 de 13/10/2026",
+    "descricao": "Constitui o Centro de Excelência de Desenvolvimento de Software do Banco Central do Brasil.",
+    "data": "2026-10-13T10:30:28-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=780"
+  },
+  {
     "id": "normativos_53026",
     "nome": "BC - Resolução BCB N° 599 de 08/10/2026",
     "descricao": "Altera a Resolução BCB nº 277, de 31 de dezembro de 2022, que regulamenta o mercado de câmbio, para incluir código de classificação de finalidade de operação de câmbio.",
