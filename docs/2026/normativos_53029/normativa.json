@@ -1,0 +1,27 @@
+{
+  "id": "normativos_53029",
+  "ano": 2026,
+  "nome": "BC - Resolução BCB N° 600 de 14/10/2026",
+  "descricao": "Revoga a Resolução BCB nº 297, de 2 de março de 2023, que dispõe sobre a transferência de fundos por meio de Documento de Crédito – DOC e de Transferência Especial de Crédito – TEC.",
+  "data_feed": "2026-10-14T18:04:01-03:00",
+  "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=600",
+  "api_url": "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Resolu%C3%A7%C3%A3o+BCB&p2=600",
+  "extraido_em": "2026-10-15T02:49:33.228814+00:00",
+  "conteudo": {
+    "titulo": "Resolução BCB N° 600",
+    "tipo": "Resolução BCB",
+    "numero": 600.0,
+    "data": "2026-10-14T21:03:59Z",
+    "data_texto": "14/10/2026 18:03",
+    "assunto": "Revoga a Resolução BCB nº 297, de 2 de março de 2023, que dispõe sobre a transferência de fundos por meio de Documento de Crédito – DOC e de Transferência Especial de Crédito – TEC.",
+    "dou": "",
+    "referencias": null,
+    "normas_vinculadas": null,
+    "atualizacoes": null,
+    "revogado": false,
+    "cancelado": false,
+    "versao": 0.0,
+    "id_bcb": 53029,
+    "texto": "A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 14 de outubro de 2026, com fundamento no art. 11,\ncaput, inciso VI, da Lei nº 4.595, de 31 de dezembro de 1964, no art. 10 da Lei nº 10.214, de 27 de março de 2001, e no art. 12 da Resolução CMN nº 4.952, de 30 de setembro de 2021,\n\nR E S O L V E :\n\nArt. 1º  Fica revogada a Resolução BCB nº 297, de 2 de março de 2023, publicada no Diário Oficial da União de 6 de março de 2023.\n\nArt. 2º  Esta Resolução entra em vigor na data de sua publicação.\n\nGILNEU FRANCISCO ASTOLFI VIVAN\n\nDiretor de Organização do Sistema Financeiro e de Resolução"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T03:10:02.382485+00:00",
+  "updated_at": "2026-10-15T02:49:33.228814+00:00",
   "items": {
     "2025/normativos_52631": {
       "id": "normativos_52631",
@@ -5402,6 +5402,17 @@
       "markdown_path": "2026/normativos_53027/normativa.md",
       "extraido_em": "2026-10-14T03:10:02.382485+00:00",
       "id_bcb": 53027
+    },
+    "2026/normativos_53029": {
+      "id": "normativos_53029",
+      "ano": 2026,
+      "nome": "BC - Resolução BCB N° 600 de 14/10/2026",
+      "data_feed": "2026-10-14T18:04:01-03:00",
+      "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=600",
+      "json_path": "2026/normativos_53029/normativa.json",
+      "markdown_path": "2026/normativos_53029/normativa.md",
+      "extraido_em": "2026-10-15T02:49:33.228814+00:00",
+      "id_bcb": 53029
     }
   }
 }
