@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T02:49:33.228814+00:00",
+  "updated_at": "2026-10-20T03:02:58.645946+00:00",
   "items": {
     "2025/normativos_52631": {
       "id": "normativos_52631",
@@ -5413,6 +5413,17 @@
       "markdown_path": "2026/normativos_53029/normativa.md",
       "extraido_em": "2026-10-15T02:49:33.228814+00:00",
       "id_bcb": 53029
+    },
+    "2026/normativos_53031": {
+      "id": "normativos_53031",
+      "ano": 2026,
+      "nome": "BC - Instrução Normativa BCB N° 782 de 19/10/2026",
+      "data_feed": "2026-10-19T15:05:52-03:00",
+      "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=782",
+      "json_path": "2026/normativos_53031/normativa.json",
+      "markdown_path": "2026/normativos_53031/normativa.md",
+      "extraido_em": "2026-10-20T03:02:58.645946+00:00",
+      "id_bcb": 53031
     }
   }
 }
