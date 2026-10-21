@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T03:02:58.645946+00:00",
+  "updated_at": "2026-10-21T02:57:20.697450+00:00",
   "items": {
     "2025/normativos_52631": {
       "id": "normativos_52631",
@@ -5424,6 +5424,28 @@
       "markdown_path": "2026/normativos_53031/normativa.md",
       "extraido_em": "2026-10-20T03:02:58.645946+00:00",
       "id_bcb": 53031
+    },
+    "2026/normativos_53033": {
+      "id": "normativos_53033",
+      "ano": 2026,
+      "nome": "BC - Instrução Normativa BCB N° 784 de 20/10/2026",
+      "data_feed": "2026-10-20T12:02:16-03:00",
+      "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=784",
+      "json_path": "2026/normativos_53033/normativa.json",
+      "markdown_path": "2026/normativos_53033/normativa.md",
+      "extraido_em": "2026-10-21T02:57:19.712312+00:00",
+      "id_bcb": 53033
+    },
+    "2026/normativos_53032": {
+      "id": "normativos_53032",
+      "ano": 2026,
+      "nome": "BC - Instrução Normativa BCB N° 783 de 20/10/2026",
+      "data_feed": "2026-10-20T11:43:16-03:00",
+      "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=783",
+      "json_path": "2026/normativos_53032/normativa.json",
+      "markdown_path": "2026/normativos_53032/normativa.md",
+      "extraido_em": "2026-10-21T02:57:20.697450+00:00",
+      "id_bcb": 53032
     }
   }
 }
