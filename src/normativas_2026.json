@@ -1,5 +1,19 @@
 [
   {
+    "id": "normativos_53033",
+    "nome": "BC - Instrução Normativa BCB N° 784 de 20/10/2026",
+    "descricao": "Altera as Instruções de preenchimento do documento de código 2062 - Demonstrativo de Limites Operacionais Individuais - DLI, de que trata a Instrução Normativa BCB nº 85, de 10 de março de 2021, que estabelece os procedimentos para a remessa das informações relativas às apurações de limites e padrões regulamentares de que trata o art. 3º da Resolução BCB nº 69, de 10 de fevereiro de 2021.",
+    "data": "2026-10-21T11:29:50-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=784"
+  },
+  {
+    "id": "normativos_53032",
+    "nome": "BC - Instrução Normativa BCB N° 783 de 20/10/2026",
+    "descricao": "Altera as Instruções de preenchimento do documento de código 2061 - Demonstrativo de Limites Operacionais – DLO, de que trata a Instrução Normativa BCB nº 81, de 23 de fevereiro de 2021.",
+    "data": "2026-10-21T11:29:47-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=783"
+  },
+  {
     "id": "normativos_53028",
     "nome": "BC - Instrução Normativa BCB N° 781 de 13/10/2026",
     "descricao": "Constitui o Centro de Excelência de Desenvolvimento de Software do Banco Central do Brasil.",
@@ -12,20 +26,6 @@
     "descricao": "Atualiza o Documento 6 (Demonstrativo das Exigibilidades e das Aplicações de Crédito Rural) do Manual de Crédito Rural (MCR).",
     "data": "2026-10-20T13:27:40-03:00",
     "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=782"
-  },
-  {
-    "id": "normativos_53033",
-    "nome": "BC - Instrução Normativa BCB N° 784 de 20/10/2026",
-    "descricao": "Altera as Instruções de preenchimento do documento de código 2062 - Demonstrativo de Limites Operacionais Individuais - DLI, de que trata a Instrução Normativa BCB nº 85, de 10 de março de 2021, que estabelece os procedimentos para a remessa das informações relativas às apurações de limites e padrões regulamentares de que trata o art. 3º da Resolução BCB nº 69, de 10 de fevereiro de 2021.",
-    "data": "2026-10-20T12:02:16-03:00",
-    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=784"
-  },
-  {
-    "id": "normativos_53032",
-    "nome": "BC - Instrução Normativa BCB N° 783 de 20/10/2026",
-    "descricao": "Altera as Instruções de preenchimento do documento de código 2061 - Demonstrativo de Limites Operacionais – DLO, de que trata a Instrução Normativa BCB nº 81, de 23 de fevereiro de 2021.",
-    "data": "2026-10-20T11:43:16-03:00",
-    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=783"
   },
   {
     "id": "normativos_53029",
