@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-21T02:57:20.697450+00:00",
+  "updated_at": "2026-10-23T02:59:41.065335+00:00",
   "items": {
     "2025/normativos_52631": {
       "id": "normativos_52631",
@@ -5446,6 +5446,17 @@
       "markdown_path": "2026/normativos_53032/normativa.md",
       "extraido_em": "2026-10-21T02:57:20.697450+00:00",
       "id_bcb": 53032
+    },
+    "2026/normativos_53034": {
+      "id": "normativos_53034",
+      "ano": 2026,
+      "nome": "BC - Resolução Conjunta N° 21 de 22/10/2026",
+      "data_feed": "2026-10-22T18:01:23-03:00",
+      "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20Conjunta&numero=21",
+      "json_path": "2026/normativos_53034/normativa.json",
+      "markdown_path": "2026/normativos_53034/normativa.md",
+      "extraido_em": "2026-10-23T02:59:41.065335+00:00",
+      "id_bcb": 53034
     }
   }
 }
