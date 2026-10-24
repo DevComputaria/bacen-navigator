@@ -2,7 +2,7 @@
 
 **Total extraído:** 500
 
-**Última atualização:** 2026-10-24T02:56:30.464594+00:00
+**Última atualização:** 2026-10-24T02:53:54.860697+00:00
 
 Este arquivo é gerado automaticamente por `scripts/extract_bacen_texts.py`.
 
@@ -15,9 +15,9 @@ Este arquivo é gerado automaticamente por `scripts/extract_bacen_texts.py`.
 - [BC - Resolução Conjunta N° 21 de 22/10/2026](2026/normativos_53034/normativa.md) — `normativos_53034`
 - [BC - Instrução Normativa BCB N° 784 de 20/10/2026](2026/normativos_53033/normativa.md) — `normativos_53033`
 - [BC - Instrução Normativa BCB N° 783 de 20/10/2026](2026/normativos_53032/normativa.md) — `normativos_53032`
+- [BC - Instrução Normativa BCB N° 781 de 13/10/2026](2026/normativos_53028/normativa.md) — `normativos_53028`
 - [BC - Instrução Normativa BCB N° 782 de 19/10/2026](2026/normativos_53031/normativa.md) — `normativos_53031`
 - [BC - Resolução BCB N° 600 de 14/10/2026](2026/normativos_53029/normativa.md) — `normativos_53029`
-- [BC - Instrução Normativa BCB N° 781 de 13/10/2026](2026/normativos_53028/normativa.md) — `normativos_53028`
 - [BC - Instrução Normativa BCB N° 780 de 13/10/2026](2026/normativos_53027/normativa.md) — `normativos_53027`
 - [BC - Resolução BCB N° 599 de 08/10/2026](2026/normativos_53026/normativa.md) — `normativos_53026`
 - [BC - Resolução BCB N° 598 de 07/10/2026](2026/normativos_53025/normativa.md) — `normativos_53025`
