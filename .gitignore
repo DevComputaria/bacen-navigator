@@ -140,3 +140,6 @@ vite.config.ts.timestamp-*
 
 # Copilot instructions (local only)
 .github/copilot-instructions.md
+dist/
+__pycache__/
+*.pyc

@@ -1,14 +1,13 @@
 # BACEN Navigator 🏦
 
-Um navegador visual de normativas do Banco Central do Brasil, inspirado no [MITRE ATT&CK Navigator](https://github.com/mitre/attack-navigator).
+Um navegador visual de normativas do Banco Central do Brasil, inspirado no [MITRE ATT&CK Navigator](https://github.com/mitre/attack-navigator). Os dados resumidos e os textos integrais são atualizados automaticamente a partir das APIs oficiais do BCB.
 
 ![BACEN Navigator](https://img.shields.io/badge/version-1.0-blue)
-![Normativas](https://img.shields.io/badge/normativas-287-green)
-![Ano](https://img.shields.io/badge/ano-2025-orange)
+![Anos](https://img.shields.io/badge/anos-2025--2026-orange)
 
 ## 📋 Sobre
 
-O BACEN Navigator é uma ferramenta de visualização interativa para explorar e navegar pelas normativas do Banco Central do Brasil publicadas em 2025. A interface permite visualizar, filtrar e pesquisar normativas de forma intuitiva.
+O BACEN Navigator é uma ferramenta de visualização interativa para explorar e navegar pelas normativas do Banco Central do Brasil. A interface permite visualizar, filtrar, pesquisar e consultar o texto detalhado das normativas.
 
 ## ✨ Funcionalidades
 
@@ -37,7 +36,8 @@ O BACEN Navigator é uma ferramenta de visualização interativa para explorar e
 
 ```bash
 cd bacen-navigator
-python -m http.server 8080
+python3 scripts/build_site.py
+python3 -m http.server 8080 --directory dist
 ```
 
 Acesse: <http://localhost:8080>
@@ -46,22 +46,22 @@ Acesse: <http://localhost:8080>
 
 ```bash
 cd bacen-navigator
-npx serve
+npx serve dist
 ```
 
 ### Opção 3: Live Server (VS Code)
 
-Instale a extensão "Live Server" e clique com botão direito no `index.html` → "Open with Live Server"
+Gere `dist` com `python3 scripts/build_site.py` e abra `dist/index.html` com a extensão Live Server.
 
 ## 📁 Estrutura do Projeto
 
 ```text
 bacen-navigator/
-├── index.html          # Estrutura HTML principal
-├── styles.css          # Estilos CSS
-├── app.js              # Lógica JavaScript
-├── normativas_2025.json # Dados das normativas
-└── README.md           # Este arquivo
+├── src/                 # Aplicação e índices resumidos
+├── docs/                # Textos completos, índice e snapshots do feed
+├── scripts/             # Conversão, extração, validação e build
+├── tests/               # Testes automatizados do pipeline
+└── .github/workflows/   # Atualização automática e publicação
 ```
 
 ## 🎨 Tipos de Normativas
@@ -71,13 +71,12 @@ bacen-navigator/
 | **Resolução CMN** | 🟢 Verde | Conselho Monetário Nacional |
 | **Resolução BCB** | 🔵 Azul | Banco Central do Brasil |
 | **Instrução Normativa BCB** | 🟣 Roxo | Instruções normativas do BCB |
+| **Resolução Conjunta** | 🟠 Laranja | Normas publicadas conjuntamente |
+| **Outros** | ⚪ Cinza | Demais tipos encontrados no feed |
 
 ## 📊 Estatísticas (2025)
 
-- **Total de normativas**: 187
-- **Resoluções CMN**: ~60
-- **Resoluções BCB**: ~50
-- **Instruções Normativas BCB**: ~77
+- **Total de normativas**: 287
 
 ## 🛠️ Tecnologias
 
@@ -96,18 +95,28 @@ Os dados são extraídos dos feeds RSS do Banco Central do Brasil:
 
 ## 🔧 Desenvolvimento
 
-### Atualizar dados
+### Atualizar e validar dados
 
-Para atualizar os dados com novas normativas, execute o script de extração:
+O workflow `Update Bacen Data` executa quatro vezes ao dia. Para executar localmente após baixar um snapshot do feed:
 
 ```bash
-python extrair_normativas.py
+python3 scripts/convert_bacen_feed.py \
+  --year 2026 \
+  --input-dir docs/feed/2026 \
+  --output src/normativas_2026.json
+
+python3 scripts/extract_bacen_texts.py \
+  src/normativas_2025.json src/normativas_2026.json \
+  --output-dir docs --refresh-days 45
 ```
 
-Depois copie o arquivo gerado para a pasta do navegador:
+Valide o conjunto e monte o artefato publicado:
 
 ```bash
-cp normativas_2025.json bacen-navigator/
+python3 scripts/validate_bacen_data.py \
+  src/normativas_2025.json src/normativas_2026.json \
+  --feed-dir docs/feed/2026 --docs-dir docs
+python3 scripts/build_site.py
 ```
 
 ## 📄 Licença

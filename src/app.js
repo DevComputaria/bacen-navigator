@@ -8,7 +8,13 @@ class BACENNavigator {
         this.normativas = [];
         this.filteredNormativas = [];
         this.currentView = 'matrix';
-        this.currentYear = '2025';
+        const availableYears = [...document.querySelectorAll('#year-select option')]
+            .map(option => option.value)
+            .sort();
+        const calendarYear = String(new Date().getFullYear());
+        this.currentYear = availableYears.includes(calendarYear)
+            ? calendarYear
+            : availableYears.at(-1);
         this.months = [
             'Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho',
             'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'
@@ -16,7 +22,9 @@ class BACENNavigator {
         this.types = [
             { id: 'cmn', name: 'Resolução CMN', pattern: /Resolução CMN/i },
             { id: 'bcb', name: 'Resolução BCB', pattern: /Resolução BCB/i },
-            { id: 'in', name: 'Instrução Normativa BCB', pattern: /Instrução Normativa/i }
+            { id: 'in', name: 'Instrução Normativa BCB', pattern: /Instrução Normativa/i },
+            { id: 'joint', name: 'Resolução Conjunta', pattern: /Resolução Conjunta/i },
+            { id: 'other', name: 'Outros', pattern: /.*/i }
         ];
         
         this.init();
@@ -24,10 +32,25 @@ class BACENNavigator {
 
     async init() {
         await this.loadData(this.currentYear);
+        await this.loadDataStatus();
         this.updateYearUI();
         this.setupEventListeners();
         this.applyFilters();
         this.updateStats();
+    }
+
+    async loadDataStatus() {
+        const statusElement = document.getElementById('data-updated-at');
+        try {
+            const response = await fetch('./data-status.json', { cache: 'no-store' });
+            if (!response.ok) throw new Error(`HTTP ${response.status}`);
+            const status = await response.json();
+            const date = new Date(status.updated_at);
+            statusElement.textContent = `Dados verificados em ${date.toLocaleString('pt-BR')}`;
+        } catch (error) {
+            statusElement.textContent = 'Data de atualização indisponível';
+            console.warn('Não foi possível carregar o status dos dados:', error);
+        }
     }
 
     async loadData(year) {
@@ -533,7 +556,9 @@ class BACENNavigator {
         }
     }
 
-    showDetail(normativa) {
+    async showDetail(normativa) {
+        const requestId = (this.detailRequestId || 0) + 1;
+        this.detailRequestId = requestId;
         const type = this.getType(normativa);
         const typeName = this.types.find(t => t.id === type)?.name || 'Outro';
 
@@ -563,12 +588,69 @@ class BACENNavigator {
         linkRow.appendChild(link);
         body.append(typeRow, nameRow, dateRow, descriptionRow, linkRow);
 
+        const fullContentRow = this.createDetailRow('Texto integral:');
+        const loading = this.createElement('p', 'detail-loading', 'Carregando conteúdo verificado...');
+        fullContentRow.appendChild(loading);
+        body.appendChild(fullContentRow);
+
         document.querySelector('#detail-modal .modal-footer').style.display = 'flex';
         
         // Atualizar link para copiar
         this.currentNormativaLink = safeLink;
         
         document.getElementById('detail-modal').classList.add('active');
+
+        try {
+            const normDocument = await this.loadNormativaDocument(normativa);
+            if (requestId !== this.detailRequestId) return;
+            fullContentRow.replaceChildren(this.createElement('label', '', 'Texto integral:'));
+            const metadata = this.createElement(
+                'p',
+                'normative-metadata',
+                `Versão ${normDocument.conteudo.versao ?? 'não informada'} · ` +
+                `verificada em ${new Date(normDocument.verificado_em || normDocument.extraido_em).toLocaleString('pt-BR')}`
+            );
+            const text = this.createElement('pre', 'normative-full-text', normDocument.conteudo.texto);
+            fullContentRow.append(metadata, text);
+
+            const assets = [...(normDocument.conteudo.links || []),
+                ...(normDocument.conteudo.imagens || []).map(image => image.src)];
+            const safeAssets = [...new Set(assets.map(value => this.getSafeNormativaLink(value)).filter(Boolean))];
+            if (safeAssets.length) {
+                const assetsRow = this.createDetailRow('Elementos e anexos preservados:');
+                const list = this.createElement('ul', 'normative-assets');
+                safeAssets.forEach((asset, index) => {
+                    const item = window.document.createElement('li');
+                    const anchor = this.createElement('a', '', `Abrir elemento ${index + 1}`);
+                    anchor.href = asset;
+                    anchor.target = '_blank';
+                    anchor.rel = 'noopener noreferrer';
+                    item.appendChild(anchor);
+                    list.appendChild(item);
+                });
+                assetsRow.appendChild(list);
+                body.appendChild(assetsRow);
+            }
+        } catch (error) {
+            if (requestId !== this.detailRequestId) return;
+            loading.textContent = 'Conteúdo detalhado indisponível. Use o link oficial do BCB.';
+            console.error('Erro ao carregar texto integral:', error);
+        }
+    }
+
+    async loadNormativaDocument(normativa) {
+        const itemId = String(normativa.id || '');
+        const year = String(normativa.data || '').slice(0, 4);
+        if (!/^normativos_[A-Za-z0-9_-]+$/.test(itemId) || !/^20\d{2}$/.test(year)) {
+            throw new Error('Identificador de normativa inválido');
+        }
+        const response = await fetch(`./normativas/${year}/${itemId}/normativa.json`, {
+            cache: 'no-store'
+        });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const document = await response.json();
+        if (!document?.conteudo?.texto) throw new Error('Documento detalhado inválido');
+        return document;
     }
 
     createDetailRow(labelText) {

@@ -21,4 +21,8 @@ jobs:
       - name: Run markdownlint
         uses: DavidAnson/markdownlint-cli2-action@v18
         with:
-          globs: '**/*.md'
+          # `docs/` contém texto jurídico gerado automaticamente pelo BCB.
+          # O conteúdo-fonte não deve ser reformatado como Markdown editorial.
+          globs: |
+            **/*.md
+            #docs/**

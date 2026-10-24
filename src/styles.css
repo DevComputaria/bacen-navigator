@@ -24,6 +24,11 @@
     --in-light: #9c4dcc;
     --in-dark: #38006b;
     --in-bg: rgba(106, 27, 154, 0.8);
+
+    --joint-color: #ef6c00;
+    --joint-bg: rgba(239, 108, 0, 0.85);
+    --other-color: #546e7a;
+    --other-bg: rgba(84, 110, 122, 0.85);
     
     /* Cores neutras */
     --bg-dark: #1a1a2e;
@@ -107,6 +112,17 @@ body {
     font-size: 1.25rem;
     font-weight: 400;
     color: var(--text-primary);
+}
+
+.header-center {
+    text-align: center;
+}
+
+.data-updated-at {
+    display: block;
+    margin-top: 0.15rem;
+    color: var(--text-secondary);
+    font-size: 0.7rem;
 }
 
 .header-right {
@@ -406,6 +422,8 @@ body {
 .cmn-bg { background: var(--cmn-bg); }
 .bcb-bg { background: var(--bcb-bg); }
 .in-bg { background: var(--in-bg); }
+.joint-bg { background: var(--joint-bg); }
+.other-bg { background: var(--other-bg); }
 
 /* ============================================
    Matrix Container
@@ -572,6 +590,8 @@ body {
 .cell-item.cmn { background: var(--cmn-bg); }
 .cell-item.bcb { background: var(--bcb-bg); }
 .cell-item.in { background: var(--in-bg); }
+.cell-item.joint { background: var(--joint-bg); }
+.cell-item.other { background: var(--other-bg); }
 
 .cell-count {
     position: absolute;
@@ -642,6 +662,8 @@ body {
 .normativas-table .badge.cmn { background: var(--cmn-bg); }
 .normativas-table .badge.bcb { background: var(--bcb-bg); }
 .normativas-table .badge.in { background: var(--in-bg); }
+.normativas-table .badge.joint { background: var(--joint-bg); }
+.normativas-table .badge.other { background: var(--other-bg); }
 
 .normativas-table .description {
     max-width: 400px;
@@ -732,6 +754,8 @@ body {
 .timeline-item.cmn { border-left-color: var(--cmn-color); }
 .timeline-item.bcb { border-left-color: var(--bcb-color); }
 .timeline-item.in { border-left-color: var(--in-color); }
+.timeline-item.joint { border-left-color: var(--joint-color); }
+.timeline-item.other { border-left-color: var(--other-color); }
 
 .timeline-item-header {
     display: flex;
@@ -869,6 +893,32 @@ body {
 .modal-body .badge.cmn { background: var(--cmn-bg); }
 .modal-body .badge.bcb { background: var(--bcb-bg); }
 .modal-body .badge.in { background: var(--in-bg); }
+.modal-body .badge.joint { background: var(--joint-bg); }
+.modal-body .badge.other { background: var(--other-bg); }
+
+.normative-metadata {
+    margin-bottom: 0.75rem;
+    color: var(--text-secondary);
+    font-size: 0.8rem !important;
+}
+
+.normative-full-text {
+    max-height: 45vh;
+    overflow: auto;
+    padding: 1rem;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    background: var(--bg-dark);
+    color: var(--text-primary);
+    font: inherit;
+    font-size: 0.85rem;
+    line-height: 1.5;
+    white-space: pre-wrap;
+}
+
+.normative-assets {
+    padding-left: 1.25rem;
+}
 
 .modal-footer {
     display: flex;

@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updated_at": "2026-10-24T02:56:30.464594+00:00",
+  "version": 2,
+  "updated_at": "2026-10-24T02:53:54.860697+00:00",
   "items": {
     "2025/normativos_52631": {
       "id": "normativos_52631",
@@ -3167,7 +3167,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=599",
       "json_path": "2026/normativos_53026/normativa.json",
       "markdown_path": "2026/normativos_53026/normativa.md",
-      "extraido_em": "2026-10-12T18:39:44.676443+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "4a2928aa85bf528da66e603b9d855f9c4b19cefb6108b4d5d078321e4dc50324",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53026
     },
     "2026/normativos_53025": {
@@ -3178,7 +3183,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=598",
       "json_path": "2026/normativos_53025/normativa.json",
       "markdown_path": "2026/normativos_53025/normativa.md",
-      "extraido_em": "2026-10-12T18:39:45.746504+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "515db8c7a5bcb2e34ba474efc4f063381b46102efc4918345510a01a3a61cb2e",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53025
     },
     "2026/normativos_53018": {
@@ -3189,7 +3199,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=592",
       "json_path": "2026/normativos_53018/normativa.json",
       "markdown_path": "2026/normativos_53018/normativa.md",
-      "extraido_em": "2026-10-12T18:39:46.738641+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "34c8944d5163c9cbfc544068d23b2c0d080b0f65012905ef16da5948d5834022",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53018
     },
     "2026/normativos_53024": {
@@ -3200,7 +3215,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=779",
       "json_path": "2026/normativos_53024/normativa.json",
       "markdown_path": "2026/normativos_53024/normativa.md",
-      "extraido_em": "2026-10-12T18:39:48.210356+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "8970994d93a38c1e690e7054bc3c4798ce456f4abc3bbd71848f1f311e36f86a",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53024
     },
     "2026/normativos_53022": {
@@ -3211,7 +3231,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=596",
       "json_path": "2026/normativos_53022/normativa.json",
       "markdown_path": "2026/normativos_53022/normativa.md",
-      "extraido_em": "2026-10-12T18:39:49.258689+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "52fcd705860298dd83aaf8f7d4da0c5b28272628bbfa9cccd68726bb253798a2",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53022
     },
     "2026/normativos_53019": {
@@ -3222,7 +3247,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=593",
       "json_path": "2026/normativos_53019/normativa.json",
       "markdown_path": "2026/normativos_53019/normativa.md",
-      "extraido_em": "2026-10-12T18:39:49.916115+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "d2bab88aa40cc8d6c0463ef8ede0115a94d7eeb1f4f848e78b3f57428c7459ca",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53019
     },
     "2026/normativos_53023": {
@@ -3233,7 +3263,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=597",
       "json_path": "2026/normativos_53023/normativa.json",
       "markdown_path": "2026/normativos_53023/normativa.md",
-      "extraido_em": "2026-10-12T18:39:50.914040+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "4de783025e47161c8a67f01b162cd6883f70800b0206e345cbb3e333e0200dac",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53023
     },
     "2026/normativos_53020": {
@@ -3244,7 +3279,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=594",
       "json_path": "2026/normativos_53020/normativa.json",
       "markdown_path": "2026/normativos_53020/normativa.md",
-      "extraido_em": "2026-10-12T18:39:51.453859+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "963d7d46338edebcc6f68279d7d704458611a77e45ad248f0c6f0a8a3a588ce1",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53020
     },
     "2026/normativos_53021": {
@@ -3255,7 +3295,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=595",
       "json_path": "2026/normativos_53021/normativa.json",
       "markdown_path": "2026/normativos_53021/normativa.md",
-      "extraido_em": "2026-10-12T18:39:52.587841+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "e6f107aecf95c5e6cd3bc5ca0bf7fb906fe82e6697f294419f59b57a77bc4077",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53021
     },
     "2026/normativos_53017": {
@@ -3266,7 +3311,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=591",
       "json_path": "2026/normativos_53017/normativa.json",
       "markdown_path": "2026/normativos_53017/normativa.md",
-      "extraido_em": "2026-10-12T18:39:53.120080+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "9c04d27090079d478b4ea042fcd16e312253af4d5313c41305f51f9379ad1ca4",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53017
     },
     "2026/normativos_53016": {
@@ -3277,7 +3327,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=590",
       "json_path": "2026/normativos_53016/normativa.json",
       "markdown_path": "2026/normativos_53016/normativa.md",
-      "extraido_em": "2026-10-12T21:46:54.040132+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "87861c8d5939f573009e6602bf00ea12b8995ee2050bd1fb9ff923fc0a6a917b",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53016
     },
     "2026/normativos_53015": {
@@ -3288,7 +3343,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=778",
       "json_path": "2026/normativos_53015/normativa.json",
       "markdown_path": "2026/normativos_53015/normativa.md",
-      "extraido_em": "2026-10-12T21:46:55.338402+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "296d0ac77d2caff4711418fbaf3dc96f3dedd2346fd8317e9ed296675ecddd40",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53015
     },
     "2026/normativos_53014": {
@@ -3299,7 +3359,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5343",
       "json_path": "2026/normativos_53014/normativa.json",
       "markdown_path": "2026/normativos_53014/normativa.md",
-      "extraido_em": "2026-10-12T21:46:56.546749+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "8c9991b96e17425fb1150539f99998662a21d4807fef301e34853cb47ac07468",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53014
     },
     "2026/normativos_53013": {
@@ -3310,7 +3375,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=589",
       "json_path": "2026/normativos_53013/normativa.json",
       "markdown_path": "2026/normativos_53013/normativa.md",
-      "extraido_em": "2026-10-12T21:46:57.696350+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "91e74b44f6aec44878dd9cc0f522d8cd6e3cd4e4c40a6f3d47184a6fbf90469d",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53013
     },
     "2026/normativos_53012": {
@@ -3321,7 +3391,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=588",
       "json_path": "2026/normativos_53012/normativa.json",
       "markdown_path": "2026/normativos_53012/normativa.md",
-      "extraido_em": "2026-10-12T21:46:58.848188+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 2.0,
+      "content_hash": "00370eee40538f9f2569fd2f1f2b7438d32ee1e9e37af67374a70aa2268e74f2",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53012
     },
     "2026/normativos_53011": {
@@ -3332,7 +3407,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=777",
       "json_path": "2026/normativos_53011/normativa.json",
       "markdown_path": "2026/normativos_53011/normativa.md",
-      "extraido_em": "2026-10-12T21:47:00.059197+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "0cd3ef04e8cdb21615227272c7a6f04ddc59b804af92f7784d96931d0a37f5dd",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53011
     },
     "2026/normativos_53009": {
@@ -3343,7 +3423,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=587",
       "json_path": "2026/normativos_53009/normativa.json",
       "markdown_path": "2026/normativos_53009/normativa.md",
-      "extraido_em": "2026-10-12T21:47:01.388662+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "e33b2c4c91e5d38429664721f55c5359fbfdd254bb96fd40f270800de796fbe6",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53009
     },
     "2026/normativos_53008": {
@@ -3354,7 +3439,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=776",
       "json_path": "2026/normativos_53008/normativa.json",
       "markdown_path": "2026/normativos_53008/normativa.md",
-      "extraido_em": "2026-10-12T21:47:02.840533+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "d617121b10affd430f7b32863d412190c1c0b2a637c971ded8b3916c71defca8",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53008
     },
     "2026/normativos_53007": {
@@ -3365,7 +3455,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5342",
       "json_path": "2026/normativos_53007/normativa.json",
       "markdown_path": "2026/normativos_53007/normativa.md",
-      "extraido_em": "2026-10-12T21:47:04.129598+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "c914d1f24d873875f70208413b475c7c6760d750cec9c333b6b3d31dcd981dcc",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53007
     },
     "2026/normativos_53006": {
@@ -3376,7 +3471,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5341",
       "json_path": "2026/normativos_53006/normativa.json",
       "markdown_path": "2026/normativos_53006/normativa.md",
-      "extraido_em": "2026-10-12T21:47:05.761316+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "0b8ded6273927965902117349d879f2fb894f23e63668ee2ddca8cfeffb23402",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53006
     },
     "2026/normativos_53004": {
@@ -3387,7 +3487,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=775",
       "json_path": "2026/normativos_53004/normativa.json",
       "markdown_path": "2026/normativos_53004/normativa.md",
-      "extraido_em": "2026-10-12T21:47:07.170154+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "fa5df035f5cc7f9008375ec20c272b46b255b8c28277d4565038e2c131551886",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53004
     },
     "2026/normativos_53003": {
@@ -3398,7 +3503,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5340",
       "json_path": "2026/normativos_53003/normativa.json",
       "markdown_path": "2026/normativos_53003/normativa.md",
-      "extraido_em": "2026-10-12T21:47:08.460093+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "278047b04ac855a76e6d10100f691c880629380c666484fbcf98411b87790b04",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53003
     },
     "2026/normativos_53002": {
@@ -3409,7 +3519,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=774",
       "json_path": "2026/normativos_53002/normativa.json",
       "markdown_path": "2026/normativos_53002/normativa.md",
-      "extraido_em": "2026-10-12T21:47:09.633900+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "b0e59b37f267dbbef4705fb0bc8b53148b4ca68a6d1095a9609d8a1f8ae7b06a",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53002
     },
     "2026/normativos_53001": {
@@ -3420,7 +3535,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=773",
       "json_path": "2026/normativos_53001/normativa.json",
       "markdown_path": "2026/normativos_53001/normativa.md",
-      "extraido_em": "2026-10-12T21:47:10.984638+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 0.0,
+      "content_hash": "9a8df4011899aa2c053f6921d01a94950f0f5071e2ff487f83ec9d7db4905f5b",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53001
     },
     "2026/normativos_53000": {
@@ -3431,7 +3551,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=772",
       "json_path": "2026/normativos_53000/normativa.json",
       "markdown_path": "2026/normativos_53000/normativa.md",
-      "extraido_em": "2026-10-12T21:47:12.093103+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "f323380c261c4deb6bd186be367eacf9fffa09338f8c1ce3cfabfb81f1d497c2",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53000
     },
     "2026/normativos_52999": {
@@ -3442,7 +3567,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=586",
       "json_path": "2026/normativos_52999/normativa.json",
       "markdown_path": "2026/normativos_52999/normativa.md",
-      "extraido_em": "2026-10-12T21:47:13.234043+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "b5562706033d2f12cc55a7dbbad92a1ccc2ab0959e5d1faf63e49a3ec45810ab",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52999
     },
     "2026/normativos_52998": {
@@ -3453,7 +3583,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5339",
       "json_path": "2026/normativos_52998/normativa.json",
       "markdown_path": "2026/normativos_52998/normativa.md",
-      "extraido_em": "2026-10-12T21:47:14.422414+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "995a042ca4ed67d7ebf29c7dd7a1cc5fa39c926bf2da22d22ea4ee7616cd7a13",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52998
     },
     "2026/normativos_52997": {
@@ -3464,7 +3599,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5338",
       "json_path": "2026/normativos_52997/normativa.json",
       "markdown_path": "2026/normativos_52997/normativa.md",
-      "extraido_em": "2026-10-12T21:47:15.772521+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "7ed9f9394f09c808df1e0a25b4f1eded54485fbd929d4d7c541f662d57512b47",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52997
     },
     "2026/normativos_52996": {
@@ -3475,7 +3615,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5337",
       "json_path": "2026/normativos_52996/normativa.json",
       "markdown_path": "2026/normativos_52996/normativa.md",
-      "extraido_em": "2026-10-12T21:47:16.905717+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "ebe2dd4c8858f4b296c1a3953b131b065e89b93682fca1d3711ba0ef7d165126",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52996
     },
     "2026/normativos_52995": {
@@ -3486,7 +3631,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5336",
       "json_path": "2026/normativos_52995/normativa.json",
       "markdown_path": "2026/normativos_52995/normativa.md",
-      "extraido_em": "2026-10-12T21:47:18.053510+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "060da45906a151ea4e2b0625b67ab80351ef7d61ec0825990856e6734e65e9c1",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52995
     },
     "2026/normativos_52994": {
@@ -3497,7 +3647,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=771",
       "json_path": "2026/normativos_52994/normativa.json",
       "markdown_path": "2026/normativos_52994/normativa.md",
-      "extraido_em": "2026-10-12T21:47:19.443957+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "c430e3f646590e0356eaa293b3ff1cd6d47b50518bc49592370db979e2613be6",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52994
     },
     "2026/normativos_52993": {
@@ -3508,7 +3663,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5335",
       "json_path": "2026/normativos_52993/normativa.json",
       "markdown_path": "2026/normativos_52993/normativa.md",
-      "extraido_em": "2026-10-12T21:47:20.856596+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "3ba6cdd317023d866be214caa5328ccc879685267d20552fb431a6ca2051f9c5",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52993
     },
     "2026/normativos_52992": {
@@ -3519,7 +3679,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5334",
       "json_path": "2026/normativos_52992/normativa.json",
       "markdown_path": "2026/normativos_52992/normativa.md",
-      "extraido_em": "2026-10-12T21:47:22.021697+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "0077b399d90ba0c2fc2fd134ae1beb50051254b6ecca9689c212459eaddd727f",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52992
     },
     "2026/normativos_52991": {
@@ -3530,7 +3695,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=585",
       "json_path": "2026/normativos_52991/normativa.json",
       "markdown_path": "2026/normativos_52991/normativa.md",
-      "extraido_em": "2026-10-12T21:47:22.647946+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "d073c86aae50c9c0626893f55890e1dd7cf4b5c2c7b825a22a5dcd39b77bab3e",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52991
     },
     "2026/normativos_52990": {
@@ -3541,7 +3711,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=770",
       "json_path": "2026/normativos_52990/normativa.json",
       "markdown_path": "2026/normativos_52990/normativa.md",
-      "extraido_em": "2026-10-12T21:47:23.806340+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "35706b6990c9df48ea638709c0aab4c4350e2a8ef78bea71e8f8b14fb095964f",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52990
     },
     "2026/normativos_52989": {
@@ -3552,7 +3727,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=769",
       "json_path": "2026/normativos_52989/normativa.json",
       "markdown_path": "2026/normativos_52989/normativa.md",
-      "extraido_em": "2026-10-12T21:47:24.964482+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "63fc040a575f14e9a63c3513458805ce4e056f49e1b75fa781a1a116781fb607",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52989
     },
     "2026/normativos_52988": {
@@ -3563,7 +3743,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=768",
       "json_path": "2026/normativos_52988/normativa.json",
       "markdown_path": "2026/normativos_52988/normativa.md",
-      "extraido_em": "2026-10-12T21:47:26.306575+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "30983920d595dce19195b267ee065fedcd544271c729f416e48178e43649a9ef",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52988
     },
     "2026/normativos_52987": {
@@ -3574,7 +3759,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=584",
       "json_path": "2026/normativos_52987/normativa.json",
       "markdown_path": "2026/normativos_52987/normativa.md",
-      "extraido_em": "2026-10-12T21:47:27.792594+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "34b1b30166c91233b7304dad21fe9f3616f6a9aaf030cb20a8e52c66c77c79ac",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52987
     },
     "2026/normativos_52986": {
@@ -3585,7 +3775,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5333",
       "json_path": "2026/normativos_52986/normativa.json",
       "markdown_path": "2026/normativos_52986/normativa.md",
-      "extraido_em": "2026-10-12T21:47:29.369751+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "2c6287d3ebd01f3303c38dc5628a02cfd2aa92c79dbdc5838b4368c3ed0da135",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52986
     },
     "2026/normativos_52985": {
@@ -3596,7 +3791,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5332",
       "json_path": "2026/normativos_52985/normativa.json",
       "markdown_path": "2026/normativos_52985/normativa.md",
-      "extraido_em": "2026-10-12T21:47:30.480996+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "d7248c1676b10e449ff1b4892e1a99e9740d5473e57fe944460b6ad5d850c449",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52985
     },
     "2026/normativos_52984": {
@@ -3607,7 +3807,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=767",
       "json_path": "2026/normativos_52984/normativa.json",
       "markdown_path": "2026/normativos_52984/normativa.md",
-      "extraido_em": "2026-10-12T21:47:31.648736+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "c4410a8a3b5d9cce10d2b52caaf9602a24d9db37f6abc41376029786527141db",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52984
     },
     "2026/normativos_52983": {
@@ -3618,7 +3823,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=766",
       "json_path": "2026/normativos_52983/normativa.json",
       "markdown_path": "2026/normativos_52983/normativa.md",
-      "extraido_em": "2026-10-12T21:47:32.801563+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 2.0,
+      "content_hash": "3af3a92e9426187fffd7ebef71237f0c9489ba80c54b7a408d366e3e4f65b25a",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52983
     },
     "2026/normativos_52982": {
@@ -3629,7 +3839,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5331",
       "json_path": "2026/normativos_52982/normativa.json",
       "markdown_path": "2026/normativos_52982/normativa.md",
-      "extraido_em": "2026-10-12T21:47:34.571423+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "52ae55b262efb8b4c966d4a5bc9fead11880873d1389bf195f31d9d476ec0420",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52982
     },
     "2026/normativos_52981": {
@@ -3640,7 +3855,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5330",
       "json_path": "2026/normativos_52981/normativa.json",
       "markdown_path": "2026/normativos_52981/normativa.md",
-      "extraido_em": "2026-10-12T21:47:36.655469+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 2.0,
+      "content_hash": "7b905daf61611e2c1e61fbd8ffff0a84f02a2ef0f0ff35372e1471560dada640",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52981
     },
     "2026/normativos_52980": {
@@ -3651,7 +3871,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=583",
       "json_path": "2026/normativos_52980/normativa.json",
       "markdown_path": "2026/normativos_52980/normativa.md",
-      "extraido_em": "2026-10-12T21:47:38.192489+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "33dadda2effd7f3017e18974c0886728349cc37aa1021bfbde580bbdb64a6e77",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52980
     },
     "2026/normativos_52979": {
@@ -3662,7 +3887,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=765",
       "json_path": "2026/normativos_52979/normativa.json",
       "markdown_path": "2026/normativos_52979/normativa.md",
-      "extraido_em": "2026-10-12T21:47:39.560824+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "aa25685f9029725897dae5c8fbc45c2a248b6825ff36783b5448327dd377cf00",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52979
     },
     "2026/normativos_52978": {
@@ -3673,7 +3903,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=764",
       "json_path": "2026/normativos_52978/normativa.json",
       "markdown_path": "2026/normativos_52978/normativa.md",
-      "extraido_em": "2026-10-12T21:47:41.517257+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "3dacc511696c9922f15fcc2000e6eb230e2707b11725ac329e372056ba9d15d4",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52978
     },
     "2026/normativos_52977": {
@@ -3684,7 +3919,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=763",
       "json_path": "2026/normativos_52977/normativa.json",
       "markdown_path": "2026/normativos_52977/normativa.md",
-      "extraido_em": "2026-10-12T21:47:42.861895+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "388a56c5ee90addee0091c5623f3f1dbab8c15efa1fc65c9a08ef08531e5df8c",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52977
     },
     "2026/normativos_52976": {
@@ -3695,7 +3935,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5329",
       "json_path": "2026/normativos_52976/normativa.json",
       "markdown_path": "2026/normativos_52976/normativa.md",
-      "extraido_em": "2026-10-12T21:47:44.221483+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "7ae8be410d9f099bfb5a1d62e1876a870b5eec96d74f351e8ece902608aa09ba",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52976
     },
     "2026/normativos_52975": {
@@ -3706,7 +3951,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5328",
       "json_path": "2026/normativos_52975/normativa.json",
       "markdown_path": "2026/normativos_52975/normativa.md",
-      "extraido_em": "2026-10-12T21:47:45.782547+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "16be1e4c12091f0d8dd440b7e961ed2ba28f830c07da7e89b18481f34021be5c",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52975
     },
     "2026/normativos_52974": {
@@ -3717,7 +3967,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5327",
       "json_path": "2026/normativos_52974/normativa.json",
       "markdown_path": "2026/normativos_52974/normativa.md",
-      "extraido_em": "2026-10-12T21:47:46.905921+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "25646ad42c9bfdff43fabfef22018d3db9a29a45b73686c50342590cbd64aeae",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52974
     },
     "2026/normativos_52973": {
@@ -3728,7 +3983,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=762",
       "json_path": "2026/normativos_52973/normativa.json",
       "markdown_path": "2026/normativos_52973/normativa.md",
-      "extraido_em": "2026-10-12T21:47:48.035757+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "51d908ced01bd5b26b6091c02d4226dab6273218b2617da008faefb9750b0b80",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52973
     },
     "2026/normativos_52972": {
@@ -3739,7 +3999,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=761",
       "json_path": "2026/normativos_52972/normativa.json",
       "markdown_path": "2026/normativos_52972/normativa.md",
-      "extraido_em": "2026-10-12T21:47:48.810739+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "45d3026dae7ece389f90e8bc98274b1ae1a3663652b4eb0decb779f123c88e95",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52972
     },
     "2026/normativos_52971": {
@@ -3750,7 +4015,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=760",
       "json_path": "2026/normativos_52971/normativa.json",
       "markdown_path": "2026/normativos_52971/normativa.md",
-      "extraido_em": "2026-10-12T21:47:49.554450+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "4c74fb24dbc2156a68af0acb0ba62d56e9e10018ef732c0e64e9b0114e437fe2",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52971
     },
     "2026/normativos_52970": {
@@ -3761,7 +4031,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=759",
       "json_path": "2026/normativos_52970/normativa.json",
       "markdown_path": "2026/normativos_52970/normativa.md",
-      "extraido_em": "2026-10-12T21:47:51.348718+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "436edae78f012717ba2f20d50f20547ab1d06551111174746e1807c4e0f45cd9",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52970
     },
     "2026/normativos_52969": {
@@ -3772,7 +4047,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=758",
       "json_path": "2026/normativos_52969/normativa.json",
       "markdown_path": "2026/normativos_52969/normativa.md",
-      "extraido_em": "2026-10-12T21:47:53.698345+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "7c05d215c722e809cddf7f7faffef4799fc75343d0c96bef972613d9ef201d1a",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52969
     },
     "2026/normativos_52968": {
@@ -3783,7 +4063,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=757",
       "json_path": "2026/normativos_52968/normativa.json",
       "markdown_path": "2026/normativos_52968/normativa.md",
-      "extraido_em": "2026-10-12T21:47:54.976156+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "0153c95cab2abd4da0da227fda4c2f69dbb2fc81f59e285fd3ab82114b8f518b",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52968
     },
     "2026/normativos_52967": {
@@ -3794,7 +4079,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5326",
       "json_path": "2026/normativos_52967/normativa.json",
       "markdown_path": "2026/normativos_52967/normativa.md",
-      "extraido_em": "2026-10-12T21:47:56.269716+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 2.0,
+      "content_hash": "2bd8bf70a7231059bbbea105cacf810f6e040714e0e413a1e91278b462f57df0",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52967
     },
     "2026/normativos_52966": {
@@ -3805,7 +4095,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5325",
       "json_path": "2026/normativos_52966/normativa.json",
       "markdown_path": "2026/normativos_52966/normativa.md",
-      "extraido_em": "2026-10-12T21:47:57.478306+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 2.0,
+      "content_hash": "ad9341676949cd5e31c15dedcc76b1deb325542c6baadb963ad0c4fa2674df4f",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52966
     },
     "2026/normativos_52965": {
@@ -3816,7 +4111,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=756",
       "json_path": "2026/normativos_52965/normativa.json",
       "markdown_path": "2026/normativos_52965/normativa.md",
-      "extraido_em": "2026-10-12T21:47:58.750322+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "a09ee9f842d0e9a37ad47c23bae00d8efd2798f759eac09b3a22fefcde5b7624",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52965
     },
     "2026/normativos_52964": {
@@ -3827,7 +4127,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=755",
       "json_path": "2026/normativos_52964/normativa.json",
       "markdown_path": "2026/normativos_52964/normativa.md",
-      "extraido_em": "2026-10-12T21:47:59.902614+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "12057ab1be4a37586b242d073a5dd1a71de03c7ebbab60cceb03e661dd4cc9a6",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52964
     },
     "2026/normativos_52963": {
@@ -3838,7 +4143,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=582",
       "json_path": "2026/normativos_52963/normativa.json",
       "markdown_path": "2026/normativos_52963/normativa.md",
-      "extraido_em": "2026-10-12T21:48:01.220908+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "65b17b983a312fb80734b8ede5fef81d7155ca4d4c85b11789e696ee2e0c12ba",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52963
     },
     "2026/normativos_52962": {
@@ -3849,7 +4159,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=581",
       "json_path": "2026/normativos_52962/normativa.json",
       "markdown_path": "2026/normativos_52962/normativa.md",
-      "extraido_em": "2026-10-12T21:48:02.618508+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "17f1d7152f15e207b48dd87bd602ee6893f104a6c7e0f4fceaf9c9005a185d0c",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52962
     },
     "2026/normativos_52961": {
@@ -3860,7 +4175,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=580",
       "json_path": "2026/normativos_52961/normativa.json",
       "markdown_path": "2026/normativos_52961/normativa.md",
-      "extraido_em": "2026-10-12T21:48:03.825095+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "33c2c98f5389c9a4703cb5528c627ef8380ec3a908173998d04801219dd830a0",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52961
     },
     "2026/normativos_52960": {
@@ -3871,7 +4191,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=754",
       "json_path": "2026/normativos_52960/normativa.json",
       "markdown_path": "2026/normativos_52960/normativa.md",
-      "extraido_em": "2026-10-12T21:48:05.329298+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 2.0,
+      "content_hash": "e485a1e78b0aa2b2f4997bcbe0292aeeb7cf688865809ab065e1280b900eefb0",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52960
     },
     "2026/normativos_52959": {
@@ -3882,7 +4207,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=753",
       "json_path": "2026/normativos_52959/normativa.json",
       "markdown_path": "2026/normativos_52959/normativa.md",
-      "extraido_em": "2026-10-12T21:48:06.627903+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "71e9b36807d07d7bb37f99feabcc95c5ba842c44ded6b7f7b611a3779b66822f",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52959
     },
     "2026/normativos_52958": {
@@ -3893,7 +4223,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=752",
       "json_path": "2026/normativos_52958/normativa.json",
       "markdown_path": "2026/normativos_52958/normativa.md",
-      "extraido_em": "2026-10-12T21:48:08.112695+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "a8a91310b587c225d52303692db162506d5a1de7514f56783b97fef3644cd935",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52958
     },
     "2026/normativos_52957": {
@@ -3904,7 +4239,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5324",
       "json_path": "2026/normativos_52957/normativa.json",
       "markdown_path": "2026/normativos_52957/normativa.md",
-      "extraido_em": "2026-10-12T21:48:09.908469+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "7b7f9591938306b700c78f594aab4ebd032600d89282fea5e12b42187625a70b",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52957
     },
     "2026/normativos_52956": {
@@ -3915,7 +4255,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5323",
       "json_path": "2026/normativos_52956/normativa.json",
       "markdown_path": "2026/normativos_52956/normativa.md",
-      "extraido_em": "2026-10-12T21:48:12.007507+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "ef4fe100aff638642b94448633e6a98f2c1d52320a001d71dc99abe6701176ec",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52956
     },
     "2026/normativos_52955": {
@@ -3926,7 +4271,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5322",
       "json_path": "2026/normativos_52955/normativa.json",
       "markdown_path": "2026/normativos_52955/normativa.md",
-      "extraido_em": "2026-10-12T21:48:13.468450+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "7c96008e007f473aa5f6e2e06eb93b5c451a4bf3458f46d4c970f72fb82ef676",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52955
     },
     "2026/normativos_52954": {
@@ -3937,7 +4287,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5321",
       "json_path": "2026/normativos_52954/normativa.json",
       "markdown_path": "2026/normativos_52954/normativa.md",
-      "extraido_em": "2026-10-12T21:48:14.794057+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "bee6bb23ad277fa34e2b1720ad26f3b5fadfee0f3b73dfcd3c0fe8b3bd9fcda6",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52954
     },
     "2026/normativos_52953": {
@@ -3948,7 +4303,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5320",
       "json_path": "2026/normativos_52953/normativa.json",
       "markdown_path": "2026/normativos_52953/normativa.md",
-      "extraido_em": "2026-10-12T21:48:15.974483+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "189a52df57a5ff8f866cb11de5fd6ce67a70cc36077e4949e6c43535033532fa",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52953
     },
     "2026/normativos_52952": {
@@ -3959,7 +4319,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5319",
       "json_path": "2026/normativos_52952/normativa.json",
       "markdown_path": "2026/normativos_52952/normativa.md",
-      "extraido_em": "2026-10-12T21:48:16.589758+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "d567b7d565f72f49fbd9a3d1e21a5f535b64be40038cc0034d6dcce2228c2b4e",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52952
     },
     "2026/normativos_52951": {
@@ -3970,7 +4335,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5318",
       "json_path": "2026/normativos_52951/normativa.json",
       "markdown_path": "2026/normativos_52951/normativa.md",
-      "extraido_em": "2026-10-12T21:48:17.759701+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "8f2ea8700227b33a6057dd112330ad330e6532b01886872c1adf37855a264950",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52951
     },
     "2026/normativos_52950": {
@@ -3981,7 +4351,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5317",
       "json_path": "2026/normativos_52950/normativa.json",
       "markdown_path": "2026/normativos_52950/normativa.md",
-      "extraido_em": "2026-10-12T21:48:18.915683+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "277cff10af6d0fe7bd38246487d2afad992ee2f2b3b4c97ef488a5feb6a95b72",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52950
     },
     "2026/normativos_52949": {
@@ -3992,7 +4367,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5316",
       "json_path": "2026/normativos_52949/normativa.json",
       "markdown_path": "2026/normativos_52949/normativa.md",
-      "extraido_em": "2026-10-12T21:48:20.083715+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "569bba1a0d9b136be979b0c9b598846a9f182f39fe9f49e23c190f18115e3e6a",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52949
     },
     "2026/normativos_52948": {
@@ -4003,7 +4383,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5315",
       "json_path": "2026/normativos_52948/normativa.json",
       "markdown_path": "2026/normativos_52948/normativa.md",
-      "extraido_em": "2026-10-12T21:48:21.196909+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "56469abd9533ddcd4618841cdb4aafc474c0e086d09fd1c209ae33ccc60538a5",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52948
     },
     "2026/normativos_52947": {
@@ -4014,7 +4399,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5314",
       "json_path": "2026/normativos_52947/normativa.json",
       "markdown_path": "2026/normativos_52947/normativa.md",
-      "extraido_em": "2026-10-12T21:48:21.785602+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "948a9b086a257ffddd3eb9a0f4768083e6ae3ad544423aa02731bd6f263b8f5c",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52947
     },
     "2026/normativos_52946": {
@@ -4025,7 +4415,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5313",
       "json_path": "2026/normativos_52946/normativa.json",
       "markdown_path": "2026/normativos_52946/normativa.md",
-      "extraido_em": "2026-10-12T21:48:22.966300+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "2f75af8740fdbd60d213e5f2ab8a605200036d1761ae6fa2bfc0cdb27fa5b56c",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52946
     },
     "2026/normativos_52945": {
@@ -4036,7 +4431,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5312",
       "json_path": "2026/normativos_52945/normativa.json",
       "markdown_path": "2026/normativos_52945/normativa.md",
-      "extraido_em": "2026-10-12T21:48:24.091883+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "5936bbc25dabb89c5ce5705633d7ef78f1b4b20b495a2719e90a14549cb06551",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52945
     },
     "2026/normativos_52944": {
@@ -4047,7 +4447,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5311",
       "json_path": "2026/normativos_52944/normativa.json",
       "markdown_path": "2026/normativos_52944/normativa.md",
-      "extraido_em": "2026-10-12T21:48:25.489397+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "2a69b8468cc2f35c71218463295701e6d4bd1823163474eef77e99ce8adb8e39",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52944
     },
     "2026/normativos_52943": {
@@ -4058,7 +4463,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5310",
       "json_path": "2026/normativos_52943/normativa.json",
       "markdown_path": "2026/normativos_52943/normativa.md",
-      "extraido_em": "2026-10-12T21:48:26.607212+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "75b2ca5ecbe2fdf56398bf057b10e9c91680dd31e312554397455cfba2f8aea9",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52943
     },
     "2026/normativos_52942": {
@@ -4069,7 +4479,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=579",
       "json_path": "2026/normativos_52942/normativa.json",
       "markdown_path": "2026/normativos_52942/normativa.md",
-      "extraido_em": "2026-10-12T21:48:27.393581+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "18f10f07906d93f71854e4ef874361daedd7442494793302e3decbc61823b2a7",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52942
     },
     "2026/normativos_52941": {
@@ -4080,7 +4495,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=751",
       "json_path": "2026/normativos_52941/normativa.json",
       "markdown_path": "2026/normativos_52941/normativa.md",
-      "extraido_em": "2026-10-12T21:48:28.559394+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "245cda7dc73f1c283c9ea16b9ea907fea461efe3ee0306576b2e9c17bce68eea",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52941
     },
     "2026/normativos_52940": {
@@ -4091,7 +4511,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=578",
       "json_path": "2026/normativos_52940/normativa.json",
       "markdown_path": "2026/normativos_52940/normativa.md",
-      "extraido_em": "2026-10-12T21:48:29.869689+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "975f617c5df5a218737c5df72727172af9fa16bf5131fa41ad203a141bda7301",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52940
     },
     "2026/normativos_52939": {
@@ -4102,7 +4527,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=577",
       "json_path": "2026/normativos_52939/normativa.json",
       "markdown_path": "2026/normativos_52939/normativa.md",
-      "extraido_em": "2026-10-12T21:48:31.189323+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "a62e8deed6402d1a54496a34b3b6e893215d16dc4f05e0899acaab24aced1589",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52939
     },
     "2026/normativos_52938": {
@@ -4113,7 +4543,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=576",
       "json_path": "2026/normativos_52938/normativa.json",
       "markdown_path": "2026/normativos_52938/normativa.md",
-      "extraido_em": "2026-10-12T21:48:32.342537+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "55e37bcdaffa95c49a31de0a44ec032df2667f2291b2e63d9ef44419b7bd9a52",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52938
     },
     "2026/normativos_52937": {
@@ -4124,7 +4559,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5309",
       "json_path": "2026/normativos_52937/normativa.json",
       "markdown_path": "2026/normativos_52937/normativa.md",
-      "extraido_em": "2026-10-12T21:48:33.491195+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 2.0,
+      "content_hash": "851faf806e6e288b5e9af2abd7c6a0265c26fa313a1600c42c60be75cd2b2210",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52937
     },
     "2026/normativos_52936": {
@@ -4135,7 +4575,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=750",
       "json_path": "2026/normativos_52936/normativa.json",
       "markdown_path": "2026/normativos_52936/normativa.md",
-      "extraido_em": "2026-10-12T21:48:34.711495+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "ffd550be5b23e53a899e58f81a1603b0cdf87370f9afab9e61c5d029d6be4e43",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52936
     },
     "2026/normativos_52935": {
@@ -4146,7 +4591,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=749",
       "json_path": "2026/normativos_52935/normativa.json",
       "markdown_path": "2026/normativos_52935/normativa.md",
-      "extraido_em": "2026-10-12T21:48:36.160484+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "b831539c05d326babd3ad166a34289ed9cf73f042afaf5c815e68549f37a1e07",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52935
     },
     "2026/normativos_52934": {
@@ -4157,7 +4607,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=575",
       "json_path": "2026/normativos_52934/normativa.json",
       "markdown_path": "2026/normativos_52934/normativa.md",
-      "extraido_em": "2026-10-12T21:48:37.521736+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "c0b00d22f3093f009dc0c2b4b1786880fd34b4870d90d5726ae0ff95efbb59bb",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52934
     },
     "2026/normativos_52933": {
@@ -4168,7 +4623,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=574",
       "json_path": "2026/normativos_52933/normativa.json",
       "markdown_path": "2026/normativos_52933/normativa.md",
-      "extraido_em": "2026-10-12T21:48:38.825550+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "0d3684f22e2221b1849e078e876c40426598fb5ed855748da9389c04945e590e",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52933
     },
     "2026/normativos_52932": {
@@ -4179,7 +4639,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=748",
       "json_path": "2026/normativos_52932/normativa.json",
       "markdown_path": "2026/normativos_52932/normativa.md",
-      "extraido_em": "2026-10-12T21:48:39.977995+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "0affa8a2c54db1cd1f117dc66a58ea5284216010c6d7180998cad7705749f1ea",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52932
     },
     "2026/normativos_52931": {
@@ -4190,7 +4655,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=747",
       "json_path": "2026/normativos_52931/normativa.json",
       "markdown_path": "2026/normativos_52931/normativa.md",
-      "extraido_em": "2026-10-12T21:48:41.219226+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "dd5de502ef64162ae72f318ae046f4afe0932ea5ff034811f77d4a383fd162a4",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52931
     },
     "2026/normativos_52927": {
@@ -4201,7 +4671,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=746",
       "json_path": "2026/normativos_52927/normativa.json",
       "markdown_path": "2026/normativos_52927/normativa.md",
-      "extraido_em": "2026-10-12T21:48:42.687245+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "08bc8697552f88b6cfff21da37f26fe2a6d19f5a5c5c9811975f548b2015a5be",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52927
     },
     "2026/normativos_52926": {
@@ -4212,7 +4687,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=745",
       "json_path": "2026/normativos_52926/normativa.json",
       "markdown_path": "2026/normativos_52926/normativa.md",
-      "extraido_em": "2026-10-12T21:48:43.831357+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "6d1aa28303efce0be794d4acadadfeda4e230f197d0fc90f55c4fedad73bd12d",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52926
     },
     "2026/normativos_52925": {
@@ -4223,7 +4703,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=744",
       "json_path": "2026/normativos_52925/normativa.json",
       "markdown_path": "2026/normativos_52925/normativa.md",
-      "extraido_em": "2026-10-12T21:48:45.056218+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "a1879d99af386f4521be5854ed3256b3ccd6ed37f30b18077122612769b285c9",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52925
     },
     "2026/normativos_52924": {
@@ -4234,7 +4719,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5308",
       "json_path": "2026/normativos_52924/normativa.json",
       "markdown_path": "2026/normativos_52924/normativa.md",
-      "extraido_em": "2026-10-12T21:48:46.436868+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "fb66cce0a9b66e45b2ed7db9a4e043c9a1de957e10669e144b7b2ef3b2826738",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52924
     },
     "2026/normativos_52923": {
@@ -4245,7 +4735,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=743",
       "json_path": "2026/normativos_52923/normativa.json",
       "markdown_path": "2026/normativos_52923/normativa.md",
-      "extraido_em": "2026-10-12T21:48:47.584453+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "18c4c18909f31d0daac50fb11c4f7db530d83fab03ffc53ba02548d23d4ea1d2",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52923
     },
     "2026/normativos_52922": {
@@ -4256,7 +4751,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=573",
       "json_path": "2026/normativos_52922/normativa.json",
       "markdown_path": "2026/normativos_52922/normativa.md",
-      "extraido_em": "2026-10-12T21:48:48.724929+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "b43cdb482eb5707c90efc5d7b69670501c735c59b75df6711852d287ee75da43",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52922
     },
     "2026/normativos_52921": {
@@ -4267,7 +4767,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=742",
       "json_path": "2026/normativos_52921/normativa.json",
       "markdown_path": "2026/normativos_52921/normativa.md",
-      "extraido_em": "2026-10-12T21:48:49.874562+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 2.0,
+      "content_hash": "a4a26ee3e3fa0f5643e246d8261f0dfc88d556baa342e9d0a34ea0469d2b3d99",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52921
     },
     "2026/normativos_52920": {
@@ -4278,7 +4783,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=741",
       "json_path": "2026/normativos_52920/normativa.json",
       "markdown_path": "2026/normativos_52920/normativa.md",
-      "extraido_em": "2026-10-12T21:48:50.945337+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "ab2d5836b1e204fef0b0e8e723a4f0b4ccd58b4d673db46ec8b251c4cbed3e05",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52920
     },
     "2026/normativos_52919": {
@@ -4289,7 +4799,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=740",
       "json_path": "2026/normativos_52919/normativa.json",
       "markdown_path": "2026/normativos_52919/normativa.md",
-      "extraido_em": "2026-10-12T21:48:52.841770+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "962545ee9b4814ea572e8f2d9374d05b72ea878c005e14cd506811fda635ed57",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52919
     },
     "2026/normativos_52918": {
@@ -4300,7 +4815,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=739",
       "json_path": "2026/normativos_52918/normativa.json",
       "markdown_path": "2026/normativos_52918/normativa.md",
-      "extraido_em": "2026-10-12T21:48:54.249720+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "4c1cd1038232655e4d3183cdb84ce74c85215f59cf26252e1d38fcd739d5ff50",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52918
     },
     "2026/normativos_52917": {
@@ -4311,7 +4831,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=572",
       "json_path": "2026/normativos_52917/normativa.json",
       "markdown_path": "2026/normativos_52917/normativa.md",
-      "extraido_em": "2026-10-12T21:48:54.998727+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "4622ef9231285f3764e9ee5e73fec9af2f60efdb6cb845460b6be825b3d4c23c",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52917
     },
     "2026/normativos_52916": {
@@ -4322,7 +4847,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=571",
       "json_path": "2026/normativos_52916/normativa.json",
       "markdown_path": "2026/normativos_52916/normativa.md",
-      "extraido_em": "2026-10-12T21:48:56.330614+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "60e6fa0fe20db19eb8537bce6a6e2dd3576a440a7d82edbc04ea619feb63b3d2",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52916
     },
     "2026/normativos_52915": {
@@ -4333,7 +4863,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=738",
       "json_path": "2026/normativos_52915/normativa.json",
       "markdown_path": "2026/normativos_52915/normativa.md",
-      "extraido_em": "2026-10-12T21:48:57.450275+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "615fda4dc13b52bae7b593882e4c5ec5c0fa43a47b0445228644fd8a0c897642",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52915
     },
     "2026/normativos_52914": {
@@ -4344,7 +4879,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5307",
       "json_path": "2026/normativos_52914/normativa.json",
       "markdown_path": "2026/normativos_52914/normativa.md",
-      "extraido_em": "2026-10-12T21:48:58.592183+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "eb68ceb38d90294aeec283d56c3a75c27197954cd2646b63ad8401c6964df26e",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52914
     },
     "2026/normativos_52913": {
@@ -4355,7 +4895,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5306",
       "json_path": "2026/normativos_52913/normativa.json",
       "markdown_path": "2026/normativos_52913/normativa.md",
-      "extraido_em": "2026-10-12T21:48:59.864346+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "360956899574a7857c862964efd3f3074a17ff45fdc9d77bfbfc8d2cad7a8529",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52913
     },
     "2026/normativos_52912": {
@@ -4366,7 +4911,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5305",
       "json_path": "2026/normativos_52912/normativa.json",
       "markdown_path": "2026/normativos_52912/normativa.md",
-      "extraido_em": "2026-10-12T21:49:00.595969+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "53d33a6da4422d23dcb87e807f0b0d488fb0527e124435a4993e9e447fdf6b6b",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52912
     },
     "2026/normativos_52911": {
@@ -4377,7 +4927,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5304",
       "json_path": "2026/normativos_52911/normativa.json",
       "markdown_path": "2026/normativos_52911/normativa.md",
-      "extraido_em": "2026-10-12T21:49:01.783007+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 4.0,
+      "content_hash": "cb56225d6593835102cae561163cf1c7e5bb4a7baa97822b10606942b65728e9",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52911
     },
     "2026/normativos_52910": {
@@ -4388,7 +4943,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=737",
       "json_path": "2026/normativos_52910/normativa.json",
       "markdown_path": "2026/normativos_52910/normativa.md",
-      "extraido_em": "2026-10-12T21:49:03.119184+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "ff863d743b761f070e3b44c4a23cafe6804aafad479a9231cc351e6d348f05a3",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52910
     },
     "2026/normativos_52909": {
@@ -4399,7 +4959,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=570",
       "json_path": "2026/normativos_52909/normativa.json",
       "markdown_path": "2026/normativos_52909/normativa.md",
-      "extraido_em": "2026-10-12T21:49:04.834976+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "036f38a1640b603504cc25dd1166747ce931be4ece3bd5c97dcd7c02ee46f509",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52909
     },
     "2026/normativos_52908": {
@@ -4410,7 +4975,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=569",
       "json_path": "2026/normativos_52908/normativa.json",
       "markdown_path": "2026/normativos_52908/normativa.md",
-      "extraido_em": "2026-10-12T21:49:05.947747+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "3a21c91c5fa5ba33b2f1d85f904b1707441de5abe6730bbcd5609b4b0e88eec1",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52908
     },
     "2026/normativos_52907": {
@@ -4421,7 +4991,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=736",
       "json_path": "2026/normativos_52907/normativa.json",
       "markdown_path": "2026/normativos_52907/normativa.md",
-      "extraido_em": "2026-10-12T21:49:07.154151+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "b5257c2029c031c4dd706847f1938e75eeefccc415724ff11a7a4071dade1816",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52907
     },
     "2026/normativos_52906": {
@@ -4432,7 +5007,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5303",
       "json_path": "2026/normativos_52906/normativa.json",
       "markdown_path": "2026/normativos_52906/normativa.md",
-      "extraido_em": "2026-10-12T21:49:08.800191+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "9a928c8879aca5c138cbe042ce390df84034b52b2a5785f7e70444b6af8e47ec",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52906
     },
     "2026/normativos_52905": {
@@ -4443,7 +5023,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=568",
       "json_path": "2026/normativos_52905/normativa.json",
       "markdown_path": "2026/normativos_52905/normativa.md",
-      "extraido_em": "2026-10-12T21:49:10.167855+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "4f9971dc3f1f86980be34343c24f3bb1ddf42e456166b741fffa5052be41b005",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52905
     },
     "2026/normativos_52904": {
@@ -4454,7 +5039,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=735",
       "json_path": "2026/normativos_52904/normativa.json",
       "markdown_path": "2026/normativos_52904/normativa.md",
-      "extraido_em": "2026-10-12T21:49:11.398485+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "f2af08c523b48023739344a5ebf81b1f890030afa20f245172280bd7861c6830",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52904
     },
     "2026/normativos_52903": {
@@ -4465,7 +5055,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=734",
       "json_path": "2026/normativos_52903/normativa.json",
       "markdown_path": "2026/normativos_52903/normativa.md",
-      "extraido_em": "2026-10-12T21:49:12.694344+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "5e2c6a5247026aea5b22056924699f8a3b580b4aa3aeac1658fcb8528df5f542",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52903
     },
     "2026/normativos_52902": {
@@ -4476,7 +5071,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5302",
       "json_path": "2026/normativos_52902/normativa.json",
       "markdown_path": "2026/normativos_52902/normativa.md",
-      "extraido_em": "2026-10-12T21:49:14.292889+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "3b21c5cc5c0ddaff1d03ddcca598d5e1e19213d01af9246c0c773207af77e553",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52902
     },
     "2026/normativos_52901": {
@@ -4487,7 +5087,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5301",
       "json_path": "2026/normativos_52901/normativa.json",
       "markdown_path": "2026/normativos_52901/normativa.md",
-      "extraido_em": "2026-10-12T21:49:15.665179+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "62803f21b07d8e6731ab579d4b46ea9ab91779095a3aaa1c62a455e4400f894a",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52901
     },
     "2026/normativos_52900": {
@@ -4498,7 +5103,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5300",
       "json_path": "2026/normativos_52900/normativa.json",
       "markdown_path": "2026/normativos_52900/normativa.md",
-      "extraido_em": "2026-10-12T21:49:16.802622+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 2.0,
+      "content_hash": "fbd2327b089c8ed2387f344c538e5091b023810febf9b147f1739a32f48ae317",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52900
     },
     "2026/normativos_52899": {
@@ -4509,7 +5119,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=733",
       "json_path": "2026/normativos_52899/normativa.json",
       "markdown_path": "2026/normativos_52899/normativa.md",
-      "extraido_em": "2026-10-12T21:49:18.149758+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "3b99b004c771e2fe3508f68ece5e75e5444800a611c7d08df6ecbccb12923b5d",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52899
     },
     "2026/normativos_52898": {
@@ -4520,7 +5135,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=732",
       "json_path": "2026/normativos_52898/normativa.json",
       "markdown_path": "2026/normativos_52898/normativa.md",
-      "extraido_em": "2026-10-12T21:49:19.470901+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "1e2d1bbadf6568ddbc13144dd2885a004443429e6c81d7465d79ded6656dc260",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52898
     },
     "2026/normativos_52896": {
@@ -4531,7 +5151,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=567",
       "json_path": "2026/normativos_52896/normativa.json",
       "markdown_path": "2026/normativos_52896/normativa.md",
-      "extraido_em": "2026-10-12T21:49:20.659714+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "4da8af32a7e50b31ff6106126b2ad7e4bcfea49ab3d5783c893fbf816b46a17d",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52896
     },
     "2026/normativos_52895": {
@@ -4542,7 +5167,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=566",
       "json_path": "2026/normativos_52895/normativa.json",
       "markdown_path": "2026/normativos_52895/normativa.md",
-      "extraido_em": "2026-10-12T21:49:21.804549+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "1b657283f20d29a95b58335a8461981e75e5c5d6214f52846e3b3b772be6d6d0",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52895
     },
     "2026/normativos_52894": {
@@ -4553,7 +5183,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=565",
       "json_path": "2026/normativos_52894/normativa.json",
       "markdown_path": "2026/normativos_52894/normativa.md",
-      "extraido_em": "2026-10-12T21:49:23.195435+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "13b35c28f04dc97747bad694d5f9c99c7a212415d21510b3575c5b6c2a1d7be8",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52894
     },
     "2026/normativos_52893": {
@@ -4564,7 +5199,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=564",
       "json_path": "2026/normativos_52893/normativa.json",
       "markdown_path": "2026/normativos_52893/normativa.md",
-      "extraido_em": "2026-10-12T21:49:24.524420+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "ee03aa1eafe0806d905320d86747f3cbf9c38d5c6651a156559664665540b81c",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52893
     },
     "2026/normativos_52892": {
@@ -4575,7 +5215,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5299",
       "json_path": "2026/normativos_52892/normativa.json",
       "markdown_path": "2026/normativos_52892/normativa.md",
-      "extraido_em": "2026-10-12T21:49:25.829928+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "310f31124f566a42d9c14661e15ba1be00780c10492ded5a8a002ff25b7e4c3b",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52892
     },
     "2026/normativos_52891": {
@@ -4586,7 +5231,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=563",
       "json_path": "2026/normativos_52891/normativa.json",
       "markdown_path": "2026/normativos_52891/normativa.md",
-      "extraido_em": "2026-10-12T21:49:26.991295+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "582de10603fec879e33c0b51921340a8889d29de4fa950b6e245b66c8253b969",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52891
     },
     "2026/normativos_52890": {
@@ -4597,7 +5247,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=562",
       "json_path": "2026/normativos_52890/normativa.json",
       "markdown_path": "2026/normativos_52890/normativa.md",
-      "extraido_em": "2026-10-12T21:49:28.268798+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "fe558581b1b4cfec6d4ec71a16e79812ec7bffbdc79870f385068dd37b2aad20",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52890
     },
     "2026/normativos_52889": {
@@ -4608,7 +5263,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=561",
       "json_path": "2026/normativos_52889/normativa.json",
       "markdown_path": "2026/normativos_52889/normativa.md",
-      "extraido_em": "2026-10-12T21:49:29.435893+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "3d2a052c0ffd3d00c07d1868d15a40a1749c6659a6ed74cfe7abf4eded21f82d",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52889
     },
     "2026/normativos_52888": {
@@ -4619,7 +5279,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=731",
       "json_path": "2026/normativos_52888/normativa.json",
       "markdown_path": "2026/normativos_52888/normativa.md",
-      "extraido_em": "2026-10-12T21:49:30.806229+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "71aeffc14a6d67c708719285148345e0aa79f237870be712c1c9c468c63b1b1b",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52888
     },
     "2026/normativos_52887": {
@@ -4630,7 +5295,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=730",
       "json_path": "2026/normativos_52887/normativa.json",
       "markdown_path": "2026/normativos_52887/normativa.md",
-      "extraido_em": "2026-10-12T21:49:32.012592+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "564eb4815f73e90a3a5a716c6dcd9007f408cfc2444b8a190e06c4c5a9122de5",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52887
     },
     "2026/normativos_52886": {
@@ -4641,7 +5311,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=729",
       "json_path": "2026/normativos_52886/normativa.json",
       "markdown_path": "2026/normativos_52886/normativa.md",
-      "extraido_em": "2026-10-12T21:49:33.239233+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "2e134488519e7e05397a58f062e4a64bac03694bd362e05bd6736396d0acbc71",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52886
     },
     "2026/normativos_52885": {
@@ -4652,7 +5327,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=728",
       "json_path": "2026/normativos_52885/normativa.json",
       "markdown_path": "2026/normativos_52885/normativa.md",
-      "extraido_em": "2026-10-12T21:49:33.877476+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "f703b5ec364dd030489c3887fd4b37dc1ebe4319d4c6acefd7b5ce556f71e6b0",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52885
     },
     "2026/normativos_52884": {
@@ -4663,7 +5343,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=727",
       "json_path": "2026/normativos_52884/normativa.json",
       "markdown_path": "2026/normativos_52884/normativa.md",
-      "extraido_em": "2026-10-12T21:49:35.049285+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "87374433f90ecb97f7a07f165b4e1f44bd82dc92b24d52ec012a6cd192df5fd1",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52884
     },
     "2026/normativos_52883": {
@@ -4674,7 +5359,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5298",
       "json_path": "2026/normativos_52883/normativa.json",
       "markdown_path": "2026/normativos_52883/normativa.md",
-      "extraido_em": "2026-10-12T21:49:36.726507+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "e85bbb9b670e066ae656fd6c808f5beb8b7a5051d2edf3a633607542f2a06ebf",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52883
     },
     "2026/normativos_52882": {
@@ -4685,7 +5375,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=560",
       "json_path": "2026/normativos_52882/normativa.json",
       "markdown_path": "2026/normativos_52882/normativa.md",
-      "extraido_em": "2026-10-12T21:49:37.842534+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "5651944f12232c7cd9e29782bd5bef348c7c470a9a2b3e62d255ef3c0ef2f4e2",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52882
     },
     "2026/normativos_52880": {
@@ -4696,7 +5391,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5297",
       "json_path": "2026/normativos_52880/normativa.json",
       "markdown_path": "2026/normativos_52880/normativa.md",
-      "extraido_em": "2026-10-12T21:49:39.123604+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "6b7886b67744676acfbf0a236a9069f6aa28307cb0d03f22d3dc45a6ce29f95d",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52880
     },
     "2026/normativos_52879": {
@@ -4707,7 +5407,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5296",
       "json_path": "2026/normativos_52879/normativa.json",
       "markdown_path": "2026/normativos_52879/normativa.md",
-      "extraido_em": "2026-10-12T21:49:40.299497+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "8e5a23ccbe16f1a2337901f40c0e01db87b7f4392fea6d23d8a7948bea836ceb",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52879
     },
     "2026/normativos_52878": {
@@ -4718,7 +5423,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5295",
       "json_path": "2026/normativos_52878/normativa.json",
       "markdown_path": "2026/normativos_52878/normativa.md",
-      "extraido_em": "2026-10-12T21:49:41.614431+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "c9990d8f58642d6a2e2b3490cacbbbd0f265505869be8ff646d553473ebfed5c",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52878
     },
     "2026/normativos_52877": {
@@ -4729,7 +5439,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5294",
       "json_path": "2026/normativos_52877/normativa.json",
       "markdown_path": "2026/normativos_52877/normativa.md",
-      "extraido_em": "2026-10-12T21:49:42.906927+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "159bfac59ab7a98972d4474464016113ec5848a9ca39693e47b30d78766ed54f",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52877
     },
     "2026/normativos_52876": {
@@ -4740,7 +5455,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5293",
       "json_path": "2026/normativos_52876/normativa.json",
       "markdown_path": "2026/normativos_52876/normativa.md",
-      "extraido_em": "2026-10-12T21:49:44.039754+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "c1849f4cb3821b6892cf94fd7bafde6720b7103c1ebe6bd02b72855cdf658bb2",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52876
     },
     "2026/normativos_52875": {
@@ -4751,7 +5471,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=559",
       "json_path": "2026/normativos_52875/normativa.json",
       "markdown_path": "2026/normativos_52875/normativa.md",
-      "extraido_em": "2026-10-12T21:49:45.293131+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "1c3ba03c45c488dee7571bd73c5151ff38de787e88dfd28386b7b4dcead58214",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52875
     },
     "2026/normativos_52874": {
@@ -4762,7 +5487,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=558",
       "json_path": "2026/normativos_52874/normativa.json",
       "markdown_path": "2026/normativos_52874/normativa.md",
-      "extraido_em": "2026-10-12T21:49:46.616179+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "55a519465aee4be4d5e16807f29396c3eef463547743e6a4ca5d202176c7e71d",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52874
     },
     "2026/normativos_52873": {
@@ -4773,7 +5503,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=557",
       "json_path": "2026/normativos_52873/normativa.json",
       "markdown_path": "2026/normativos_52873/normativa.md",
-      "extraido_em": "2026-10-12T21:49:47.950612+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "2c270522efc6a5826af67eedd4dc69bd173202bcb37328493e0dd0a17a137e0b",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52873
     },
     "2026/normativos_52872": {
@@ -4784,7 +5519,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=726",
       "json_path": "2026/normativos_52872/normativa.json",
       "markdown_path": "2026/normativos_52872/normativa.md",
-      "extraido_em": "2026-10-12T21:49:49.074033+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "12b7b056833801d4514f4c8b52a75df420c18426ad916f40fe667892e823cb67",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52872
     },
     "2026/normativos_52871": {
@@ -4795,7 +5535,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5292",
       "json_path": "2026/normativos_52871/normativa.json",
       "markdown_path": "2026/normativos_52871/normativa.md",
-      "extraido_em": "2026-10-12T21:49:50.248775+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 2.0,
+      "content_hash": "20284e7866085bed5d8150e27b01bc455f19915285b8f6d60c85bb6cee1e84eb",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52871
     },
     "2026/normativos_52870": {
@@ -4806,7 +5551,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5291",
       "json_path": "2026/normativos_52870/normativa.json",
       "markdown_path": "2026/normativos_52870/normativa.md",
-      "extraido_em": "2026-10-12T21:49:51.540696+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "2994923d443008c736ead1f42756a363884ccbbaa70ea4d353948bd13fae9158",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52870
     },
     "2026/normativos_52869": {
@@ -4817,7 +5567,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=725",
       "json_path": "2026/normativos_52869/normativa.json",
       "markdown_path": "2026/normativos_52869/normativa.md",
-      "extraido_em": "2026-10-12T21:49:52.660585+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 2.0,
+      "content_hash": "2834f7b38b803c0e8c6bcaff34611fe1e395364da3050e67e99067d7a521f28b",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52869
     },
     "2026/normativos_52868": {
@@ -4828,7 +5583,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=724",
       "json_path": "2026/normativos_52868/normativa.json",
       "markdown_path": "2026/normativos_52868/normativa.md",
-      "extraido_em": "2026-10-12T21:49:53.705848+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "5daa1e9d5d25b9e6b03eb31515f0c4166b436197cd19c9cf95bacd228b0e235b",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52868
     },
     "2026/normativos_52867": {
@@ -4839,7 +5599,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=723",
       "json_path": "2026/normativos_52867/normativa.json",
       "markdown_path": "2026/normativos_52867/normativa.md",
-      "extraido_em": "2026-10-12T21:49:56.162203+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "1dad469fccced53a189263240b9f09fbea0b7a42841f1207eb18641c2bf1f523",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52867
     },
     "2026/normativos_52866": {
@@ -4850,7 +5615,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=722",
       "json_path": "2026/normativos_52866/normativa.json",
       "markdown_path": "2026/normativos_52866/normativa.md",
-      "extraido_em": "2026-10-12T21:49:57.333239+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 2.0,
+      "content_hash": "b5ccec29ea30ccc7518f081113d88b44e0e690c3df96834a14cdcb4fa5751aea",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52866
     },
     "2026/normativos_52865": {
@@ -4861,7 +5631,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=721",
       "json_path": "2026/normativos_52865/normativa.json",
       "markdown_path": "2026/normativos_52865/normativa.md",
-      "extraido_em": "2026-10-12T21:49:59.006099+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "cf3c35eb4e2ee3ab6fa3b556366307a13f97bae6bef012473e7ee2215357d510",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52865
     },
     "2026/normativos_52864": {
@@ -4872,7 +5647,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=720",
       "json_path": "2026/normativos_52864/normativa.json",
       "markdown_path": "2026/normativos_52864/normativa.md",
-      "extraido_em": "2026-10-12T21:50:00.402510+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "4830f3dbebd986db5b484232eb907c813796fa8560144abde44d26f14fdbacc8",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52864
     },
     "2026/normativos_52863": {
@@ -4883,7 +5663,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=556",
       "json_path": "2026/normativos_52863/normativa.json",
       "markdown_path": "2026/normativos_52863/normativa.md",
-      "extraido_em": "2026-10-12T21:50:02.090304+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "5146b015b5c55f54ea05251c9708ca9c0f530050f89177ec3273ccf376270c36",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52863
     },
     "2026/normativos_52862": {
@@ -4894,7 +5679,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=719",
       "json_path": "2026/normativos_52862/normativa.json",
       "markdown_path": "2026/normativos_52862/normativa.md",
-      "extraido_em": "2026-10-12T21:50:03.409385+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "cd8dadc90fa640ba796ba647f549bb5da8c0e7bc50644297ae4b29f6cfec117b",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52862
     },
     "2026/normativos_52861": {
@@ -4905,7 +5695,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=718",
       "json_path": "2026/normativos_52861/normativa.json",
       "markdown_path": "2026/normativos_52861/normativa.md",
-      "extraido_em": "2026-10-12T21:50:04.688474+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "04099396e86889973f5852fcdceb2658a4b2c10b118894b8ab1acd0338bf3927",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52861
     },
     "2026/normativos_52860": {
@@ -4916,7 +5711,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5290",
       "json_path": "2026/normativos_52860/normativa.json",
       "markdown_path": "2026/normativos_52860/normativa.md",
-      "extraido_em": "2026-10-12T21:50:06.664473+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "6f9235934587b9cef39a55eda2939e27439b80a62f0cf6267ddf60df717fde5c",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52860
     },
     "2026/normativos_52859": {
@@ -4927,7 +5727,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5289",
       "json_path": "2026/normativos_52859/normativa.json",
       "markdown_path": "2026/normativos_52859/normativa.md",
-      "extraido_em": "2026-10-12T21:50:07.348791+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "3a1718f5f34356aa502a4622d28e02997a01e264797a0f698178dc4bb05092a3",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52859
     },
     "2026/normativos_52858": {
@@ -4938,7 +5743,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5288",
       "json_path": "2026/normativos_52858/normativa.json",
       "markdown_path": "2026/normativos_52858/normativa.md",
-      "extraido_em": "2026-10-12T21:50:08.484541+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "251501d827006ecde28ad7485a342a051d9a3e1bb004f7666750f23c24480c81",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52858
     },
     "2026/normativos_52857": {
@@ -4949,7 +5759,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5287",
       "json_path": "2026/normativos_52857/normativa.json",
       "markdown_path": "2026/normativos_52857/normativa.md",
-      "extraido_em": "2026-10-12T21:50:09.891851+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "615db6a32392303fdd18da532504d7186f16fe44e0976608b11cb31fbcab205f",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52857
     },
     "2026/normativos_52856": {
@@ -4960,7 +5775,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5286",
       "json_path": "2026/normativos_52856/normativa.json",
       "markdown_path": "2026/normativos_52856/normativa.md",
-      "extraido_em": "2026-10-12T21:50:11.078477+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "33291cdcd482c898f5c75b5dc168bd414a3abd8ff1df959a63fb0ebb015da2b6",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52856
     },
     "2026/normativos_52854": {
@@ -4971,7 +5791,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=555",
       "json_path": "2026/normativos_52854/normativa.json",
       "markdown_path": "2026/normativos_52854/normativa.md",
-      "extraido_em": "2026-10-12T21:50:12.196840+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "89abff086e22a1996b27f0e236fc430c592c54a9e09f18202b4dce79b7908fee",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52854
     },
     "2026/normativos_52853": {
@@ -4982,7 +5807,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=554",
       "json_path": "2026/normativos_52853/normativa.json",
       "markdown_path": "2026/normativos_52853/normativa.md",
-      "extraido_em": "2026-10-12T21:50:13.524148+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "99b0138397d46b460097363681facfb29c1027bde8e19fa41b38f77fc3bac9c3",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52853
     },
     "2026/normativos_52852": {
@@ -4993,7 +5823,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=717",
       "json_path": "2026/normativos_52852/normativa.json",
       "markdown_path": "2026/normativos_52852/normativa.md",
-      "extraido_em": "2026-10-12T21:50:14.722074+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "5c5f6f5046fe50cedfcf47fbc65e11d17511ebfdfa1669a903fbec2a0de090a9",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52852
     },
     "2026/normativos_52851": {
@@ -5004,7 +5839,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5285",
       "json_path": "2026/normativos_52851/normativa.json",
       "markdown_path": "2026/normativos_52851/normativa.md",
-      "extraido_em": "2026-10-12T21:50:16.045149+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "be77d0bfd70ddec2aed529da641906885b088c72a2d9f712cb8a40941fd21713",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52851
     },
     "2026/normativos_52850": {
@@ -5015,7 +5855,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=716",
       "json_path": "2026/normativos_52850/normativa.json",
       "markdown_path": "2026/normativos_52850/normativa.md",
-      "extraido_em": "2026-10-12T21:50:17.192750+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "2fd481e10c94ec82d2ea2ef69213be722e3d4c0f484b00074c7716e2d0c8bbac",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52850
     },
     "2026/normativos_52849": {
@@ -5026,7 +5871,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=715",
       "json_path": "2026/normativos_52849/normativa.json",
       "markdown_path": "2026/normativos_52849/normativa.md",
-      "extraido_em": "2026-10-12T21:50:18.661780+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 2.0,
+      "content_hash": "d0e09c9348e97479bfe6d786b83190d5d56017c6035daa6f9dee26bb79cff5b3",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52849
     },
     "2026/normativos_52848": {
@@ -5037,7 +5887,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=714",
       "json_path": "2026/normativos_52848/normativa.json",
       "markdown_path": "2026/normativos_52848/normativa.md",
-      "extraido_em": "2026-10-12T21:50:20.035539+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "ceae88a9363a49b39d6fd4aaf66dea21b5c3b749c8cb7f228abe231cf203d79e",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52848
     },
     "2026/normativos_52847": {
@@ -5048,7 +5903,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=553",
       "json_path": "2026/normativos_52847/normativa.json",
       "markdown_path": "2026/normativos_52847/normativa.md",
-      "extraido_em": "2026-10-12T21:50:21.984808+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "46833ae39793831d130809a3628603e1b2e2dc5041f33014f4b53e0c0273fb79",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52847
     },
     "2026/normativos_52846": {
@@ -5059,7 +5919,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=552",
       "json_path": "2026/normativos_52846/normativa.json",
       "markdown_path": "2026/normativos_52846/normativa.md",
-      "extraido_em": "2026-10-12T21:50:23.507864+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "7f6d55f655c29e22e74dffd8fccd7fc00bad65993d9ec4b295af6f6a1b9e175c",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52846
     },
     "2026/normativos_52845": {
@@ -5070,7 +5935,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=551",
       "json_path": "2026/normativos_52845/normativa.json",
       "markdown_path": "2026/normativos_52845/normativa.md",
-      "extraido_em": "2026-10-12T21:50:24.833673+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "f4980bc12c367adefaf9e370ca1f4511a7741ecc9dcc2a531207c1cbe9902154",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52845
     },
     "2026/normativos_52844": {
@@ -5081,7 +5951,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=713",
       "json_path": "2026/normativos_52844/normativa.json",
       "markdown_path": "2026/normativos_52844/normativa.md",
-      "extraido_em": "2026-10-12T21:50:26.106178+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "6b14577f1c6c2c77893529931c1aac4e8d56b5a3bd60ad656e8d1dea41891f2d",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52844
     },
     "2026/normativos_52843": {
@@ -5092,7 +5967,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=712",
       "json_path": "2026/normativos_52843/normativa.json",
       "markdown_path": "2026/normativos_52843/normativa.md",
-      "extraido_em": "2026-10-12T21:50:27.704219+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "95e39b6f2dc2edd398ede592d5ec5f94fa7e5d64a6630db6d082fb70524e7a2d",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52843
     },
     "2026/normativos_52842": {
@@ -5103,7 +5983,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5284",
       "json_path": "2026/normativos_52842/normativa.json",
       "markdown_path": "2026/normativos_52842/normativa.md",
-      "extraido_em": "2026-10-12T21:50:28.895096+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "f55b75cf9b39f9ffb87f0e2cf4afdabdae4f237ea78e6ce2dea34c39c1e3ca40",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52842
     },
     "2026/normativos_52841": {
@@ -5114,7 +5999,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5283",
       "json_path": "2026/normativos_52841/normativa.json",
       "markdown_path": "2026/normativos_52841/normativa.md",
-      "extraido_em": "2026-10-12T21:50:30.214950+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "c1f8db41181a6a40a6e27e190bd130d8d5e3656eb03b44f152de66f832a59b4f",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52841
     },
     "2026/normativos_52840": {
@@ -5125,7 +6015,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5282",
       "json_path": "2026/normativos_52840/normativa.json",
       "markdown_path": "2026/normativos_52840/normativa.md",
-      "extraido_em": "2026-10-12T21:50:31.404990+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "06d7fc208ce50417ae742827b528e86fb450af918ea8b19626765dbaa0581b6a",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52840
     },
     "2026/normativos_52839": {
@@ -5136,7 +6031,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5281",
       "json_path": "2026/normativos_52839/normativa.json",
       "markdown_path": "2026/normativos_52839/normativa.md",
-      "extraido_em": "2026-10-12T21:50:32.798046+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "48adda10227ef3d3bf87e45c6729902537704c35bed3cc6498c4da15ca6ebf04",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52839
     },
     "2026/normativos_52838": {
@@ -5147,7 +6047,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5280",
       "json_path": "2026/normativos_52838/normativa.json",
       "markdown_path": "2026/normativos_52838/normativa.md",
-      "extraido_em": "2026-10-12T21:50:34.653265+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "3a927da2d0e1c9d8ef1311c14b0a445084f3c949db8fc4f3e2f2b8633e3d07ea",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52838
     },
     "2026/normativos_52837": {
@@ -5158,7 +6063,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=550",
       "json_path": "2026/normativos_52837/normativa.json",
       "markdown_path": "2026/normativos_52837/normativa.md",
-      "extraido_em": "2026-10-12T21:50:35.239104+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "06a70acac965d378a3a0488a5305bd084f098eb8fb46d85dbfabe078d05edfdb",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52837
     },
     "2026/normativos_52836": {
@@ -5169,7 +6079,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=711",
       "json_path": "2026/normativos_52836/normativa.json",
       "markdown_path": "2026/normativos_52836/normativa.md",
-      "extraido_em": "2026-10-12T21:50:36.609965+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "5447f6b855185f82095cc96c68625d653728c272d4dd1e2a9a1264c41237d786",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52836
     },
     "2026/normativos_52835": {
@@ -5180,7 +6095,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=710",
       "json_path": "2026/normativos_52835/normativa.json",
       "markdown_path": "2026/normativos_52835/normativa.md",
-      "extraido_em": "2026-10-12T21:50:37.871089+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "75047db2cfd6d86a5bb2e8a24e059aa83cf4e7c1229c8665dba56c66c64b260c",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52835
     },
     "2026/normativos_52834": {
@@ -5191,7 +6111,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=549",
       "json_path": "2026/normativos_52834/normativa.json",
       "markdown_path": "2026/normativos_52834/normativa.md",
-      "extraido_em": "2026-10-12T21:50:39.080989+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "940c05502ce2024e34357ad1cbf4211cc935c8c00a667fda49f003ae295c9ff6",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52834
     },
     "2026/normativos_52833": {
@@ -5202,7 +6127,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=548",
       "json_path": "2026/normativos_52833/normativa.json",
       "markdown_path": "2026/normativos_52833/normativa.md",
-      "extraido_em": "2026-10-12T21:50:40.071423+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "514b7b763961215256f3999a0572d0103becc98780cb8f8f17e667f6aa4c138c",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52833
     },
     "2026/normativos_52832": {
@@ -5213,7 +6143,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=709",
       "json_path": "2026/normativos_52832/normativa.json",
       "markdown_path": "2026/normativos_52832/normativa.md",
-      "extraido_em": "2026-10-12T21:50:41.909559+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "4a757bac8fa5ec305233a88b33b0ae907b2b36b6250e84eb89b40da393ba9f94",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52832
     },
     "2026/normativos_52831": {
@@ -5224,7 +6159,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=708",
       "json_path": "2026/normativos_52831/normativa.json",
       "markdown_path": "2026/normativos_52831/normativa.md",
-      "extraido_em": "2026-10-12T21:50:42.554235+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "630db22a51c2b9235fd5e8c66dad320cc37415275505ad084d96f5f388dd89c3",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52831
     },
     "2026/normativos_52830": {
@@ -5235,7 +6175,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=547",
       "json_path": "2026/normativos_52830/normativa.json",
       "markdown_path": "2026/normativos_52830/normativa.md",
-      "extraido_em": "2026-10-12T21:50:43.795856+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "6233298040706e1b704b90df0b8def46cacfbe15ba017ccd64d10e0e968e2a8b",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52830
     },
     "2026/normativos_52829": {
@@ -5246,7 +6191,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=707",
       "json_path": "2026/normativos_52829/normativa.json",
       "markdown_path": "2026/normativos_52829/normativa.md",
-      "extraido_em": "2026-10-12T21:50:45.452405+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "e41011d317ce8fdfa35e28b681b5369f2f822b1ee05bb5be8342d2a74e1a6aae",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52829
     },
     "2026/normativos_52828": {
@@ -5257,7 +6207,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=706",
       "json_path": "2026/normativos_52828/normativa.json",
       "markdown_path": "2026/normativos_52828/normativa.md",
-      "extraido_em": "2026-10-12T21:50:46.915411+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "b02b369ae2570dbd3162cbd904a9add1a4a3afd2be25de0acbffa9ee5908d3a8",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52828
     },
     "2026/normativos_52827": {
@@ -5268,7 +6223,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=705",
       "json_path": "2026/normativos_52827/normativa.json",
       "markdown_path": "2026/normativos_52827/normativa.md",
-      "extraido_em": "2026-10-12T21:50:48.098654+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "7f368734d0b43a3afffca74b3ae455103f894c916dd3019c7a9bad43e5f3ca7f",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52827
     },
     "2026/normativos_52826": {
@@ -5279,7 +6239,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=704",
       "json_path": "2026/normativos_52826/normativa.json",
       "markdown_path": "2026/normativos_52826/normativa.md",
-      "extraido_em": "2026-10-12T21:50:50.231149+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 2.0,
+      "content_hash": "29d1adc89deb53a6d1bd1d7eb27478f13a7d842c3976d9a9b9d81a78b1a93c73",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52826
     },
     "2026/normativos_52825": {
@@ -5290,7 +6255,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=703",
       "json_path": "2026/normativos_52825/normativa.json",
       "markdown_path": "2026/normativos_52825/normativa.md",
-      "extraido_em": "2026-10-12T21:50:52.149032+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "7849d6952e9be151ad8a4bbe73596fcdf8d8b2cdcf4d159fe131d449bced6609",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52825
     },
     "2026/normativos_52824": {
@@ -5301,7 +6271,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=702",
       "json_path": "2026/normativos_52824/normativa.json",
       "markdown_path": "2026/normativos_52824/normativa.md",
-      "extraido_em": "2026-10-12T21:50:53.286381+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 2.0,
+      "content_hash": "f77c4c8058aeb3e8a565b5ebc3c34b0cfce6737f8b8d2ef3730de6eb450ffd55",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52824
     },
     "2026/normativos_52823": {
@@ -5312,7 +6287,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5279",
       "json_path": "2026/normativos_52823/normativa.json",
       "markdown_path": "2026/normativos_52823/normativa.md",
-      "extraido_em": "2026-10-12T21:50:55.105223+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "812d934fd558e4972bed56e7b36a1e36e12f27f039699181870361afdc4b2b79",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52823
     },
     "2026/normativos_52822": {
@@ -5323,7 +6303,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=546",
       "json_path": "2026/normativos_52822/normativa.json",
       "markdown_path": "2026/normativos_52822/normativa.md",
-      "extraido_em": "2026-10-12T21:50:56.009388+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "d12694b253ef23266971b6a3678bd2591a34773519ed5a37ffe432fdda6c72c2",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52822
     },
     "2026/normativos_52821": {
@@ -5334,7 +6319,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=701",
       "json_path": "2026/normativos_52821/normativa.json",
       "markdown_path": "2026/normativos_52821/normativa.md",
-      "extraido_em": "2026-10-12T21:50:57.123084+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "092463035d4ef0988dea9266519debacd070e5a65f141474c3d23c004a4e0bd4",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52821
     },
     "2026/normativos_52820": {
@@ -5345,7 +6335,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=545",
       "json_path": "2026/normativos_52820/normativa.json",
       "markdown_path": "2026/normativos_52820/normativa.md",
-      "extraido_em": "2026-10-12T21:50:58.512356+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "bbc65aca591dc0611a84d3d43f800a8f9448c7eb88fee33ceec8ce7f6317b602",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52820
     },
     "2026/normativos_52819": {
@@ -5356,7 +6351,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=700",
       "json_path": "2026/normativos_52819/normativa.json",
       "markdown_path": "2026/normativos_52819/normativa.md",
-      "extraido_em": "2026-10-12T21:50:59.163397+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "6635c1c62a117b8b4461b862ed7f14c203d41cb0c9672a47c2aa5138e8a7984c",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52819
     },
     "2026/normativos_52818": {
@@ -5367,7 +6367,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=699",
       "json_path": "2026/normativos_52818/normativa.json",
       "markdown_path": "2026/normativos_52818/normativa.md",
-      "extraido_em": "2026-10-12T21:51:00.535973+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "db616b776d284cdd3c130fcf988cd83889d3dbb86b8157041f59ee29b1bea01b",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52818
     },
     "2026/normativos_52817": {
@@ -5378,73 +6383,108 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=698",
       "json_path": "2026/normativos_52817/normativa.json",
       "markdown_path": "2026/normativos_52817/normativa.md",
-      "extraido_em": "2026-10-12T21:51:02.377425+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "b7f1fdf6e3734ba5e65f86183ac2796e7c3dc3e02815b81b427f3fdc3d92f7ab",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 52817
     },
     "2026/normativos_53028": {
       "id": "normativos_53028",
       "ano": 2026,
       "nome": "BC - Instrução Normativa BCB N° 781 de 13/10/2026",
-      "data_feed": "2026-10-13T10:35:03-03:00",
+      "data_feed": "2026-10-20T16:45:02-03:00",
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=781",
       "json_path": "2026/normativos_53028/normativa.json",
       "markdown_path": "2026/normativos_53028/normativa.md",
-      "extraido_em": "2026-10-14T03:10:00.867354+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "7fb1ebee1d6b4e8843173cc871b0515b3c44eb1d7b432545bb3c58fc3559e1ec",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53028
     },
     "2026/normativos_53027": {
       "id": "normativos_53027",
       "ano": 2026,
       "nome": "BC - Instrução Normativa BCB N° 780 de 13/10/2026",
-      "data_feed": "2026-10-13T10:30:28-03:00",
+      "data_feed": "2026-10-14T11:15:14-03:00",
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=780",
       "json_path": "2026/normativos_53027/normativa.json",
       "markdown_path": "2026/normativos_53027/normativa.md",
-      "extraido_em": "2026-10-14T03:10:02.382485+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 0.0,
+      "content_hash": "b5a79efc8de67b4fd0b9c29404677d6439e855c0f390548c00df7a982f2c0cd2",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53027
     },
     "2026/normativos_53029": {
       "id": "normativos_53029",
       "ano": 2026,
       "nome": "BC - Resolução BCB N° 600 de 14/10/2026",
-      "data_feed": "2026-10-14T18:04:01-03:00",
+      "data_feed": "2026-10-16T18:39:11-03:00",
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=600",
       "json_path": "2026/normativos_53029/normativa.json",
       "markdown_path": "2026/normativos_53029/normativa.md",
-      "extraido_em": "2026-10-15T02:49:33.228814+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "5419ac98f55ba7ba8af6cf423e963e63cdfa2fdb94a05e27573a39399772acf4",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53029
     },
     "2026/normativos_53031": {
       "id": "normativos_53031",
       "ano": 2026,
       "nome": "BC - Instrução Normativa BCB N° 782 de 19/10/2026",
-      "data_feed": "2026-10-19T15:05:52-03:00",
+      "data_feed": "2026-10-20T13:27:40-03:00",
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=782",
       "json_path": "2026/normativos_53031/normativa.json",
       "markdown_path": "2026/normativos_53031/normativa.md",
-      "extraido_em": "2026-10-20T03:02:58.645946+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "a0b0c561487bbc589cebf9aa6df955b1b1d61ddec0e825dfa25aaa68a9a03e79",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53031
     },
     "2026/normativos_53033": {
       "id": "normativos_53033",
       "ano": 2026,
       "nome": "BC - Instrução Normativa BCB N° 784 de 20/10/2026",
-      "data_feed": "2026-10-20T12:02:16-03:00",
+      "data_feed": "2026-10-21T11:29:50-03:00",
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=784",
       "json_path": "2026/normativos_53033/normativa.json",
       "markdown_path": "2026/normativos_53033/normativa.md",
-      "extraido_em": "2026-10-21T02:57:19.712312+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "35a51fa7160780370a5e9ade2df564618a51b6922bf833ede57367dc0627aa72",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53033
     },
     "2026/normativos_53032": {
       "id": "normativos_53032",
       "ano": 2026,
       "nome": "BC - Instrução Normativa BCB N° 783 de 20/10/2026",
-      "data_feed": "2026-10-20T11:43:16-03:00",
+      "data_feed": "2026-10-21T11:29:47-03:00",
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=783",
       "json_path": "2026/normativos_53032/normativa.json",
       "markdown_path": "2026/normativos_53032/normativa.md",
-      "extraido_em": "2026-10-21T02:57:20.697450+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 1.0,
+      "content_hash": "732f00b4c9d45fb8dbbfffb66cde54ca66874a9192219d5a3bc402c773b5ddd4",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53032
     },
     "2026/normativos_53034": {
@@ -5455,7 +6495,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20Conjunta&numero=21",
       "json_path": "2026/normativos_53034/normativa.json",
       "markdown_path": "2026/normativos_53034/normativa.md",
-      "extraido_em": "2026-10-23T02:59:41.065335+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 0.0,
+      "content_hash": "df5cd563d5e0b0c286f601ae32a7889ebf1a575c83b5df601b9fb92a4d9202b2",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53034
     },
     "2026/normativos_53038": {
@@ -5466,7 +6511,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=603",
       "json_path": "2026/normativos_53038/normativa.json",
       "markdown_path": "2026/normativos_53038/normativa.md",
-      "extraido_em": "2026-10-24T02:56:26.674241+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 0.0,
+      "content_hash": "5809cff47a2e1046227024f55267d42cbeeb621ba2e6721e0f5573b5b0a3291b",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53038
     },
     "2026/normativos_53037": {
@@ -5477,7 +6527,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=602",
       "json_path": "2026/normativos_53037/normativa.json",
       "markdown_path": "2026/normativos_53037/normativa.md",
-      "extraido_em": "2026-10-24T02:56:28.036274+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 0.0,
+      "content_hash": "b9b5f455b8ea5001a78096fa1c896bfb1e3626cf09e6668f9afd5aa61be4d351",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53037
     },
     "2026/normativos_53036": {
@@ -5488,7 +6543,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=601",
       "json_path": "2026/normativos_53036/normativa.json",
       "markdown_path": "2026/normativos_53036/normativa.md",
-      "extraido_em": "2026-10-24T02:56:29.238176+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 0.0,
+      "content_hash": "d19ede9272b3d45f476e177c81f5afabe9a975c9cdd62975a7869b0774135448",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53036
     },
     "2026/normativos_53035": {
@@ -5499,7 +6559,12 @@
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=785",
       "json_path": "2026/normativos_53035/normativa.json",
       "markdown_path": "2026/normativos_53035/normativa.md",
-      "extraido_em": "2026-10-24T02:56:30.464594+00:00",
+      "extraido_em": "2026-10-24T02:53:54.860697+00:00",
+      "verificado_em": "2026-10-24T02:53:54.860697+00:00",
+      "versao": 0.0,
+      "content_hash": "7e9029f797b702379ea2e18a1527c1e83b8fe276efb4aa671b474dd0200857a6",
+      "status": "ok",
+      "schema_version": 2,
       "id_bcb": 53035
     }
   }

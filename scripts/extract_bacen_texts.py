@@ -4,12 +4,13 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import html
 import json
 import re
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from html.parser import HTMLParser
 from pathlib import Path
 from typing import Any
@@ -64,11 +65,41 @@ class TextExtractor(HTMLParser):
         return "\n".join(result).strip()
 
 
+class AssetExtractor(HTMLParser):
+    """Coleta destinos de links e imagens sem tentar renderizar o HTML."""
+
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.links: list[str] = []
+        self.images: list[dict[str, str]] = []
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        attributes = {key.lower(): html.unescape(value or "") for key, value in attrs}
+        if tag.lower() == "a" and attributes.get("href"):
+            self.links.append(attributes["href"].strip())
+        elif tag.lower() == "img" and attributes.get("src"):
+            self.images.append(
+                {
+                    "src": attributes["src"].strip(),
+                    "alt": attributes.get("alt", "").strip(),
+                }
+            )
+
+
 def html_to_text(value: Any) -> str:
     parser = TextExtractor()
     parser.feed(str(value) if value is not None else "")
     parser.close()
     return parser.text()
+
+
+def extract_assets(value: Any) -> tuple[list[str], list[dict[str, str]]]:
+    parser = AssetExtractor()
+    parser.feed(str(value) if value is not None else "")
+    parser.close()
+    return list(dict.fromkeys(parser.links)), list(
+        {json.dumps(image, sort_keys=True): image for image in parser.images}.values()
+    )
 
 
 def read_json(path: Path) -> Any:
@@ -113,12 +144,13 @@ def load_sources(paths: list[Path]) -> list[tuple[int, dict[str, Any]]]:
 
 def load_index(path: Path) -> dict[str, Any]:
     if not path.exists():
-        return {"version": 1, "updated_at": None, "items": {}}
+        return {"version": 2, "updated_at": None, "items": {}}
     index = read_json(path)
-    if not isinstance(index, dict) or index.get("version") != 1:
+    if not isinstance(index, dict) or index.get("version") not in {1, 2}:
         raise ValueError(f"formato de índice inválido em {path}")
     if not isinstance(index.get("items"), dict):
         raise ValueError(f"campo items inválido em {path}")
+    index["version"] = 2
     return index
 
 
@@ -163,9 +195,11 @@ def fetch_json(url: str, timeout: float, retries: int) -> dict[str, Any]:
 
 
 def normalize_content(raw: dict[str, Any]) -> dict[str, Any]:
-    text = html_to_text(raw.get("Texto"))
+    source_html = str(raw.get("Texto") or "")
+    text = html_to_text(source_html)
     if not text:
         raise ValueError("a API retornou uma normativa sem texto")
+    links, images = extract_assets(source_html)
 
     return {
         "titulo": raw.get("Titulo"),
@@ -182,11 +216,27 @@ def normalize_content(raw: dict[str, Any]) -> dict[str, Any]:
         "cancelado": bool(raw.get("Cancelado")),
         "versao": raw.get("VersaoNormativo"),
         "id_bcb": raw.get("Id"),
+        "texto_html": source_html,
         "texto": text,
+        "links": links,
+        "imagens": images,
     }
 
 
-def extract_item(item: dict[str, Any], year: int, extracted_at: str, timeout: float, retries: int) -> dict[str, Any]:
+def content_hash(document: dict[str, Any]) -> str:
+    """Identifica mudanças relevantes sem incluir timestamps da extração."""
+    relevant = {
+        "nome": document.get("nome"),
+        "descricao": document.get("descricao"),
+        "data_feed": document.get("data_feed"),
+        "link": document.get("link"),
+        "conteudo": document.get("conteudo"),
+    }
+    serialized = json.dumps(relevant, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
+    return hashlib.sha256(serialized.encode("utf-8")).hexdigest()
+
+
+def extract_item(item: dict[str, Any], year: int, checked_at: str, timeout: float, retries: int) -> dict[str, Any]:
     item_id = str(item.get("id", "")).strip()
     if not SAFE_ID.fullmatch(item_id):
         raise ValueError(f"id inválido: {item_id!r}")
@@ -211,13 +261,19 @@ def extract_item(item: dict[str, Any], year: int, extracted_at: str, timeout: fl
         "data_feed": item.get("data"),
         "link": item.get("link"),
         "api_url": api_url,
-        "extraido_em": extracted_at,
+        "extraido_em": checked_at,
+        "verificado_em": checked_at,
         "conteudo": normalize_content(raw),
     }
 
 
 def markdown_escape(value: Any) -> str:
     return str(value or "").replace("\\", "\\\\").replace("[", "\\[").replace("]", "\\]")
+
+
+def markdown_body_text(value: Any) -> str:
+    """Evita que hífens do texto jurídico sejam interpretados como listas."""
+    return re.sub(r"^(\s*)([-+*])(\s+)", r"\1\\\2\3", str(value or ""), flags=re.MULTILINE)
 
 
 def markdown_document(document: dict[str, Any]) -> str:
@@ -246,7 +302,7 @@ def markdown_document(document: dict[str, Any]) -> str:
         lines.extend(["", "## Referências", ""])
         lines.extend(f"- {reference}" for reference in references)
 
-    lines.extend(["", "## Texto", "", content["texto"], ""])
+    lines.extend(["", "## Texto", "", markdown_body_text(content["texto"]), ""])
     return "\n".join(lines)
 
 
@@ -287,34 +343,90 @@ def output_files_exist(output_dir: Path, entry: dict[str, Any]) -> bool:
     )
 
 
+def parse_feed_date(value: Any) -> datetime | None:
+    try:
+        parsed = datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+    except ValueError:
+        return None
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    return parsed.astimezone(timezone.utc)
+
+
+def source_changed(previous: dict[str, Any], item: dict[str, Any]) -> bool:
+    return any(
+        previous.get(index_field) != item.get(source_field)
+        for index_field, source_field in (
+            ("nome", "nome"),
+            ("data_feed", "data"),
+            ("link", "link"),
+        )
+    )
+
+
+def should_refresh(
+    item: dict[str, Any],
+    previous: dict[str, Any] | None,
+    output_dir: Path,
+    refresh_since: datetime,
+    force: bool,
+) -> bool:
+    if force or not previous or not output_files_exist(output_dir, previous):
+        return True
+    feed_date = parse_feed_date(item.get("data"))
+    return source_changed(previous, item) or bool(feed_date and feed_date >= refresh_since)
+
+
 def run(args: argparse.Namespace) -> tuple[int, int, int]:
     index_path = args.output_dir / "index.json"
     markdown_index_path = args.output_dir / "index.md"
     index = load_index(index_path)
     records = load_sources(args.sources)
-    extracted = 0
+    updated = 0
+    verified = 0
     skipped = 0
     failed = 0
+    checked_at = datetime.now(timezone.utc)
+    refresh_since = checked_at - timedelta(days=args.refresh_days)
+    pending_writes: list[tuple[Path, dict[str, Any], Path, str]] = []
 
     for year, item in records:
-        if args.max_items is not None and extracted + failed >= args.max_items:
+        if args.max_items is not None and updated + verified + failed >= args.max_items:
             break
 
         item_id = str(item.get("id", "")).strip()
         key = f"{year}/{item_id}"
         previous = index["items"].get(key)
-        if not args.force and previous and output_files_exist(args.output_dir, previous):
+        if not should_refresh(item, previous, args.output_dir, refresh_since, args.force):
             skipped += 1
             continue
 
         try:
-            extracted_at = datetime.now(timezone.utc).isoformat()
-            document = extract_item(item, year, extracted_at, args.timeout, args.retries)
+            timestamp = checked_at.isoformat()
+            document = extract_item(item, year, timestamp, args.timeout, args.retries)
+            digest = content_hash(document)
             relative_dir = Path(str(year)) / item_id
             json_path = relative_dir / "normativa.json"
             markdown_path = relative_dir / "normativa.md"
-            write_json(args.output_dir / json_path, document)
-            write_text(args.output_dir / markdown_path, markdown_document(document))
+            previous_hash = previous.get("content_hash") if previous else None
+            changed = args.force or not previous or digest != previous_hash
+            extracted_at = timestamp
+            if previous and not changed:
+                extracted_at = previous.get("extraido_em") or timestamp
+                document["extraido_em"] = extracted_at
+                verified += 1
+                print(f"Verificado sem alteração: {key}")
+            else:
+                pending_writes.append(
+                    (
+                        args.output_dir / json_path,
+                        document,
+                        args.output_dir / markdown_path,
+                        markdown_document(document),
+                    )
+                )
+                updated += 1
+                print(f"Atualizado: {key}")
             index["items"][key] = {
                 "id": item_id,
                 "ano": year,
@@ -324,13 +436,13 @@ def run(args: argparse.Namespace) -> tuple[int, int, int]:
                 "json_path": json_path.as_posix(),
                 "markdown_path": markdown_path.as_posix(),
                 "extraido_em": extracted_at,
+                "verificado_em": timestamp,
+                "versao": document["conteudo"].get("versao"),
+                "content_hash": digest,
+                "status": "ok",
+                "schema_version": 2,
                 "id_bcb": document["conteudo"].get("id_bcb"),
             }
-            index["updated_at"] = extracted_at
-            write_json(index_path, index)
-            write_text(markdown_index_path, index_markdown(index))
-            extracted += 1
-            print(f"Extraído: {key}")
         except (OSError, RuntimeError, ValueError) as error:
             failed += 1
             print(f"Falha: {key}: {error}", file=sys.stderr)
@@ -338,8 +450,19 @@ def run(args: argparse.Namespace) -> tuple[int, int, int]:
         if args.delay:
             time.sleep(args.delay)
 
-    print(f"Resumo: {extracted} extraídos, {skipped} ignorados, {failed} falhas")
-    return extracted, skipped, failed
+    if not failed:
+        for json_path, document, markdown_path, markdown in pending_writes:
+            write_json(json_path, document)
+            write_text(markdown_path, markdown)
+        index["updated_at"] = checked_at.isoformat()
+        write_json(index_path, index)
+        write_text(markdown_index_path, index_markdown(index))
+
+    print(
+        f"Resumo: {updated} atualizados, {verified} verificados, "
+        f"{skipped} ignorados, {failed} falhas"
+    )
+    return updated, verified + skipped, failed
 
 
 def parse_args() -> argparse.Namespace:
@@ -350,25 +473,29 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--retries", type=int, default=3)
     parser.add_argument("--delay", type=float, default=0.25)
     parser.add_argument("--max-items", type=int, help="limita itens processados (útil em testes)")
+    parser.add_argument(
+        "--refresh-days",
+        type=int,
+        default=45,
+        help="revalida normativas publicadas nos últimos N dias (padrão: 45)",
+    )
     parser.add_argument("--force", action="store_true", help="reextrai itens já presentes no índice")
     return parser.parse_args()
 
 
 def main() -> int:
     args = parse_args()
-    if args.retries < 1 or args.delay < 0 or args.timeout <= 0:
-        print("Erro: retries, delay e timeout devem ser valores positivos", file=sys.stderr)
+    if args.retries < 1 or args.delay < 0 or args.timeout <= 0 or args.refresh_days < 0:
+        print("Erro: parâmetros numéricos inválidos", file=sys.stderr)
         return 2
 
     try:
-        extracted, skipped, failed = run(args)
+        updated, skipped, failed = run(args)
     except (json.JSONDecodeError, OSError, ValueError) as error:
         print(f"Erro: {error}", file=sys.stderr)
         return 1
 
-    # Mantém resultados parciais no workflow; falhas ficam ausentes do índice e
-    # são tentadas novamente na próxima execução. Falha total sinaliza indisponibilidade.
-    return 1 if failed and not extracted and not skipped else 0
+    return 1 if failed else 0
 
 
 if __name__ == "__main__":
