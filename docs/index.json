@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23T02:59:41.065335+00:00",
+  "updated_at": "2026-10-24T02:56:30.464594+00:00",
   "items": {
     "2025/normativos_52631": {
       "id": "normativos_52631",
@@ -5457,6 +5457,50 @@
       "markdown_path": "2026/normativos_53034/normativa.md",
       "extraido_em": "2026-10-23T02:59:41.065335+00:00",
       "id_bcb": 53034
+    },
+    "2026/normativos_53038": {
+      "id": "normativos_53038",
+      "ano": 2026,
+      "nome": "BC - Resolução BCB N° 603 de 23/10/2026",
+      "data_feed": "2026-10-23T18:09:16-03:00",
+      "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=603",
+      "json_path": "2026/normativos_53038/normativa.json",
+      "markdown_path": "2026/normativos_53038/normativa.md",
+      "extraido_em": "2026-10-24T02:56:26.674241+00:00",
+      "id_bcb": 53038
+    },
+    "2026/normativos_53037": {
+      "id": "normativos_53037",
+      "ano": 2026,
+      "nome": "BC - Resolução BCB N° 602 de 23/10/2026",
+      "data_feed": "2026-10-23T18:08:42-03:00",
+      "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=602",
+      "json_path": "2026/normativos_53037/normativa.json",
+      "markdown_path": "2026/normativos_53037/normativa.md",
+      "extraido_em": "2026-10-24T02:56:28.036274+00:00",
+      "id_bcb": 53037
+    },
+    "2026/normativos_53036": {
+      "id": "normativos_53036",
+      "ano": 2026,
+      "nome": "BC - Resolução BCB N° 601 de 23/10/2026",
+      "data_feed": "2026-10-23T18:07:52-03:00",
+      "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=601",
+      "json_path": "2026/normativos_53036/normativa.json",
+      "markdown_path": "2026/normativos_53036/normativa.md",
+      "extraido_em": "2026-10-24T02:56:29.238176+00:00",
+      "id_bcb": 53036
+    },
+    "2026/normativos_53035": {
+      "id": "normativos_53035",
+      "ano": 2026,
+      "nome": "BC - Instrução Normativa BCB N° 785 de 23/10/2026",
+      "data_feed": "2026-10-23T17:45:32-03:00",
+      "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=785",
+      "json_path": "2026/normativos_53035/normativa.json",
+      "markdown_path": "2026/normativos_53035/normativa.md",
+      "extraido_em": "2026-10-24T02:56:30.464594+00:00",
+      "id_bcb": 53035
     }
   }
 }
