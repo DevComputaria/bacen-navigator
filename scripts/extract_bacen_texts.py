@@ -271,6 +271,11 @@ def markdown_escape(value: Any) -> str:
     return str(value or "").replace("\\", "\\\\").replace("[", "\\[").replace("]", "\\]")
 
 
+def markdown_body_text(value: Any) -> str:
+    """Evita que hífens do texto jurídico sejam interpretados como listas."""
+    return re.sub(r"^(\s*)([-+*])(\s+)", r"\1\\\2\3", str(value or ""), flags=re.MULTILINE)
+
+
 def markdown_document(document: dict[str, Any]) -> str:
     content = document["conteudo"]
     references = [part.strip() for part in str(content.get("referencias") or "").split(";#") if part.strip()]
@@ -297,7 +302,7 @@ def markdown_document(document: dict[str, Any]) -> str:
         lines.extend(["", "## Referências", ""])
         lines.extend(f"- {reference}" for reference in references)
 
-    lines.extend(["", "## Texto", "", content["texto"], ""])
+    lines.extend(["", "## Texto", "", markdown_body_text(content["texto"]), ""])
     return "\n".join(lines)
 
 

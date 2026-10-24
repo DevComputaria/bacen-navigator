@@ -40,6 +40,13 @@ def api_payload(version: float, text: str) -> dict[str, object]:
 
 
 class PipelineTests(unittest.TestCase):
+    def test_escapes_legal_dashes_in_markdown_body(self) -> None:
+        value = "VIII\n- componente responsável: exemplo\ntexto"
+        self.assertEqual(
+            extractor.markdown_body_text(value),
+            "VIII\n\\- componente responsável: exemplo\ntexto",
+        )
+
     def test_preserves_html_links_and_images(self) -> None:
         content = extractor.normalize_content(
             api_payload(

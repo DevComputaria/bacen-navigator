@@ -128,7 +128,7 @@ for a denominação adotada, a exemplo de conselho, comitê, comissão, grupo,
 equipe ou fórum;
 
 VIII
-- componente responsável: elemento da estrutura organizacional do Banco Central
+\- componente responsável: elemento da estrutura organizacional do Banco Central
 do Brasil ao qual caiba a responsabilidade pelo acordo, convênio, colegiado
 externo ou corporativo, ou designação de representante do Banco Central do
 Brasil;
@@ -158,7 +158,7 @@ Brasil como responsável pelo registro e pela atualização de informações sob
 colegiados, acordos, convênios e representantes no Sistema CAR;
 
 XIII
-- plano de trabalho: documento integrante de convênio, acordo e instrumento
+\- plano de trabalho: documento integrante de convênio, acordo e instrumento
 congênere, que, independentemente de transcrição, evidencie os partícipes e
 seus representantes, o objeto, a justificativa e o cronograma físico das ações
 a serem realizadas, e, se for o caso, o monitoramento e a prestação de contas,
@@ -186,14 +186,14 @@ recíproco propostas pela administração pública que envolvam a transferência
 recursos financeiros;
 
 XVII
-- termo de fomento: instrumento por meio do qual são formalizadas as parcerias
+\- termo de fomento: instrumento por meio do qual são formalizadas as parcerias
 estabelecidas pela administração pública com organizações da sociedade civil
 para a consecução de finalidades de interesse público e recíproco propostas
 pelas organizações da sociedade civil, que envolvam a transferência de recursos
 financeiros;
 
 XVIII
-- termo de outorga: instrumento jurídico utilizado para concessão de bolsas, de
+\- termo de outorga: instrumento jurídico utilizado para concessão de bolsas, de
 auxílios, de bônus tecnológico e de subvenção econômica; e
 
 XIX -
