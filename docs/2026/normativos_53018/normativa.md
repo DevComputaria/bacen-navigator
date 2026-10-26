@@ -48,7 +48,7 @@ de 2021, passa a vigorar com as seguintes alterações:
 6º  ...................................................................................................................................
 
 I
-- instrumentos classificados contabilmente na categoria valor justo no resultado,
+\- instrumentos classificados contabilmente na categoria valor justo no resultado,
 desde que enquadrados em modelos de negócio condizentes com os fins estabelecidos
 no art. 5º, caput, inciso I;
 
@@ -96,36 +96,36 @@ de 2025, passa a vigorar com as seguintes alterações:
 .................................................................................................................................................
 
 XVII
-- riscos exóticos correspondem àqueles que não possam ser associados a quaisquer
+\- riscos exóticos correspondem àqueles que não possam ser associados a quaisquer
 dos fatores de risco das componentes Delta, Vega ou Curvatura desta Resolução.
 
 Parágrafo
 único.  São exemplos de riscos exóticos:
 
 I
-- riscos de previdência complementar;
+\- riscos de previdência complementar;
 
 II
-- riscos de saúde complementar;
+\- riscos de saúde complementar;
 
 III
-- riscos de seguros, de resseguros ou de retrocessão, desde que não relacionados
+\- riscos de seguros, de resseguros ou de retrocessão, desde que não relacionados
 a risco de crédito;
 
 IV
-- a ocorrência ou a magnitude de um desastre natural específico em uma janela temporal
+\- a ocorrência ou a magnitude de um desastre natural específico em uma janela temporal
 determinada;
 
 V
-- a magnitude de uma variável meteorológica observada em uma janela temporal e referência
+\- a magnitude de uma variável meteorológica observada em uma janela temporal e referência
 geográfica específicas;
 
 VI
-- a volatilidade observada de um instrumento financeiro durante um período determinado;
+\- a volatilidade observada de um instrumento financeiro durante um período determinado;
 e
 
 VII
-- o comportamento observado de um indicador econômico durante um período determinado.”
+\- o comportamento observado de um indicador econômico durante um período determinado.”
 (NR)
 
 “Art.
@@ -139,12 +139,12 @@ VII
 padronizados nesta Resolução, desde que:
 
 I
-- o procedimento de conversão entre as convenções temporais que assegure a alocação
+\- o procedimento de conversão entre as convenções temporais que assegure a alocação
 das sensibilidades nos vértices padronizados estabelecidos nesta Resolução seja
 realizado; e
 
 II
-- o procedimento de conversão seja validado e documentado nos termos do § 1º e seja
+\- o procedimento de conversão seja validado e documentado nos termos do § 1º e seja
 submetido à avaliação periódica da auditoria interna nos termos do § 3º.” (NR)
 
 “Art. 8º  ...................................................................................................................................
@@ -153,14 +153,14 @@ Parágrafo
 único.  Não devem ser incluídos na apuração da componente Delta:
 
 I
-- derivativos de crédito utilizados como hedge de alterações no valor das
+\- derivativos de crédito utilizados como hedge de alterações no valor das
 operações com instrumentos financeiros derivativos em decorrência de variação da
 qualidade creditícia da contraparte, que são considerados no cálculo do componente
 RWACVA, de que trata a Resolução BCB nº 291, de 8 de fevereiro de 2023;
 e
 
 II
-- operações de hedge de fluxo de caixa, de que tratam a Resolução CMN nº
+\- operações de hedge de fluxo de caixa, de que tratam a Resolução CMN nº
 4.966, de 25 de novembro de 2021, e a Resolução BCB nº 352, de 23 de novembro de
 2023, com o objetivo de compensar, no todo ou em parte, o risco de variação cambial
 decorrente de compromissos futuros previstos para, no máximo, os próximos doze meses,
@@ -173,7 +173,7 @@ relativos a contratos vigentes de serviços, desde que devidamente documentados.
 .................................................................................................................................................
 
 VII
-- ..........................................................................................................................................
+\- ..........................................................................................................................................
 
 .................................................................................................................................................
 
@@ -195,7 +195,7 @@ euro – EUR, dólar norte-americano – USD, libra esterlina – GBP, dólar au
 36.  ..................................................................................................................................
 
 I
-- .............................................................................................................................................
+\- .............................................................................................................................................
 
 a)
 as sensibilidades partilharem do mesmo emissor; e
@@ -231,15 +231,15 @@ entre o nível corrente do fator de risco k e zero.” (NR)
 .................................................................................................................................................
 
 II
-- para a classe de risco CSRNSEC, àquele considerado para o fator de
+\- para a classe de risco CSRNSEC, àquele considerado para o fator de
 risco k no cálculo da componente Delta;
 
 III
-- para a classe de risco CSRSEC, àquele considerado para o fator de risco
+\- para a classe de risco CSRSEC, àquele considerado para o fator de risco
 k no cálculo da componente Delta;
 
 IV
-- para a classe de risco CSRCTP, àquele considerado para o fator de risco
+\- para a classe de risco CSRCTP, àquele considerado para o fator de risco
 k no cálculo da componente Delta;
 
 .......................................................................................................................................”
@@ -250,19 +250,19 @@ k no cálculo da componente Delta;
 .................................................................................................................................................
 
 II
-- para a classe de risco CSRNSEC, um choque paralelo na estrutura a termo
+\- para a classe de risco CSRNSEC, um choque paralelo na estrutura a termo
 corrente do fator de risco k que resulta em aumento absoluto equivalente
 ao ponderador de risco considerado para esse fator de risco no cálculo da componente
 Delta;
 
 III
-- para a classe de risco CSRSEC, um choque paralelo na estrutura a termo
+\- para a classe de risco CSRSEC, um choque paralelo na estrutura a termo
 corrente do fator de risco k que resulta em aumento absoluto equivalente
 ao ponderador de risco considerado para esse fator de risco no cálculo da componente
 Delta;
 
 IV
-- para a classe de risco CSRCTP, um choque paralelo na estrutura a termo
+\- para a classe de risco CSRCTP, um choque paralelo na estrutura a termo
 corrente do fator de risco k que resulta em aumento absoluto equivalente
 ao ponderador de risco considerado para esse fator de risco no cálculo da componente
 Delta;
@@ -275,19 +275,19 @@ Delta;
 .................................................................................................................................................
 
 II
-- para a classe de risco CSRNSEC, um choque paralelo na estrutura a termo
+\- para a classe de risco CSRNSEC, um choque paralelo na estrutura a termo
 corrente do fator de risco k que resulta em redução absoluta equivalente
 ao ponderador de risco considerado para esse fator de risco no cálculo da componente
 Delta;
 
 III
-- para a classe de risco CSRSEC, um choque paralelo na estrutura a termo
+\- para a classe de risco CSRSEC, um choque paralelo na estrutura a termo
 corrente do fator de risco k que resulta em redução absoluta equivalente
 ao ponderador de risco considerado para esse fator de risco no cálculo da componente
 Delta;
 
 IV
-- para a classe de risco CSRCTP, um choque paralelo na estrutura a termo
+\- para a classe de risco CSRCTP, um choque paralelo na estrutura a termo
 corrente do fator de risco k que resulta em redução absoluta equivalente
 ao ponderador de risco considerado para esse fator de risco no cálculo da componente
 Delta;
@@ -300,11 +300,11 @@ Delta;
 de mercado que:
 
 I
-- tenham seu apreçamento determinado por ativos subjacentes ou fatores de risco
+\- tenham seu apreçamento determinado por ativos subjacentes ou fatores de risco
 exóticos; ou
 
 II
-- estejam expostos a riscos residuais.
+\- estejam expostos a riscos residuais.
 
 .......................................................................................................................................”
 (NR)
@@ -334,7 +334,7 @@ de 2013, passa a vigorar com as seguintes alterações:
 .................................................................................................................................................
 
 III
-- de hedge de fluxo de caixa, de que tratam a Resolução CMN nº 4.966, de
+\- de hedge de fluxo de caixa, de que tratam a Resolução CMN nº 4.966, de
 25 de novembro de 2021, e a Resolução BCB nº 352, de 23 de novembro de 2023, com
 o objetivo de compensar, no todo ou em parte, o risco de variação cambial decorrente
 de compromissos futuros previstos para, no máximo, os próximos doze meses, relativos
