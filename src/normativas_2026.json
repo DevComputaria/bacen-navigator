@@ -1,5 +1,19 @@
 [
   {
+    "id": "normativos_53039",
+    "nome": "BC - Resolução BCB N° 604 de 27/10/2026",
+    "descricao": "Dispõe sobre o sistema e a custódia de numerário do Banco Central do Brasil.",
+    "data": "2026-10-27T18:02:11-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=604"
+  },
+  {
+    "id": "normativos_53034",
+    "nome": "BC - Resolução Conjunta N° 21 de 22/10/2026",
+    "descricao": "Altera a Resolução Conjunta nº 1, de 4 de maio de 2020, que dispõe sobre a implementação do Open Finance.",
+    "data": "2026-10-27T14:15:12-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20Conjunta&numero=21"
+  },
+  {
     "id": "normativos_53038",
     "nome": "BC - Resolução BCB N° 603 de 23/10/2026",
     "descricao": "Altera o regulamento anexo à Resolução BCB nº 1, de 12 de agosto de 2020, que institui o arranjo de pagamentos Pix e aprova o seu Regulamento, para disciplinar a oferta de crédito durante a iniciação de uma transação Pix.",
@@ -26,13 +40,6 @@
     "descricao": "Dispõe sobre a implementação do Painel de Dívidas Consolidadas pelas instituições financeiras, instituições de pagamento, sociedades distribuidoras de títulos e valores mobiliários, sociedades corretoras de títulos e valores mobiliários e sociedades corretoras de câmbio.",
     "data": "2026-10-26T14:03:49-03:00",
     "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=601"
-  },
-  {
-    "id": "normativos_53034",
-    "nome": "BC - Resolução Conjunta N° 21 de 22/10/2026",
-    "descricao": "Altera a Resolução Conjunta nº 1, de 4 de maio de 2020, que dispõe sobre a implementação do Open Finance.",
-    "data": "2026-10-22T18:01:23-03:00",
-    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20Conjunta&numero=21"
   },
   {
     "id": "normativos_53033",
