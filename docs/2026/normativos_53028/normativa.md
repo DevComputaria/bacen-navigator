@@ -34,7 +34,7 @@ O L V E :
 
 Art.
 1º  Fica constituído o Centro de Excelência de Desenvolvimento de Software do
-Banco Central do Brasil, na forma do regulamento anexo a esta Resolução.
+Banco Central do Brasil, na forma do regulamento anexo a esta Instrução Normativa.
 
 Art.
 2º  Esta Instrução Normativa entra em vigor na data de sua publicação.
