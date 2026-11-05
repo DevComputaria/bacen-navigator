@@ -1,13 +1,14 @@
 # Índice de textos das normativas
 
-**Total extraído:** 502
+**Total extraído:** 503
 
-**Última atualização:** 2026-11-05T10:46:45.812990+00:00
+**Última atualização:** 2026-11-05T21:27:34.594714+00:00
 
 Este arquivo é gerado automaticamente por `scripts/extract_bacen_texts.py`.
 
 ## 2026
 
+- [BC - Instrução Normativa BCB N° 786 de 05/11/2026](2026/normativos_53041/normativa.md) — `normativos_53041`
 - [BC - Resolução CMN N° 5.344 de 29/10/2026](2026/normativos_53040/normativa.md) — `normativos_53040`
 - [BC - Resolução BCB N° 604 de 27/10/2026](2026/normativos_53039/normativa.md) — `normativos_53039`
 - [BC - Resolução Conjunta N° 21 de 22/10/2026](2026/normativos_53034/normativa.md) — `normativos_53034`
