@@ -654,7 +654,7 @@ Registrar o valor contábil das operações de crédito rural objeto de reestrut
 
 Art. 16.  O disposto nesta Instrução Normativa aplica-se aos documentos contábeis elaborados a partir da data-base:
 
-I -  de setembro de 2026, no caso dos arts. 3º, 7º, 8º, 12 e 15; e
+I -  de novembro de 2026, no caso dos arts. 3º, 7º, 8º, 12 e 15; e
 
 II - de janeiro de 2027, em relação aos demais artigos.
 
