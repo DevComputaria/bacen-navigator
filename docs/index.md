@@ -2,7 +2,7 @@
 
 **Total extraído:** 503
 
-**Última atualização:** 2026-11-07T00:52:57.493558+00:00
+**Última atualização:** 2026-11-07T09:58:49.911594+00:00
 
 Este arquivo é gerado automaticamente por `scripts/extract_bacen_texts.py`.
 
