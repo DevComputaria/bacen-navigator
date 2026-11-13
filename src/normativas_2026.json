@@ -1,5 +1,19 @@
 [
   {
+    "id": "normativos_53039",
+    "nome": "BC - Resolução BCB N° 604 de 27/10/2026",
+    "descricao": "Dispõe sobre o sistema e a custódia de numerário do Banco Central do Brasil.",
+    "data": "2026-11-13T14:56:25-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=604"
+  },
+  {
+    "id": "normativos_53043",
+    "nome": "BC - Resolução BCB N° 605 de 13/11/2026",
+    "descricao": "Altera o Regulamento do Programa de Assistência à Saúde dos Servidores do Banco Central – PASBC, anexo à Resolução BCB nº 415, de 24 de setembro de 2024.",
+    "data": "2026-11-13T09:00:03-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=605"
+  },
+  {
     "id": "normativos_53042",
     "nome": "BC - Instrução Normativa BCB N° 787 de 10/11/2026",
     "descricao": "Dispõe sobre o serviço de custódia de numerário do Banco Central do Brasil realizado pelas instituições custodiantes e sua fiscalização e monitoramento.",
@@ -19,13 +33,6 @@
     "descricao": "Altera o anexo à Resolução CMN nº 4.995, de 24 de março de 2022.",
     "data": "2026-11-03T14:15:21-03:00",
     "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5344"
-  },
-  {
-    "id": "normativos_53039",
-    "nome": "BC - Resolução BCB N° 604 de 27/10/2026",
-    "descricao": "Dispõe sobre o sistema e a custódia de numerário do Banco Central do Brasil.",
-    "data": "2026-10-29T12:37:45-03:00",
-    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=604"
   },
   {
     "id": "normativos_53034",

@@ -1,17 +1,18 @@
 # Índice de textos das normativas
 
-**Total extraído:** 504
+**Total extraído:** 505
 
-**Última atualização:** 2026-11-13T10:52:22.617617+00:00
+**Última atualização:** 2026-11-13T21:24:38.934575+00:00
 
 Este arquivo é gerado automaticamente por `scripts/extract_bacen_texts.py`.
 
 ## 2026
 
+- [BC - Resolução BCB N° 604 de 27/10/2026](2026/normativos_53039/normativa.md) — `normativos_53039`
+- [BC - Resolução BCB N° 605 de 13/11/2026](2026/normativos_53043/normativa.md) — `normativos_53043`
 - [BC - Instrução Normativa BCB N° 787 de 10/11/2026](2026/normativos_53042/normativa.md) — `normativos_53042`
 - [BC - Instrução Normativa BCB N° 786 de 05/11/2026](2026/normativos_53041/normativa.md) — `normativos_53041`
 - [BC - Resolução CMN N° 5.344 de 29/10/2026](2026/normativos_53040/normativa.md) — `normativos_53040`
-- [BC - Resolução BCB N° 604 de 27/10/2026](2026/normativos_53039/normativa.md) — `normativos_53039`
 - [BC - Resolução Conjunta N° 21 de 22/10/2026](2026/normativos_53034/normativa.md) — `normativos_53034`
 - [BC - Resolução BCB N° 603 de 23/10/2026](2026/normativos_53038/normativa.md) — `normativos_53038`
 - [BC - Instrução Normativa BCB N° 785 de 23/10/2026](2026/normativos_53035/normativa.md) — `normativos_53035`
