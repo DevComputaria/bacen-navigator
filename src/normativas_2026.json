@@ -1,24 +1,31 @@
 [
   {
-    "id": "normativos_53039",
-    "nome": "BC - Resolução BCB N° 604 de 27/10/2026",
-    "descricao": "Dispõe sobre o sistema e a custódia de numerário do Banco Central do Brasil.",
-    "data": "2026-11-13T14:56:25-03:00",
-    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=604"
-  },
-  {
     "id": "normativos_53043",
     "nome": "BC - Resolução BCB N° 605 de 13/11/2026",
     "descricao": "Altera o Regulamento do Programa de Assistência à Saúde dos Servidores do Banco Central – PASBC, anexo à Resolução BCB nº 415, de 24 de setembro de 2024.",
-    "data": "2026-11-13T09:00:03-03:00",
+    "data": "2026-11-16T10:22:44-03:00",
     "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=605"
+  },
+  {
+    "id": "normativos_53044",
+    "nome": "BC - Instrução Normativa BCB N° 788 de 16/11/2026",
+    "descricao": "Altera a Instrução Normativa nº 374, de 26 de abril de 2023, que divulga procedimentos, prazos, documentos e informações necessários para a instrução de pedidos de autorização relacionados ao funcionamento dos Sistemas de Mercado Financeiro (SMF) no âmbito do Sistema de Pagamentos Brasileiro (SPB), e os tipos de alterações nos SMF e em seus regulamentos que representam risco relevante à sua segurança, à sua eficiência ou à solidez e ao normal funcionamento do SPB ou do Sistema Financeiro Nacional (SFN).",
+    "data": "2026-11-16T10:08:28-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=788"
   },
   {
     "id": "normativos_53042",
     "nome": "BC - Instrução Normativa BCB N° 787 de 10/11/2026",
     "descricao": "Dispõe sobre o serviço de custódia de numerário do Banco Central do Brasil realizado pelas instituições custodiantes e sua fiscalização e monitoramento.",
-    "data": "2026-11-10T20:37:29-03:00",
+    "data": "2026-11-16T09:53:09-03:00",
     "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=787"
+  },
+  {
+    "id": "normativos_53039",
+    "nome": "BC - Resolução BCB N° 604 de 27/10/2026",
+    "descricao": "Dispõe sobre o sistema e a custódia de numerário do Banco Central do Brasil.",
+    "data": "2026-11-13T14:56:25-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=604"
   },
   {
     "id": "normativos_53041",
