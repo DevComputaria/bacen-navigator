@@ -1,0 +1,44 @@
+# Resolução CMN N° 5.345
+
+- **ID:** `normativos_53047`
+- **Ano:** 2026
+- **Data:** 19/11/2026 18:35
+- **Tipo:** Resolução CMN
+- **Número:** 5345.0
+- **Revogado:** Não
+- **Cancelado:** Não
+- **Fonte:** [https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5345](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5345)
+
+## Assunto
+
+Altera a Resolução CMN nº 4.911, de 27 de maio de 2021, que dispõe sobre os critérios gerais para elaboração e remessa de documentos contábeis ao Banco Central do Brasil pelas instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil.
+
+## Texto
+
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão realizada em 19 de novembro de 2026,
+com base no art. 4º, caput, incisos VIII e XII, da referida Lei, e tendo em vista o disposto no art. 61 da Lei nº 11.941, de 27 de maio de 2009,
+
+R E S O L V E U :
+
+Art. 1º  A Resolução CMN nº 4.911, de 27 de maio de 2021, publicada no Diário Oficial da União de 31 de maio de 2021, passa a vigorar com as seguintes alterações:
+
+“Art. 2º  ..................................................
+
+I - ........................................................
+
+a) Balancete Patrimonial Analítico, com periodicidade mensal;
+
+...........................................................
+
+c) Estatística Fiscal - Rubricas Contábeis Selecionadas, com periodicidade mensal; e
+
+.....................................................” (NR)
+
+“Art. 2º-D  As instituições mencionadas no art. 1º devem remeter ao Banco Central do Brasil os documentos de que trata o art. 2º,
+caput, inciso I, alínea “c”.” (NR)
+
+Art. 2º  Esta Resolução entra em vigor em 1º de janeiro de 2028.
+
+GABRIEL MURICCA GALÍPOLO
+
+Presidente do Banco Central do Brasil

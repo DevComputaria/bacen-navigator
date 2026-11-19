@@ -1,5 +1,61 @@
 [
   {
+    "id": "normativos_53052",
+    "nome": "BC - Instrução Normativa BCB N° 789 de 19/11/2026",
+    "descricao": "Altera a Instrução Normativa BCB nº 506, de 29 de agosto de 2024.",
+    "data": "2026-11-19T18:52:06-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=789"
+  },
+  {
+    "id": "normativos_53051",
+    "nome": "BC - Resolução BCB N° 607 de 19/11/2026",
+    "descricao": "Altera a Resolução BCB nº 560, de 23 de abril de 2026, para postergar a data da entrada em vigor dos dispositivos relativos ao indicador Liquidez de Curto Prazo Simplificado – LCRS e dispor sobre hipótese de dispensa do cumprimento dos limites mínimos.",
+    "data": "2026-11-19T18:37:33-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=607"
+  },
+  {
+    "id": "normativos_53050",
+    "nome": "BC - Resolução CMN N° 5.348 de 19/11/2026",
+    "descricao": "Altera a Resolução CMN nº 5.296, de 23 de abril de 2026, para postergar a vigência dos dispositivos relativos ao indicador Liquidez de Curto Prazo Simplificado – LCRS e dispor sobre hipótese de dispensa do cumprimento dos limites mínimos.",
+    "data": "2026-11-19T18:37:03-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5348"
+  },
+  {
+    "id": "normativos_53049",
+    "nome": "BC - Resolução CMN N° 5.347 de 19/11/2026",
+    "descricao": "Autoriza a utilização de Conta de Liquidação em procedimentos aplicáveis ao Programa de Garantia da Atividade Agropecuária – Proagro.",
+    "data": "2026-11-19T18:36:41-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5347"
+  },
+  {
+    "id": "normativos_53048",
+    "nome": "BC - Resolução CMN N° 5.346 de 19/11/2026",
+    "descricao": "Altera a Resolução CMN nº 4.966, de 25 de novembro de 2021, que dispõe sobre os conceitos e os critérios contábeis aplicáveis a instrumentos financeiros, bem como para a designação e o reconhecimento das relações de proteção (contabilidade de hedge) pelas instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil, e a Resolução CMN nº 4.842, de 30 de julho de 2020, que consolida os critérios gerais para mensuração e reconhecimento de ativos e passivos fiscais, correntes e diferidos, pelas instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil.",
+    "data": "2026-11-19T18:36:19-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5346"
+  },
+  {
+    "id": "normativos_53047",
+    "nome": "BC - Resolução CMN N° 5.345 de 19/11/2026",
+    "descricao": "Altera a Resolução CMN nº 4.911, de 27 de maio de 2021, que dispõe sobre os critérios gerais para elaboração e remessa de documentos contábeis ao Banco Central do Brasil pelas instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil.",
+    "data": "2026-11-19T18:35:59-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5345"
+  },
+  {
+    "id": "normativos_53046",
+    "nome": "BC - Resolução BCB N° 606 de 19/11/2026",
+    "descricao": "Altera as Resoluções BCB ns. 75, de 23 de fevereiro de 2021, e 129, de 19 de agosto de 2021, e o Regulamento do Sistema Especial de Liquidação e de Custódia – Selic, anexo à Resolução BCB nº 55, de 16 de dezembro de 2020, para dispor sobre o procedimento de adesão facultativa para a readequação dos valores financeiros das operações compromissadas com livre movimentação dos títulos efetuadas pelo Banco Central do Brasil, a constituição de depósitos voluntários a prazo de instituições financeiras não liquidantes no Banco Central do Brasil para fins de política monetária e a atualização de práticas operacionais e nomenclaturas no referido Regulamento.",
+    "data": "2026-11-19T18:13:11-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=606"
+  },
+  {
+    "id": "normativos_53044",
+    "nome": "BC - Instrução Normativa BCB N° 788 de 16/11/2026",
+    "descricao": "Altera a Instrução Normativa nº 374, de 26 de abril de 2023, que divulga procedimentos, prazos, documentos e informações necessários para a instrução de pedidos de autorização relacionados ao funcionamento dos Sistemas de Mercado Financeiro (SMF) no âmbito do Sistema de Pagamentos Brasileiro (SPB), e os tipos de alterações nos SMF e em seus regulamentos que representam risco relevante à sua segurança, à sua eficiência ou à solidez e ao normal funcionamento do SPB ou do Sistema Financeiro Nacional (SFN).",
+    "data": "2026-11-19T10:34:22-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=788"
+  },
+  {
     "id": "normativos_53041",
     "nome": "BC - Instrução Normativa BCB N° 786 de 05/11/2026",
     "descricao": "Altera as Instruções Normativas BCB ns. 426, 428, 430, 431 e 433, todas de 1º de dezembro de 2023, que definem as rubricas contábeis do elenco de contas do Padrão Contábil das Instituições Reguladas pelo Banco Central do Brasil (Cosif).",
@@ -12,13 +68,6 @@
     "descricao": "Altera o Regulamento do Programa de Assistência à Saúde dos Servidores do Banco Central – PASBC, anexo à Resolução BCB nº 415, de 24 de setembro de 2024.",
     "data": "2026-11-16T10:22:44-03:00",
     "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=605"
-  },
-  {
-    "id": "normativos_53044",
-    "nome": "BC - Instrução Normativa BCB N° 788 de 16/11/2026",
-    "descricao": "Altera a Instrução Normativa nº 374, de 26 de abril de 2023, que divulga procedimentos, prazos, documentos e informações necessários para a instrução de pedidos de autorização relacionados ao funcionamento dos Sistemas de Mercado Financeiro (SMF) no âmbito do Sistema de Pagamentos Brasileiro (SPB), e os tipos de alterações nos SMF e em seus regulamentos que representam risco relevante à sua segurança, à sua eficiência ou à solidez e ao normal funcionamento do SPB ou do Sistema Financeiro Nacional (SFN).",
-    "data": "2026-11-16T10:08:28-03:00",
-    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=788"
   },
   {
     "id": "normativos_53042",
