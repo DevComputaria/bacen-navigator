@@ -13,57 +13,103 @@
 
 Altera a Instrução Normativa BCB nº 506, de 29 de agosto de 2024.
 
+## Diário Oficial da União
+
+Publicada no DOU de 24/11/2026, Seção 1, p. 111/112.
+
 ## Texto
 
-A Chefe substituta do Departamento de Operações do Mercado Aberto (Demab), no uso da atribuição que confere o art. 23, inciso I, alínea “a”, do Regimento Interno do Banco Central do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, e tendo
-em conta o disposto no art. 2º da Resolução BCB nº 55, de 16 de dezembro de 2020,
+Resolução Nº 222
 
-R E S O L V E:
+INSTRUÇÃO
+NORMATIVA BCB Nº 789, DE 19 DE NOVEMBRO DE 2026
 
-Art. 1º A Instrução Normativa BCB nº 506, de 29 de agosto de 2024, passa a vigorar com as seguintes alterações:
+Altera a Instrução Normativa BCB nº
+506, de 29 de agosto de 2024.
 
-“Art.15 .......................................................................................................
+A Chefe substituta do
+Departamento de Operações do Mercado Aberto (Demab), no uso da atribuição que
+confere o art. 23, inciso I, alínea “a”, do Regimento Interno do Banco Central
+do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, e tendo em
+conta o disposto no art. 2º da Resolução BCB nº 55, de 16 de dezembro de 2020,
 
-III - inseridos em tela dos módulos Oferta Pública (Ofpub) ou Oferta a
-Dealers (Ofdealers) pelo participante ou por seu liquidante-padrão, conforme o caso, para:
+R E S O L V E :
 
-a) constituição ou liberação antecipada de depósito voluntário a prazo no Banco Central do Brasil; e
+Art. 1º  A Instrução
+Normativa BCB nº 506, de 29 de agosto de 2024, passa a vigorar com as seguintes
+alterações:
 
-b) operações de que trata o art.74, inciso I do Regulamento do Selic;
+“Art.15.  ...................................................................................................................................
 
-IV - inseridos em tela do módulo Oferta Pública (Ofpub) pelo participante ou por seu liquidante-padrão ou pelo Banco Central do Brasil, desde que apresente débito financeiro no resultado compensado,
-para as operações de que trata o art. 74, inciso IV do Regulamento do Selic;
+.................................................................................................................................................
 
-V - enviados por meio de mensagem transmitida na Rede do Sistema Financeiro Nacional (RSFN), conforme estabelecido em normativo expedido pelo Banco Central do Brasil;
+III - inseridos em tela dos módulos
+Oferta Pública (Ofpub) ou Oferta a Dealers (Ofdealers) pelo
+participante ou por seu liquidante-padrão, conforme o caso, para:
 
-VI - enviados por meio de arquivo transmitido na RSFN, pelo participante responsável pelo Tesouro Direto, para os comandos relativos às contas individualizadas do Tesouro Direto; ou
+a) constituição ou liberação
+antecipada de depósito voluntário a prazo no Banco Central do Brasil; e
 
-VII - enviados por meio da plataforma
-Pre-matching, quando esse envio for autorizado pelo participante transmissor de comandos relativos à ponta 1 em uma intermediação em que há apenas um único vendedor para diversos compradores (“1:N”) ou um único comprador para diversos vendedores (“N:1”).
+b) operações de que trata o art.74,
+inciso I do Regulamento do Selic;
 
-.........................................................................
+IV - inseridos em tela do módulo
+Oferta Pública (Ofpub) pelo participante ou por seu liquidante-padrão ou pelo
+Banco Central do Brasil, desde que apresente débito financeiro no resultado
+compensado, para as operações de que trata o art. 74, inciso IV do Regulamento
+do Selic;
 
-§ 2º ....................................................................
+V - enviados por meio de mensagem
+transmitida na Rede do Sistema Financeiro Nacional (RSFN), conforme
+estabelecido em normativo expedido pelo Banco Central do Brasil;
 
-II - nas operações compromissadas contratadas com o Banco Central do Brasil pelos módulos Ofpub e
-Ofdealers, com exceção das operações mencionadas nos incisos III, alínea "b", e IV do
-caput;
+VI - enviados por meio de arquivo
+transmitido na RSFN, pelo participante responsável pelo Tesouro Direto, para os
+comandos relativos às contas individualizadas do Tesouro Direto; ou
 
-...........................................................................................................” (NR)
+VII - enviados por meio da plataforma Pre-matching,
+quando esse envio for autorizado pelo participante transmissor de comandos
+relativos à ponta 1 em uma intermediação em que há apenas um único vendedor
+para diversos compradores (“1:N”) ou um único comprador para diversos
+vendedores (“N:1”).
 
-Art. 2º Esta Instrução Normativa entra em vigor em 27 de novembro de 2026.
+.................................................................................................................................................
 
-Beatriz da Costa Lourenço
+§ 2º  .........................................................................................................................................
+
+.................................................................................................................................................
+
+II - nas operações compromissadas
+contratadas com o Banco Central do Brasil pelos módulos Ofpub e Ofdealers,
+com exceção das operações mencionadas nos incisos III, alínea "b", e
+IV do caput;
+
+.......................................................................................................................................”
+(NR)
+
+Art. 2º  Esta Instrução
+Normativa entra em vigor em 27 de novembro de 2026.
+
+BEATRIZ
+DA COSTA LOURENÇO
 
 NOTA
 
-A presente instrução normativa altera a Instrução Normativa BCB nº 506, de 29 de agosto de 2024, que estabelece prazos, horários e procedimentos operacionais previstos no Regulamento do Sistema Especial de Liquidação e de Custódia (Selic), anexo à Resolução
-BCB nº 55, de 16 de dezembro de 2020.
+A presente instrução
+normativa altera a Instrução Normativa BCB nº 506, de 29 de agosto de 2024, que
+estabelece prazos, horários e procedimentos operacionais previstos no
+Regulamento do Sistema Especial de Liquidação e de Custódia (Selic), anexo à
+Resolução BCB nº 55, de 16 de dezembro de 2020.
 
-2.         O decreto nº 10.411, de 30 de junho de 2020, regulamenta a realização de análise de impacto regulatório (AIR) como pré-requisito à edição de ato normativo. Entretanto, em seu artigo 4º, o referido decreto estabelece as hipóteses de dispensa de realização
-de AIR. A presente instrução normativa se enquadra na hipótese prevista no inciso III, ato normativo considerado de baixo impacto, pois apenas orienta a execução de obrigação já contida em outra norma vigente. Assim, com base no inciso III do art. 4º do Decreto
-nº 10.411, de 2020, entendo que a edição da presente IN BCB dispensa a realização de AIR.
+2.               O Decreto
+nº 10.411, de 30 de junho de 2020, regulamenta a realização de análise de
+impacto regulatório (AIR) como pré-requisito à edição de ato normativo.
+Entretanto, em seu artigo 4º, o referido decreto estabelece as hipóteses de
+dispensa de realização de AIR. A presente instrução normativa se enquadra na
+hipótese prevista no inciso III, ato normativo considerado de baixo impacto,
+pois apenas orienta a execução de obrigação já contida em outra norma vigente.
+Assim, com base no inciso III do art. 4º do Decreto nº 10.411, de 2020, entendo
+que a edição da presente IN BCB dispensa a realização de AIR.
 
-Beatriz da Costa Lourenço
-
+BEATRIZ DA COSTA LOURENÇO
 Chefe substituta do Demab

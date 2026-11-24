@@ -1,24 +1,31 @@
 [
   {
-    "id": "normativos_53046",
-    "nome": "BC - Resolução BCB N° 606 de 19/11/2026",
-    "descricao": "Altera as Resoluções BCB ns. 75, de 23 de fevereiro de 2021, e 129, de 19 de agosto de 2021, e o Regulamento do Sistema Especial de Liquidação e de Custódia – Selic, anexo à Resolução BCB nº 55, de 16 de dezembro de 2020, para dispor sobre o procedimento de adesão facultativa para a readequação dos valores financeiros das operações compromissadas com livre movimentação dos títulos efetuadas pelo Banco Central do Brasil, a constituição de depósitos voluntários a prazo de instituições financeiras não liquidantes no Banco Central do Brasil para fins de política monetária e a atualização de práticas operacionais e nomenclaturas no referido Regulamento.",
-    "data": "2026-11-23T17:48:54-03:00",
-    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=606"
-  },
-  {
     "id": "normativos_53052",
     "nome": "BC - Instrução Normativa BCB N° 789 de 19/11/2026",
     "descricao": "Altera a Instrução Normativa BCB nº 506, de 29 de agosto de 2024.",
-    "data": "2026-11-19T18:52:06-03:00",
+    "data": "2026-11-24T18:31:03-03:00",
     "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=789"
+  },
+  {
+    "id": "normativos_53043",
+    "nome": "BC - Resolução BCB N° 605 de 13/11/2026",
+    "descricao": "Altera o Regulamento do Programa de Assistência à Saúde dos Servidores do Banco Central – PASBC, anexo à Resolução BCB nº 415, de 24 de setembro de 2024.",
+    "data": "2026-11-24T18:22:21-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=605"
   },
   {
     "id": "normativos_53051",
     "nome": "BC - Resolução BCB N° 607 de 19/11/2026",
     "descricao": "Altera a Resolução BCB nº 560, de 23 de abril de 2026, para postergar a data da entrada em vigor dos dispositivos relativos ao indicador Liquidez de Curto Prazo Simplificado – LCRS e dispor sobre hipótese de dispensa do cumprimento dos limites mínimos.",
-    "data": "2026-11-19T18:37:33-03:00",
+    "data": "2026-11-24T16:26:38-03:00",
     "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=607"
+  },
+  {
+    "id": "normativos_53046",
+    "nome": "BC - Resolução BCB N° 606 de 19/11/2026",
+    "descricao": "Altera as Resoluções BCB ns. 75, de 23 de fevereiro de 2021, e 129, de 19 de agosto de 2021, e o Regulamento do Sistema Especial de Liquidação e de Custódia – Selic, anexo à Resolução BCB nº 55, de 16 de dezembro de 2020, para dispor sobre o procedimento de adesão facultativa para a readequação dos valores financeiros das operações compromissadas com livre movimentação dos títulos efetuadas pelo Banco Central do Brasil, a constituição de depósitos voluntários a prazo de instituições financeiras não liquidantes no Banco Central do Brasil para fins de política monetária e a atualização de práticas operacionais e nomenclaturas no referido Regulamento.",
+    "data": "2026-11-23T17:48:54-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=606"
   },
   {
     "id": "normativos_53050",
@@ -61,13 +68,6 @@
     "descricao": "Altera as Instruções Normativas BCB ns. 426, 428, 430, 431 e 433, todas de 1º de dezembro de 2023, que definem as rubricas contábeis do elenco de contas do Padrão Contábil das Instituições Reguladas pelo Banco Central do Brasil (Cosif).",
     "data": "2026-11-17T16:15:22-03:00",
     "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=786"
-  },
-  {
-    "id": "normativos_53043",
-    "nome": "BC - Resolução BCB N° 605 de 13/11/2026",
-    "descricao": "Altera o Regulamento do Programa de Assistência à Saúde dos Servidores do Banco Central – PASBC, anexo à Resolução BCB nº 415, de 24 de setembro de 2024.",
-    "data": "2026-11-16T10:22:44-03:00",
-    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=605"
   },
   {
     "id": "normativos_53042",
