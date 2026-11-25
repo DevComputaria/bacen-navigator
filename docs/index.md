@@ -1,20 +1,26 @@
 # Índice de textos das normativas
 
-**Total extraído:** 513
+**Total extraído:** 519
 
-**Última atualização:** 2026-11-25T12:44:01.045852+00:00
+**Última atualização:** 2026-11-25T23:36:08.623010+00:00
 
 Este arquivo é gerado automaticamente por `scripts/extract_bacen_texts.py`.
 
 ## 2026
 
+- [BC - Resolução BCB N° 610 de 25/11/2026](2026/normativos_53058/normativa.md) — `normativos_53058`
+- [BC - Resolução BCB N° 609 de 25/11/2026](2026/normativos_53057/normativa.md) — `normativos_53057`
+- [BC - Resolução BCB N° 608 de 25/11/2026](2026/normativos_53056/normativa.md) — `normativos_53056`
+- [BC - Resolução CMN N° 5.350 de 25/11/2026](2026/normativos_53055/normativa.md) — `normativos_53055`
+- [BC - Resolução CMN N° 5.349 de 25/11/2026](2026/normativos_53054/normativa.md) — `normativos_53054`
+- [BC - Resolução Conjunta N° 22 de 25/11/2026](2026/normativos_53053/normativa.md) — `normativos_53053`
+- [BC - Resolução CMN N° 5.346 de 19/11/2026](2026/normativos_53048/normativa.md) — `normativos_53048`
+- [BC - Resolução CMN N° 5.348 de 19/11/2026](2026/normativos_53050/normativa.md) — `normativos_53050`
 - [BC - Instrução Normativa BCB N° 789 de 19/11/2026](2026/normativos_53052/normativa.md) — `normativos_53052`
 - [BC - Resolução BCB N° 605 de 13/11/2026](2026/normativos_53043/normativa.md) — `normativos_53043`
 - [BC - Resolução BCB N° 607 de 19/11/2026](2026/normativos_53051/normativa.md) — `normativos_53051`
 - [BC - Resolução BCB N° 606 de 19/11/2026](2026/normativos_53046/normativa.md) — `normativos_53046`
-- [BC - Resolução CMN N° 5.348 de 19/11/2026](2026/normativos_53050/normativa.md) — `normativos_53050`
 - [BC - Resolução CMN N° 5.347 de 19/11/2026](2026/normativos_53049/normativa.md) — `normativos_53049`
-- [BC - Resolução CMN N° 5.346 de 19/11/2026](2026/normativos_53048/normativa.md) — `normativos_53048`
 - [BC - Resolução CMN N° 5.345 de 19/11/2026](2026/normativos_53047/normativa.md) — `normativos_53047`
 - [BC - Instrução Normativa BCB N° 788 de 16/11/2026](2026/normativos_53044/normativa.md) — `normativos_53044`
 - [BC - Instrução Normativa BCB N° 786 de 05/11/2026](2026/normativos_53041/normativa.md) — `normativos_53041`
