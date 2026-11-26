@@ -1,5 +1,40 @@
 [
   {
+    "id": "normativos_53063",
+    "nome": "BC - Resolução CMN N° 5.353 de 26/11/2026",
+    "descricao": "Altera a Resolução CMN nº 5.095, de 24 de agosto de 2023, que dispõe sobre os financiamentos ao amparo de recursos do Fundo Nacional sobre Mudança do Clima – FNMC.",
+    "data": "2026-11-26T18:04:08-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5353"
+  },
+  {
+    "id": "normativos_53062",
+    "nome": "BC - Resolução CMN N° 5.352 de 26/11/2026",
+    "descricao": "Altera o anexo à Resolução CMN nº 4.995, de 24 de março de 2022.",
+    "data": "2026-11-26T18:03:05-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5352"
+  },
+  {
+    "id": "normativos_53061",
+    "nome": "BC - Resolução CMN N° 5.351 de 26/11/2026",
+    "descricao": "Disciplina as operações de crédito com recursos do Fundo Nacional de Desenvolvimento Científico e Tecnológico destinadas à disseminação tecnológica na produção agrícola, nos termos do art. 15-A da Lei nº 11.540, de 12 de novembro de 2007, com a redação dada pela Lei nº 15.528, de 11 de novembro de 2026.",
+    "data": "2026-11-26T18:02:31-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5351"
+  },
+  {
+    "id": "normativos_53060",
+    "nome": "BC - Resolução BCB N° 611 de 26/11/2026",
+    "descricao": "Altera a Resolução BCB nº 146, de 28 de setembro de 2021, que dispõe sobre os critérios gerais para elaboração e remessa de documentos contábeis pelas instituições obrigadas a utilizar o Padrão Contábil das Instituições Reguladas pelo Banco Central do Brasil – Cosif por força da Resolução BCB nº 92, de 6 de maio de 2021, e sobre os procedimentos específicos a serem observados na elaboração e remessa de documentos contábeis pelas instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil.",
+    "data": "2026-11-26T18:01:23-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=611"
+  },
+  {
+    "id": "normativos_53059",
+    "nome": "BC - Instrução Normativa BCB N° 790 de 26/11/2026",
+    "descricao": "Altera as Instruções Normativas BCB ns. 426, 428, 429, 430, 431, 432 e 433, todas de 1º de dezembro de 2023, que definem as rubricas contábeis do elenco de contas do Padrão Contábil das Instituições Reguladas pelo Banco Central do Brasil (Cosif).",
+    "data": "2026-11-26T10:31:23-03:00",
+    "link": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=790"
+  },
+  {
     "id": "normativos_53058",
     "nome": "BC - Resolução BCB N° 610 de 25/11/2026",
     "descricao": "Altera a Resolução BCB nº 96, de 19 de maio de 2021, que dispõe sobre a abertura, a manutenção e o encerramento de contas de pagamento.",
